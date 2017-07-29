@@ -12,6 +12,11 @@
   * [Connectivity](/components/connectivity.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Experimental](/components/experimental.md)
+* Other
+  * [Release Notes](/other/release-notes)
+  * [Extensions](/other/extensions)
+  * [Live Development](/other/live-development)
+  * [Backpack](/other/backpack)
 
 
 
