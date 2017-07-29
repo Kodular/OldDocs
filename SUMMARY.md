@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [User Interface](user-interface.md)
-* Components
+* [Components](/components.md)
+  * [User Interface](user-interface.md)
+
+
 
