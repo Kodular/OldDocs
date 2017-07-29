@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Components](/components.md)
-  * [User Interface](user-interface.md)
+  * User Interface
   * Layout
   * Media
   * Drawing and Animation
