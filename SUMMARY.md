@@ -17,6 +17,16 @@
   * [Extensions](/other/extensions)
   * [Live Development](/other/live-development)
   * [Backpack](/other/backpack)
+* Blocks
+  * [Control](/blocks/control)
+  * [Logic](/blocks/logic)
+  * [Math](/blocks/math)
+  * [Text](/blocks/text)
+  * [Lists](/blocks/lists)
+  * [Colors](/blocks/colors)
+  * [Variables](/blocks/variables)
+  * [Procedures](/blocks/procedures)
+  * [Screen](/blocks/screen)
 
 
 
