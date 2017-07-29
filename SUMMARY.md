@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Components](chapter1.md)
+* [Components](https://docs.makeroid.tk/components.html)
   * [User Interface](user-interface.md)
 
 
