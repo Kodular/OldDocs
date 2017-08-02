@@ -11,6 +11,7 @@
   * [Storage](/components/storage.md)
   * [Connectivity](/components/connectivity.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
+  * [Monetization](components/monetization.md)
   * [Experimental](/components/experimental.md)
 * Blocks
   * [Control](/blocks/control.md)
@@ -22,7 +23,7 @@
   * [Variables](/blocks/variables.md)
   * [Procedures](/blocks/procedures.md)
   * [Screen](/blocks/screen.md)
-* Other
+* [Other](other.md)
   * [Release Notes](/other/release-notes.md)
   * [Extensions](/other/extensions.md)
   * [Live Development](/other/live-development.md)
