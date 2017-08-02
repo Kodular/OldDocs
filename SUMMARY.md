@@ -12,11 +12,6 @@
   * [Connectivity](/components/connectivity.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Experimental](/components/experimental.md)
-* Other
-  * [Release Notes](/other/release-notes.md)
-  * [Extensions](/other/extensions.md)
-  * [Live Development](/other/live-development.md)
-  * [Backpack](/other/backpack.md)
 * Blocks
   * [Control](/blocks/control.md)
   * [Logic](/blocks/logic.md)
@@ -27,6 +22,9 @@
   * [Variables](/blocks/variables.md)
   * [Procedures](/blocks/procedures.md)
   * [Screen](/blocks/screen.md)
-
-
+* Other
+  * [Release Notes](/other/release-notes.md)
+  * [Extensions](/other/extensions.md)
+  * [Live Development](/other/live-development.md)
+  * [Backpack](/other/backpack.md)
 
