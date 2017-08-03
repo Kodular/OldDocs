@@ -44,7 +44,7 @@ This tutorial will guide you to create extensions for Makeroid.
 
 * Unzip the folder and move it to a place where it is safe
 
-  > :warning: _Be sure not to install them in a directory whose path contains spaces_
+  > :warning: _Be sure not to place it in a directory whose path contains spaces_
 
 ### Step 5: Checking Installation
 
