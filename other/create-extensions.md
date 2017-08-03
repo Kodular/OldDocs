@@ -49,6 +49,8 @@ This tutorial will guide you to create extensions for Makeroid.
 To check whether you have everything installed correctly, just open a Command Prompt and check the following:
 
 * **Check Java:** Execute `java -version`
+  
+  _The Output will be like this_:
 
 ```
   C:\Users\Pavitra>java -version
@@ -58,6 +60,8 @@ To check whether you have everything installed correctly, just open a Command Pr
 ```
 
 * **Check Ant**: Execute `ant -version`
+  
+  _The Output will be like this_:
 
 ```
   C:\Users\Pavitra>ant -version
