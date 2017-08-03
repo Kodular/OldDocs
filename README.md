@@ -6,7 +6,7 @@ For any further help, please visit [Makeroid Community](https://community.makero
 
 
 
-{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smWKqIUIGzk" frameborder="0" allowfullscreen></iframe>
 
 
 
