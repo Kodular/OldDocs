@@ -33,4 +33,5 @@
 
 * [Backpack](/other/backpack.md)
 * [Extensions](/other/extensions.md)
+* [Create Extensions](other/create-extensions.md)
 
