@@ -1,5 +1,5 @@
 {
-    "plugins" : ["custom-favicon"],
+    "plugins" : ["custom-favicon", "advanced-emoji"],
     "pluginsConfig" : {
         "favicon": "http://res.cloudinary.com/dboivc36o/image/upload/c_scale,w_16/v1501793845/MakeroidLogo.png"
     }
