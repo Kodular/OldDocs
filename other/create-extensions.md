@@ -9,7 +9,7 @@ This tutorial will guide you to create extensions for Makeroid.
 * [App Inventor Sources ](https://github.com/mit-cml/appinventor-sources)
 * [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Apache Ant](http://ant.apache.org/bindownload.cgi)
-* Java IDE/Text Editor \(Eclipse, NetBeans, IntelliJ IDEA, [Notepad++](https://notepad-plus-plus.org) are recommended\)
+* Java IDE/Text Editor \([Eclipse](http://www.eclipse.org/downloads/eclipse-packages/), [NetBeans](https://netbeans.org/downloads/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org) are recommended\)
 
 > Download everything listed above and let's get started!
 
