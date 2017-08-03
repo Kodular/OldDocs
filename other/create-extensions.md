@@ -26,8 +26,6 @@ This tutorial will guide you to create extensions for Makeroid.
 
     `%JAVA_HOME%/bin`, `%JAVA_HOME%/jre/bin`, `C:\ProgramData\Oracle\Java\javapath`
 
-  * ~~Set** **~~`CLASSPATH`~~ to ~~`%JAVA_HOME%/lib/dt.jar;%JAVA_HOME%/lib/tools.jar`
-
 ### Step 2: Setting up Apache Ant
 
 * Unzip the folder and move it to a place where it is safe. For example: `C:\apache-ant-1.10.1`
@@ -81,8 +79,16 @@ To check whether you have everything installed correctly, just open a Command Pr
 
 * Type `ant extensions` and click on enter.
 
-If says: `BUILD SUCCESSFUL`, then you can create Extensions :tada:  
-If says: `BUILD FAILED`, then you did something wrong.
+_**Wait for the extension to build...**_
+
+If it says: `BUILD SUCCESSFUL`, then you just created an extension :tada:  
+But if it says: `BUILD FAILED`, then you did something wrong and have to look over again.
+
+---
+
+#### Keep making more and more and more extensions and help our community to build the best app.
+
+#### [Share your extensions](https://community.makeroid.tk/c/extensions) with our community and become an "[Extension Developer](https://community.makeroid.tk/badges/102/extension-developer)".
 
 ---
 
