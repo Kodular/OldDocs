@@ -26,6 +26,9 @@
 * [Other](other.md)
   * [Release Notes](/other/release-notes.md)
   * [Extensions](/other/extensions.md)
-  * [Live Development](/other/live-development.md)
   * [Backpack](/other/backpack.md)
+
+## Testing
+
+* [Live Development](/other/live-development.md)
 
