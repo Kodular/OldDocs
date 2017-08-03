@@ -23,12 +23,14 @@
   * [Variables](/blocks/variables.md)
   * [Procedures](/blocks/procedures.md)
   * [Screen](/blocks/screen.md)
-* [Other](other.md)
-  * [Release Notes](/other/release-notes.md)
-  * [Extensions](/other/extensions.md)
-  * [Backpack](/other/backpack.md)
+  * Any Component
 
 ## Testing
 
 * [Live Development](/other/live-development.md)
+
+## Other
+
+* [Backpack](/other/backpack.md)
+* [Extensions](/other/extensions.md)
 
