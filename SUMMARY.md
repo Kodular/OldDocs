@@ -23,7 +23,7 @@
   * [Variables](/blocks/variables.md)
   * [Procedures](/blocks/procedures.md)
   * [Screen](/blocks/screen.md)
-  * Any Component
+  * [Any Component](blocks/any-component.md)
 
 ## Testing
 
