@@ -13,7 +13,7 @@
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Monetization](components/monetization.md)
   * [Experimental](/components/experimental.md)
-* Blocks
+* [Blocks](blocks.md)
   * [Control](/blocks/control.md)
   * [Logic](/blocks/logic.md)
   * [Math](/blocks/math.md)
