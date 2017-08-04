@@ -1,20 +1,20 @@
 # Control blocks
 
-* if & if else
-* for each from to
-* for each in list
-* while
-* if then else
-* do
-* evaluate but ignore result
-* open another screen
-* open another screen with start value
-* get start value
-* close screen
-* close screen with value
-* close application
-* get plain start text
-* close screen with plain text
+* [if & if else](#if)
+* [for each from to](#forrange)
+* [for each in list](#foreach)
+* [while](#while)
+* [if then else](#choose)
+* [do](#doreturn)
+* [evaluate but ignore result](#evaluate)
+* [open another screen](#openscreen)
+* [open another screen with start value](#openscreenwithvalue)
+* [get start value](#getstartvalue)
+* [close screen](#closescreen)
+* [close screen with value](#closescreenwithvalue)
+* [close application](#closeapp)
+* [get plain start text](#getplainstarttext)
+* [close screen with plain text](#closescreenwithplaintext)
 
 ---
 
@@ -24,18 +24,14 @@
 
 Tests a given condition. If the condition is true, performs the actions in a given sequence of blocks; otherwise, the blocks are ignored.
 
-
-
 ![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/control/ifelse.png)
 
 Tests a given condition. If the result is true, performs the actions in the -do sequence of blocks; otherwise, performs the actions in the -else sequence of blocks.
 
-
-
 ![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/control/ifelseif.png)
 
-Tests a given condition. If the result is true, performs the actions in the -do sequence of blocks; otherwise tests the statement in the -else if section. If the result is true, performs the actions in the -do sequence of blocks; otherwise, performs the actions in the -else sequence of blocks.  
-  
+Tests a given condition. If the result is true, performs the actions in the -do sequence of blocks; otherwise tests the statement in the -else if section. If the result is true, performs the actions in the -do sequence of blocks; otherwise, performs the actions in the -else sequence of blocks.
+
 The gif below shows how to use the if else mutator block.  
 ![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/control/if.gif)
 
@@ -45,7 +41,7 @@ The gif below shows how to use the if else mutator block.
 
 ![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/control/forrange.png)
 
-Runs the blocks in the do section for each numeric value in the range starting at_from_and ending at_to_, incrementing_number_by the value of_by_each time. Use the given variable name,_number_to refer to the current value. You can change the name_number_to something else if you wish.
+Runs the blocks in the do section for each numeric value in the range starting at_from\_and ending at\_to_, incrementing\_number\_by the value of\_by\_each time. Use the given variable name,\_number\_to refer to the current value. You can change the name\_number\_to something else if you wish.
 
 ---
 
@@ -53,7 +49,7 @@ Runs the blocks in the do section for each numeric value in the range starting a
 
 ![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/control/foreach.png)
 
-Runs the blocks in the do section for each item in the list. Use the given variable name,_item_, to refer to the current list item. You can change the name_item_to something else if you wish.
+Runs the blocks in the do section for each item in the list. Use the given variable name,_item_, to refer to the current list item. You can change the name\_item\_to something else if you wish.
 
 ---
 
