@@ -21,12 +21,12 @@
 
 `01 Aug 2017`
 
-* `NEW` Added option to change tab in blocks 
-* `NEW` Reset the custom menu from blocks 
-* `NEW` Added this Release Notes 
-* `IMPROVED` Static files 
-* `FIXED` Textboxes that can be resized became rounded 
-* `FIXED` Random error in Background Color to some components 
+* `NEW` Added option to change tab in blocks
+* `NEW` Reset the custom menu from blocks
+* `NEW` Added this Release Notes
+* `IMPROVED` Static files
+* `FIXED` Textboxes that can be resized became rounded
+* `FIXED` Random error in Background Color to some components
 
 <!-- /timeline -->
 
@@ -36,9 +36,9 @@
 
 `25 Jul 2017`
 
-* `NEW` Added an amazing Material Design to the builder 
-* `IMPROVED` Build server 
-* `FIXED` Crash on load to built apps 
+* `NEW` Added an amazing Material Design to the builder
+* `IMPROVED` Build server
+* `FIXED` Crash on load to built apps
 
 <!-- /timeline -->
 
@@ -48,6 +48,6 @@
 
 `23 Jul 2017`
 
-* `NEW` This is our first version There can be lots of bugs 
+* `NEW` This is our first version There can be lots of bugs
 
 <!-- /timeline -->
