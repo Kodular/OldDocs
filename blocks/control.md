@@ -1,4 +1,4 @@
-# Control blocks
+# Control Blocks
 
 * [if & if else](#if)
 * [for each from to](#forrange)
