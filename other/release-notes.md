@@ -1,3 +1,5 @@
+#Release Notes
+---
 <!-- timeline -->
 
 ## 1-M170803_R
@@ -19,12 +21,12 @@
 
 `01 Aug 2017`
 
-`NEW` Added option to change tab in blocks 
-`NEW` Reset the custom menu from blocks 
-`NEW` Added this ReleaseNotes 
-`IMPROVED` Static files 
-`FIXED` Textboxes that can be resized became rounded 
-`FIXED` Random error in BackgroundColor to some components 
+* `NEW` Added option to change tab in blocks 
+* `NEW` Reset the custom menu from blocks 
+* `NEW` Added this Release Notes 
+* `IMPROVED` Static files 
+* `FIXED` Textboxes that can be resized became rounded 
+* `FIXED` Random error in Background Color to some components 
 
 <!-- /timeline -->
 
