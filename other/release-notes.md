@@ -1,19 +1,14 @@
 <!-- timeline -->
 
-## 2017-07-17
+## 1-M170803_R
 
-`2017-07-17`
+`03 Aug 2017`
 
-- 新增组件
-
-<!-- /timeline -->
-
-<!-- timeline -->
-
-## 2017-07-18
-
-`2017-07-18`
-
-- 新增组件-2
+* `NEW` Released Companion
+* `NEW` New version tagging
+* `UPDATE` New logos!
+* `UPDATE` Option to set clickable components \(image & label\)
+* `UPDATE` Change default StatusBar and TitleBar colors
+* `FIXED` Some bugs
 
 <!-- /timeline -->
