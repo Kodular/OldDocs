@@ -13,7 +13,17 @@
   * [Connectivity](/components/connectivity.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Monetization](components/monetization.md)
-  * [Experimental](/components/experimental.md)
+  * [Blocks](blocks.md)
+    * [Control](/blocks/control.md)
+    * [Logic](/blocks/logic.md)
+    * [Math](/blocks/math.md)
+    * [Text](/blocks/text.md)
+    * [Lists](/blocks/lists.md)
+    * [Colors](/blocks/colors.md)
+    * [Variables](/blocks/variables.md)
+    * [Procedures](/blocks/procedures.md)
+    * [Screen](/blocks/screen.md)
+    * [Any Component](blocks/any-component.md)
 * [Blocks](blocks.md)
   * [Control](/blocks/control.md)
   * [Logic](/blocks/logic.md)
@@ -32,8 +42,8 @@
 
 ## Other
 
-* [Backpack](/other/backpack.md)
 * [Extensions](/other/extensions.md)
-* [Create Extensions](other/create-extensions.md)
 * [Release Notes](other/release-notes.md)
+* [Create Extensions](other/create-extensions.md)
+* [Backpack](/other/backpack.md)
 
