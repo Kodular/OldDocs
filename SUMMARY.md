@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Components](/components.md)
   * [User Interface](/components/user-interface.md)
+    * [Button](components/user-interface/button.md)
   * [Layout](/components/layout.md)
   * [Media](/components/media.md)
   * [Drawing and Animation](/components/drawing-and-animation.md)

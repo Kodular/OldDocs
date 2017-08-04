@@ -17,26 +17,6 @@ The components in the User Interface section are used to interact with the app u
 * ###### Time Picker {#button}
 * ###### Web Viewer {#button}
 
-
-
-
-
----
-
-## Button {#button}
-
-A button is a component which can detect clicks by the user.
-
-#### Properties
-
-##### Background Color
-
-Returns the background color of the button
-
-##### Enabled
-
-The button can listen to touches only if _Enabled_ is set to true.
-
 ##### 
 
 
