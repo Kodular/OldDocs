@@ -1,6 +1,10 @@
 # Components
 
-There are a few different block types for each component. These are **Events**, **Methods **and **Properties**.
+Components are the essence of your app. Every component has a set of _properties_, _methods_ and _events_. They allow you to add functionality to your app.
 
-Properties in _italics_ are Designer Only properties, which means they cannot be changed using blocks.
+
+
+> Designer Only properties are those which cannot be changed using blocks.
+
+
 

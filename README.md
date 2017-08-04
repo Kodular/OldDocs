@@ -1,10 +1,6 @@
 # Makeroid Documentation
 
-We understand that creating your app can sometimes be a struggle. You may not know how a component works, or don't know what a certain block does? Don't worry! We've put together some very detailed and helpful docs to help you understand.
+Need some help with the components? Just looking around? Either way, the following docs will surely help you understand Makeroid better!
 
-For any further help, please visit [Makeroid Community](https://community.makeroid.tk "Join the community!")
-
-
-
-
+For further help, please visit the [Makeroid Community](https://community.makeroid.tk "Join the community!").
 
