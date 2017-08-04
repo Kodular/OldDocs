@@ -1,11 +1,10 @@
 {
     "plugins" : ["custom-favicon", "advanced-emoji", "anchors", "ribbon"],
     "pluginsConfig" : {
-        "favicon": "favicon.ico"
-    },
-    "ribbon": {
-    "color": "blue",
-    "text": "Work in Progress...",
-    "url": "https://makeroid.tk"
+        "favicon": "favicon.ico",
+        "ribbon": {
+            "color": "blue",
+            "text": "Work in Progress...",
+            "url": "https://makeroid.tk"
     }
 }
