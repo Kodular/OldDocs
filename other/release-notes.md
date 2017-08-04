@@ -1,32 +1,19 @@
-&lt;!-- timeline --&gt;
+<!-- timeline -->
 
-\#\# 1-M170803\_R
+## 2017-07-17
 
-\`03 Aug 2017\`
+`2017-07-17`
 
-* `NEW` Released Companion
-* `NEW` New version tagging
-* `UPDATE` New logos!
-* `UPDATE` Option to set clickable components \(image & label\)
-* `UPDATE` Change default StatusBar and TitleBar colors
-* `FIXED` Some bugs
+- 新增组件
 
-&lt;!-- /timeline --&gt;
+<!-- /timeline -->
 
-&lt;!-- timeline --&gt;
+<!-- timeline -->
 
-\#\# Beta 3
+## 2017-07-18
 
-\`01 Aug 2017\`
+`2017-07-18`
 
-* `NEW` Released Companion
-* `NEW` New version tagging
-* `UPDATE` New logos!
-* `UPDATE` Option to set clickable components \(image & label\)
-* `UPDATE` Change default StatusBar and TitleBar colors
-* `FIXED` Some bugs
+- 新增组件-2
 
-&lt;!-- /timeline --&gt;
-
-
-
+<!-- /timeline -->
