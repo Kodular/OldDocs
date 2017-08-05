@@ -47,3 +47,5 @@
 * [Create Extensions](other/create-extensions.md)
 * [Backpack](/other/backpack.md)
 
+## Troubleshooting
+
