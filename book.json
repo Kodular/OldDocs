@@ -1,5 +1,5 @@
 {
-    "plugins" : ["custom-favicon", "advanced-emoji", "anchors", "ribbon", "timeline", ""back-to-top-button""],
+    "plugins" : ["custom-favicon", "advanced-emoji", "anchors", "ribbon", "timeline", "back-to-top-button"],
     "pluginsConfig" : {
         "favicon": "favicon.ico",
         "ribbon": {
