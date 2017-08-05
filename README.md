@@ -4,3 +4,5 @@ Need some help with the components? Just looking around? Either way, the followi
 
 For further help, please visit the [Makeroid Community](https://community.makeroid.tk "Join the community!").
 
+![](/assets/Infographic.png)
+
