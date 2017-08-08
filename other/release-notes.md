@@ -1,8 +1,25 @@
 #Release Notes
 ---
+
 <!-- timeline -->
 
-## 1-M170803_R
+## 1.2.1
+
+`07 Aug 2017`
+
+* `NEW` Version nomenclature 
+* `NEW` Push Notifications component with OneSignal 
+* `NEW` Switch component 
+* `UPDATE` Add property to change checkbox color 
+* `IMPROVEMENT` Now we will send you notifications from the Companion of updates or important notes 
+* `FIXED` Some links that were pointing to 404 
+* `FIXED` Minor bugs fixed 
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 1.1.1
 
 `03 Aug 2017`
 
@@ -17,7 +34,7 @@
 
 <!-- timeline -->
 
-## Beta 3
+## 0.3.1
 
 `01 Aug 2017`
 
@@ -32,7 +49,7 @@
 
 <!-- timeline -->
 
-## Beta 2
+## 0.2.1 Beta
 
 `25 Jul 2017`
 
@@ -44,7 +61,7 @@
 
 <!-- timeline -->
 
-## Beta 1
+## 0.1.1 Beta
 
 `23 Jul 2017`
 
