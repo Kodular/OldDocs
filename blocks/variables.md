@@ -12,7 +12,7 @@ There are five main types of variable blocks:
 
 ### initialize global name to {#global}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/variables/initializeglobal.png)
+![](/assets/variables/initializeglobal.png)
 
 This block is used to create global variables. It takes in any type of value as an argument. Clicking on\_name\_will change the name of this global variable. Global variables are used in all procedures or events so this block will stand alone.
 
@@ -22,7 +22,7 @@ Global variables can be changed while an app is running and can be referred to a
 
 ### get {#get}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/variables/get.png)
+![](/assets/variables/get.png)
 
 This block provides a way to get any variables you may have created.
 
@@ -30,7 +30,7 @@ This block provides a way to get any variables you may have created.
 
 ### set to {#set}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/variables/set.png)
+![](/assets/variables/set.png)
 
 This block follows the same rules as get. Only variables in scope will be available in the dropdown. Once a variable `var` is selected, the user can attach a new block and give `var` a new value.
 
@@ -38,7 +38,7 @@ This block follows the same rules as get. Only variables in scope will be availa
 
 ### initialize Local name to - in \(do\) {#do}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/variables/initializelocaldo.png)
+![](/assets/variables/initializelocaldo.png)
 
 This block is a mutator that allows you to create new variables that are only used in the procedure you run in the DO part of the block. This way all variables in this procedure will all start with the same value each time the procedure is run.
 
@@ -50,7 +50,7 @@ You can rename the variables in this block at any time and any corresponding blo
 
 ### initialize Local name to - in \(return\) {#return}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/variables/initializelocalreturn.png)
+![](/assets/variables/initializelocalreturn.png)
 
 This block is a mutator that allows you to create new variables that are only used in the procedure you run in the RETURN part of the block. This way all variables in this procedure will all start with the same value each time the procedure is run.
 
