@@ -11,37 +11,37 @@
 * [≤](#lte)
 * [+](#add)
 * [-](#subtract)
-* x
-* /
-* ^
-* random integer
-* random fraction
-* random set seed to
-* min
-* max
-* square root
-* absolute
-* -
-* log
-* e^
-* round
-* ceiling
-* floor
-* modulo
-* remainder
-* quotient
-* sin
-* cos
-* tan
-* asin
-* acos
-* atan
-* atan2
-* convert radians to degrees
-* convert degrees to radians
-* format as a decimal
-* is a number
-* convert number
+* [x](#multiply)
+* [/](#divide)
+* [^](#exponent)
+* [random integer](#randomint)
+* [random fraction](#randomfrac)
+* [random set seed to](#randomseed)
+* [min](#min)
+* [max](#max)
+* [square root](#sqrt)
+* [absolute](#abs)
+* [neg](#neg)
+* [log](#log)
+* [e^](#e)
+* [round](#round)
+* [ceiling](#ceiling)
+* [floor](#floor)
+* [modulo](#modulo)
+* [remainder](#remainder)
+* [quotient](#quotient)
+* [sin](#sin)
+* [cos](#cos)
+* [tan](#tan)
+* [asin](#asin)
+* [acos](#acos)
+* [atan](#atan)
+* [atan2](#atan2)
+* [convert radians to degrees](#convertrad)
+* [convert degrees to radians](#convertdeg)
+* [format as a decimal](/format as a decimal)
+* [is a number](#isnumber)
+* [convert number](#convertnumber)
 
 ---
 
