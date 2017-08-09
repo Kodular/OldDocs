@@ -11,13 +11,13 @@ A procedure is a sequence of blocks or code that is stored under a name, the nam
 
 ### procedure do {#do}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/procedure/do.png)
+![](/assets/procedure/do.png)
 
 Collects a sequence of blocks together into a group. You can then use the sequence of blocks repeatedly by calling the procedure. If the procedure has arguments, you specify the arguments by using the block's mutator button. If you click the blue plus sign, you can drag additional arguments into the procedure.
 
 When you create a new procedure block, Makeroid chooses a unique name automatically. You can click on the name and type to change it. Procedure names in an app must be unique. Makeroid will not let you define two procedures in the same app with the same name. You can rename a procedure at any time while you are building the app, by changing the label in the block. Makeroid will automatically rename the associated call blocks to match.
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/procedure/calldo.png)
+![](/assets/procedure/calldo.png)
 
 When you create a procedure, Makeroid automatically generates a call block and places it in the My Definitions drawer. You use the call block to invoke the procedure.
 
@@ -25,13 +25,11 @@ When you create a procedure, Makeroid automatically generates a call block and p
 
 ### procedure result {#return}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/procedure/return.png)
+![](/assets/procedure/return.png)
 
 Same as a [`procedure do`](#do) block, but calling this procedure returns a result.
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/procedure/callreturn.png)
+![](/assets/procedure/callreturn.png)
 
 After creating this procedure, a call block that needs to be plugged in will be created. This is because the result from executing this procedure will be returned in that call block and the value will be passed on to whatever block is connected to the plug.
-
-
 
