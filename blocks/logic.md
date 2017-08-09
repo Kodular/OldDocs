@@ -12,7 +12,7 @@
 
 ### true
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/logic/true.png)
+![](/assets/logic/true.png)
 
 Represents the constant value true. Use it for setting boolean property values of components, or as the value of a variable that represents a condition.
 
@@ -20,7 +20,7 @@ Represents the constant value true. Use it for setting boolean property values o
 
 ### false {#false}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/logic/false.png)
+![](/assets/logic/false.png)
 
 Represents the constant value false. Use it for setting boolean property values of components, or as the value of a variable that represents a condition.
 
@@ -28,7 +28,7 @@ Represents the constant value false. Use it for setting boolean property values 
 
 ### not {#not}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/logic/not.png)
+![](/assets/logic/not.png)
 
 Performs logical negation, returning false if the input is true, and true if the input is false.
 
@@ -36,7 +36,7 @@ Performs logical negation, returning false if the input is true, and true if the
 
 ### = {#=}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/logic/equals.png)
+![](/assets/logic/equals.png)
 
 Tests whether its arguments are equal.
 
@@ -47,13 +47,13 @@ Tests whether its arguments are equal.
 
 It acts exactly the same as the **=** block found in Math
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/math/equals.png)
+![](/assets/math/equal.png)
 
 ---
 
 ### ≠ {#not=}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/logic/notequals.png)
+![](/assets/logic/notequals.png)
 
 Tests to see whether two arguments are not equal.
 
@@ -61,7 +61,7 @@ Tests to see whether two arguments are not equal.
 
 ### and {#and}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/logic/and.png)
+![](/assets/logic/and.png)
 
 Tests whether all of a set of logical conditions are true. The result is true if and only if all the tested conditions are true. When you plug a condition into the `test` socket, another socket appears so you can add another condition. The conditions are tested left to right, and the testing stops as soon as one of the conditions is false. If there are no conditions to test, then the result if true. You can consider this to be a logician's joke.
 
@@ -69,7 +69,7 @@ Tests whether all of a set of logical conditions are true. The result is true if
 
 ### or {#or}
 
-![](http://appinventor.mit.edu/explore/sites/all/files/UserGuide/blocks/logic/or.png)
+![](/assets/logic/or.png)
 
 Tests whether any of a set of logical conditions are true. The result is true if one or more of the tested conditions are true. When you plug a condition into the`test`socket, another socket appears so you can add another condition. The conditions are tested left to right, and the testing stops as soon as one of the conditions is true. If there are no conditions to test, then the result is false.
 
