@@ -3,6 +3,19 @@
 
 <!-- timeline -->
 
+##1.3.1
+
+`15 Aug, 2017`
+
+* `NEW Component` Radio Button 
+* `NEW Component` Rating Bar 
+* `NEW Component` Metadata Component 
+* `NEW Feature` Pull down to refresh in WebViewer 
+* `UPDATE` Added USB Connection button - We are working on the client side 
+* `FIXED` Minor bugs fixed
+
+<!-- timeline -->
+
 ## 1.2.1
 
 `07 Aug 2017`
