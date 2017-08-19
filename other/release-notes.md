@@ -14,6 +14,8 @@
 * `UPDATE` Added USB Connection button - We are working on the client side 
 * `FIXED` Minor bugs fixed
 
+<!-- /timeline -->
+
 <!-- timeline -->
 
 ## 1.2.1
