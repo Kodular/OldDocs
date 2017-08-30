@@ -1,6 +1,9 @@
 {
-    "plugins" : ["custom-favicon", "advanced-emoji", "anchors", "ribbon", "timeline", "back-to-top-button"],
+    "plugins" : ["ad", "advanced-emoji", "anchors", "back-to-top-button", "custom-favicon", "ribbon", "timeline"],
     "pluginsConfig" : {
+        "ad": {
+            "contentBottom": "%3Cscript%20async%20src%3D%22%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js%22%3E%3C%2Fscript%3E%20%3C!--%20Docs%20--%3E%20%3Cins%20class%3D%22adsbygoogle%22%20%20%20%20%20%20style%3D%22display%3Ablock%22%20%20%20%20%20%20data-ad-client%3D%22ca-pub-9439286719204795%22%20%20%20%20%20%20data-ad-slot%3D%226806835487%22%20%20%20%20%20%20data-ad-format%3D%22auto%22%3E%3C%2Fins%3E%20%3Cscript%3E%20(adsbygoogle%20%3D%20window.adsbygoogle%20%7C%7C%20%5B%5D).push(%7B%7D)%3B%20%3C%2Fscript%3E"
+            },
         "favicon": "favicon.ico",
         "ribbon": {
             "color": "blue",
