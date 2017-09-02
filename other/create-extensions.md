@@ -92,9 +92,9 @@ But if it says: `BUILD FAILED`, then you did something wrong and have to look ov
 
 #### Keep making more and more and more extensions and help our community to build the best app.
 
-#### [Share your extensions](https://community.makeroid.tk/c/extensions) with our community and become an "[Extension Developer](https://community.makeroid.tk/badges/102/extension-developer)".
+#### [Share your extensions](https://community.makeroid.io/c/extensions) with our community and become an "[Extension Developer](https://community.makeroid.io/badges/102/extension-developer)".
 
 ---
 
-If you want more help, feel free to ask us on [Makeroid Community](https://community.makeroid.tk).
+If you want more help, feel free to ask us on [Makeroid Community](https://community.makeroid.io).
 
