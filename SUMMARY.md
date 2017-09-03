@@ -11,6 +11,7 @@
   * [Social](/components/social.md)
   * [Storage](/components/storage.md)
   * [Connectivity](/components/connectivity.md)
+    * [Network](/components/connectivity/network.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Monetization](components/monetization.md)
   * [Experimental](/components/experimental.md)
