@@ -34,8 +34,8 @@
 ## Other
 
 * [Extensions](/other/extensions.md)
+  * [Create Extensions](/other/create-extensions.md)
 * [Release Notes](other/release-notes.md)
-* [Create Extensions](other/create-extensions.md)
 * [Backpack](/other/backpack.md)
 
 ## Troubleshooting
