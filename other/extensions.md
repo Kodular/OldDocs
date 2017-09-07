@@ -10,7 +10,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
 <hr>
 
-## <kbd><img src="/uploads/default/original/1X/4a425a111f6d51e6389fc46410cf4199df015700.jpg" width="30" height="30" alt='MIT App Inventor' title='MIT App Inventor'> MIT App Inventor
+## MIT App Inventor
 
 - [Bluetooth Low Energy Extension](http://appinventor.mit.edu/extensions/)
 - [Image Processor Extension](http://appinventor.mit.edu/extensions/)
@@ -29,12 +29,12 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Computer Vision Extension](http://learn.makeblock.com/en/user-makeblock-computer-vision-extension-for-app-inventor/)
 - [mBot Extension](http://learn.makeblock.com/en/use-mbot-with-app-inventor/)
 
-## <img src='/uploads/default/original/1X/05f77a76ee37d98a5d6fd2f5ed2583fa9601624c.png' width="30" height="30" alt="Thunkable Community Extensions" title="Thunkable Community Extensions"> Thunkable
+## Thunkable
 
 - [Microsoft Emotion Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftEmotionRecognizer.aix)
 - [Microsoft Image Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftImageRecognizer.aix)
 
-## <img src='/uploads/default/original/1X/c63e778631e4687e33d5e8de84a2d69ac4ceec12.jpg' width="30" height="30" alt="AppyBuilder Extensions" title="Appy Builder Extensions"> AppyBuilder
+## AppyBuilder
 
 - [Date Utils Extension](https://groups.google.com/d/msg/mitappinventortest/Y7KooOOph_E/4QzL5iTrAgAJ)
 - [List Utils Extension](https://amerkashi.wordpress.com/2017/03/05/shuffling-ordering-lists/)
@@ -97,7 +97,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Dialogs Extension](https://community.thunkable.com/t/releasing-the-dialogs-extension/2574?u=sander0542)
 - [Extra Components Extension](https://community.thunkable.com/t/the-extracomponents-extension-beta/4125?u=sander0542)
 		
-## <img src='/uploads/default/original/1X/0c186c37f447bc3c48814b1a71c3284598b4c67d.jpg' width="30" height="30" alt="Mika" title="Mika"> Mika
+## Mika
 
 - [Body Mass Index Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#2)
 - [Click Listener Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#8)
@@ -139,7 +139,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Toast with X Y values Extension](https://groups.google.com/d/msg/mitappinventortest/nPOokIDvFOE/jv1oztz8EAAJ)
 - [YouTube Extension](https://community.thunkable.com/t/youtube-extension/5164?u=sander0542)
 		
-## <kbd> :gift: Wei Qiang
+## :gift: Wei Qiang
 
 - [Flash Light Extensions](http://my.bryanqiang.com/extensions.html)
 - [MailSender Extension](http://my.bryanqiang.com/extensions.html)
@@ -174,14 +174,3 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 ## Red Panda
 
 - [Wolfram Extension](https://community.thunkable.com/t/extension-for-wolfram-alpha-beta/5081?u=sander0542)
-<br>
-
-<hr>
-
-## Information From
-
-- https://www.sanderjochems.com/appinventor/extensions
-
-## How to create Extensions
-
-- [https://community.makeroid.tk/t/how-to-create-an-extension/27](https://community.makeroid.tk/t/how-to-create-an-extension/27?u=sander)
