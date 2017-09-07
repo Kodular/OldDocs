@@ -2,6 +2,8 @@
 
 This tutorial will guide you to create extensions for Makeroid.
 
+> This guide assumes you to be a Windows user.
+
 ---
 
 ### Tools you will need:
@@ -9,9 +11,10 @@ This tutorial will guide you to create extensions for Makeroid.
 * [App Inventor Sources ](https://github.com/mit-cml/appinventor-sources)
 * [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Apache Ant](http://ant.apache.org/bindownload.cgi)
-* Java IDE/Text Editor \([Eclipse](http://www.eclipse.org/downloads/eclipse-packages/), [NetBeans](https://netbeans.org/downloads/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org) are recommended\)
+* [Git](https://git-scm.com/downloads) \(or [GitHub Desktop](https://desktop.github.com/)\)
+* Java IDE/Text Editor \([Eclipse](http://www.eclipse.org/downloads/eclipse-packages/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org), [Atom](https://atom.io/) are recommended\)
 
-> Download everything listed above and let's get started!
+> **Download everything listed above and let's get started!**
 
 ### Step 1: Setting up Java JDK
 
@@ -21,10 +24,22 @@ This tutorial will guide you to create extensions for Makeroid.
 
 * Set the Environmental Variables:
 
-  * Set** **`JAVA_HOME` to where you installed Java JDK. For example: `C:\Program Files\Java\jdk1.8.0_131`
+  * Set** **`JAVA_HOME` to where you installed Java JDK.
+
+    For example: `C:\Program Files\Java\jdk1.8.0_131`
+
   * Edit** **`PATH` and add those:
 
     `%JAVA_HOME%/bin`, `%JAVA_HOME%/jre/bin`, `C:\ProgramData\Oracle\Java\javapath`
+
+* **Check Java installation:** Execute `java -version`
+
+  ```
+    C:\Users\Pavitra>java -version
+    java version "1.8.0_131"
+    Java(TM) SE Runtime Environment (build 1.8.0_131-b11)
+    Java HotSpot(TM) 64-Bit Server VM (build 25.131-b11, mixed mode)
+  ```
 
 ### Step 2: Setting up Apache Ant
 
@@ -35,8 +50,32 @@ This tutorial will guide you to create extensions for Makeroid.
 * Set the Environmental Variables:
 
   * **Set **`ANT_HOME` to where you have the Ant folder placed. For example: `C:/Ant/apache-ant-1.10.1`
-  * **Edit **`Path` and add `<Ant Directory>\bin` For example: `C:/Ant/apache-ant-1.10.1\bin`
-  * **Edit **`ClassPath` and add `<Ant Directory>\bin` For example: `C:/Ant/apache-ant-1.10.1\lib`
+
+  * **Edit **`Path` and add `<Ant Directory>\bin`
+
+    For example: `C:/Ant/apache-ant-1.10.1\bin`
+
+  * **Edit **`ClassPath` and add `<Ant Directory>\bin`
+
+    For example: `C:/Ant/apache-ant-1.10.1\lib`
+
+* **Check Ant installation**: Execute `ant -version`
+
+  ```
+    C:\Users\Pavitra>ant -version
+    Apache Ant(TM) version 1.10.1 compiled on February 2 2017
+  ```
+
+### Step 3: Setting up Git
+
+* Set it up as written in this [tutorial](https://www.atlassian.com/git/tutorials/install-git#windows)
+
+* **Check Git installation**: Execute `git version`
+
+  ```
+    C:\Users\Pavitra>git version
+    git version 2.11.0.windows.3
+  ```
 
 ### Step 4: App Inventor Sources
 
@@ -44,38 +83,50 @@ This tutorial will guide you to create extensions for Makeroid.
 
   > :warning: _Be sure not to place it in a directory whose path contains spaces_
 
-### Step 5: Checking Installation
-
-To check whether you have everything installed correctly, just open a Command Prompt and check the following:
-
-* **Check Java:** Execute `java -version`
-  
-  _The Output will be like this_:
-
-```
-  C:\Users\Pavitra>java -version
-  java version "1.8.0_131"
-  Java(TM) SE Runtime Environment (build 1.8.0_131-b11)
-  Java HotSpot(TM) 64-Bit Server VM (build 25.131-b11, mixed mode)
-```
-
-* **Check Ant**: Execute `ant -version`
-  
-  _The Output will be like this_:
-
-```
-  C:\Users\Pavitra>ant -version
-  Apache Ant(TM) version 1.10.1 compiled on February 2 2017
-```
-
 ### Step 6: Building an Extension
 
-> [SimpleExtension.java](https://community.makeroid.tk/uploads/default/original/1X/96d886facb10457bf2eb9c36e00947987a2fa25f.java) \(2.8 KB\)
+```java
+//Save it as SimpleMaths.java
+package com.makeroid; //package of the extension will be "com.makeroid.SimpleMaths"
 
-* Download the file and move it to `appinventor-sources/appinventor/components/src/com/sanderjochems/`
+//Only these imports are required to interact with Makeroid
+import com.google.appinventor.components.annotations.*;
+import com.google.appinventor.components.runtime.*;
+import com.google.appinventor.components.common.*;
 
-  > **Note:**  
-  > _If you want a other package name, then you need to put the SimpleExtensions.java in a other folder and update the package name in the file_
+import android.content.Context; //You must add this
+
+@DesignerComponent(
+    version = 1, //Update version here, You must do for each new release to upgrade your extension
+    description = "Simple Maths extension created by you",
+    category = ComponentCategory.EXTENSION,
+    nonVisible = true,
+    iconName = "images/extension.png") //Change your extension's icon from here
+@SimpleObject(external = true)
+
+public class SimpleMaths extends AndroidNonvisibleComponent implements Component {
+    private ComponentContainer container;
+    private Context context;
+
+    public SimpleExtension(ComponentContainer container) {
+        super(container.$form());
+        this.container = container;
+        context = (Context) container.$context();
+    }
+
+    @SimpleFunction(description = "Simple addition of two numbers")
+public double Add(double a, double b) {
+    return a+b;
+}
+
+    @SimpleFunction(description = "Simple subtraction of two numbers")
+public double Subtract(double a, double b) {
+    return a-b;
+}
+}
+```
+
+* Download the file and move it to `appinventor-sources/appinventor/components/src/com/makeroid/`
 
 * Go back to the `appinventor` folder.
 
@@ -83,7 +134,7 @@ To check whether you have everything installed correctly, just open a Command Pr
 
 * Type `ant extensions` and click on enter.
 
-_**Wait for the extension to build...**_
+#### _**Wait for the extension to build...**_
 
 If it says: `BUILD SUCCESSFUL`, then you just created an extension :tada:  
 But if it says: `BUILD FAILED`, then you did something wrong and have to look over again.
