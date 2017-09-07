@@ -83,7 +83,7 @@ This tutorial will guide you to create extensions for Makeroid.
 
   > :warning: _Be sure not to place it in a directory whose path contains spaces_
 
-### Step 6: Building an Extension
+### Step 5: Building an Extension
 
 ```java
 //Save it as SimpleMaths.java
@@ -143,7 +143,7 @@ But if it says: `BUILD FAILED`, then you did something wrong and have to look ov
 
 Your extension file \(.aix file\) should appear in the directory:
 
-**`appinventor-sources/appinventor/components/build/extensions`**
+`appinventor-sources/appinventor/components/build/extensions`
 
 Now, you can easily share the aix files with anyone and can import it into Makeroid seemlessly.
 
