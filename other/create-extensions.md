@@ -134,14 +134,26 @@ public double Subtract(double a, double b) {
 
 * Type `ant extensions` and click on enter.
 
-#### _**Wait for the extension to build...**_
+#### _Wait for the extension to build..._
 
 If it says: `BUILD SUCCESSFUL`, then you just created an extension :tada:  
 But if it says: `BUILD FAILED`, then you did something wrong and have to look over again.
 
+### Step 6: Sharing Extensions
+
+Your extension file \(.aix file\) should appear in the directory:
+
+**`appinventor-sources/appinventor/components/build/extensions`**
+
+Now, you can easily share the aix files with anyone and can import it into Makeroid seemlessly.
+
 ---
 
-#### Keep making more and more and more extensions and help our community to build the best app.
+##### For more information about extensions, read [here](http://ai2.appinventor.mit.edu/reference/other/extensions.html)
+
+---
+
+##### Keep making more and more and more extensions and help our community to build the best app.
 
 #### [Share your extensions](https://community.makeroid.io/c/extensions) with our community and become an "[Extension Developer](https://community.makeroid.io/badges/102/extension-developer)".
 
