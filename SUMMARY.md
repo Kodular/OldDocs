@@ -15,6 +15,7 @@
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Monetization](components/monetization.md)
   * [Experimental](/components/experimental.md)
+    * [Push Notifications](components/experimental/pushnotifications.md)
 * [Blocks](blocks.md)
   * [Control](/blocks/control.md)
   * [Logic](/blocks/logic.md)
@@ -39,6 +40,4 @@
 * [Backpack](/other/backpack.md)
 
 ## Troubleshooting
-
-
 
