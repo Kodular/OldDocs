@@ -52,7 +52,7 @@ Sets the button's background color.
 
 ##### Enabled
 
-![](/assets/user-interface/button/Enables.png)
+![](/assets/user-interface/button/Enabled.png)
 
 The button can listen to touches only if _Enabled_ is set to true.
 
