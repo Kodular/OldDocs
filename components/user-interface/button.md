@@ -3,13 +3,14 @@
 A button is a component which can detect clicks by the user.
 
 * [Click](#click)
-* [Click](#got-focus)
-* [Click](#long-click)
-* [Click](#lost-focus)
-* [Click](#touch-down)
-* [Click](#touch-up)
-* [Click](#background-color)
-* [Click](#enabled)
+* [Got Focus](#got-focus)
+* [Long Click](#long-click)
+* [Lost Focus](#lost-focus)
+* [Touch Down](#touch-down)
+* [Touch Up](#touch-up)
+
+* [Background Color](#background-color)
+* [Enables](#enabled)
 
 ---
 
