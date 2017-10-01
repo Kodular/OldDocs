@@ -10,7 +10,7 @@ A button is a component which can detect clicks by the user.
 * [Touch Up](#touch-up)
 
 * [Background Color](#background-color)
-* [Enables](#enabled)
+* [Enabled](#enabled)
 
 ---
 
