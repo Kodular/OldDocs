@@ -11,19 +11,19 @@ A button is a component which can detect clicks by the user.
 
 * [Background Color](#background-color)
 * [Enabled](#enabled)
-* [FontBold](#font-bold)
-* [FontItalic](#font-italic)
-* [FontSize](#font-size)
-* [FontTypefaceImport](#font-typeface-import)
+* [Font Bold](#font-bold)
+* [Font Italic](#font-italic)
+* [Font Size](#font-size)
+* [Font Typeface Import](#font-typeface-import)
 * [Height](#height)
 * [Image](#image)
-* [ShowFeedback](#show-feedback)
+* [Show Feedback](#show-feedback)
 * [Text](#text)
-* [TextColor](#text-color)
+* [Text Color](#text-color)
 * [Visible](#visible)
 * [Width](#width)
 
-* [ButtonClick](#button-click)
+* [Button Click](#button-click)
 
 ---
 
