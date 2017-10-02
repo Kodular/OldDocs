@@ -8,7 +8,10 @@
         "ribbon": {
             "color": "blue",
             "text": "Work in Progress",
-            "url": "https://makeroid.tk"
+            "url": "https://makeroid.io"
             }
+    },
+    "styles": {
+         "website": "styles/website.css"
     }
 }
