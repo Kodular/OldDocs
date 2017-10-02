@@ -8,6 +8,7 @@ A button is a component which can detect clicks by the user.
 * [Lost Focus](#lost-focus)
 * [Touch Down](#touch-down)
 * [Touch Up](#touch-up)
+* [Button Click](#button-click)
 * [Background Color](#background-color)
 * [Enabled](#enabled)
 * [Font Bold](#font-bold)
@@ -21,7 +22,6 @@ A button is a component which can detect clicks by the user.
 * [Text Color](#text-color)
 * [Visible](#visible)
 * [Width](#width)
-* [Button Click](#button-click)
 
 ---
 
@@ -72,6 +72,16 @@ When the user press the button down.
 ![](/assets/user-interface/button/TouchUp.png)
 
 When the user releases the button.
+
+---
+
+## Methods
+
+##### Button Click
+
+![](/assets/user-interface/button/ButtonClick.png)
+
+Preform a click on the button.
 
 ---
 
@@ -178,16 +188,6 @@ Specifies whether the component should be visible on the screen. Value is true i
 ![](/assets/user-interface/button/Width.png)
 
 The width of the button.
-
----
-
-## Methods
-
-##### Button Click
-
-![](/assets/user-interface/button/ButtonClick.png)
-
-Preform a click on the button.
 
 ---
 
