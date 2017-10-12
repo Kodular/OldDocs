@@ -10,6 +10,7 @@
   * [Media](/components/media.md)
   * [Drawing and Animation](/components/drawing-and-animation.md)
     * [Ball](components/drawing-and-animation/ball.md)
+    * [Canvas](components/drawing-and-animation/canvas.md)
   * [Sensors](/components/sensors.md)
   * [Social](/components/social.md)
   * [Storage](/components/storage.md)
