@@ -9,6 +9,7 @@
   * [Layout](/components/layout.md)
   * [Media](/components/media.md)
   * [Drawing and Animation](/components/drawing-and-animation.md)
+    * [Ball](components/drawing-and-animation/ball.md)
   * [Sensors](/components/sensors.md)
   * [Social](/components/social.md)
   * [Storage](/components/storage.md)
