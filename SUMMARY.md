@@ -4,6 +4,8 @@
 * [Components](/components.md)
   * [User Interface](/components/user-interface.md)
     * [Button](components/user-interface/button.md)
+    * [Checkbox](components/user-interface/checkbox.md)
+    * [Date Picker](components/user-interface/date-picker.md)
   * [Layout](/components/layout.md)
   * [Media](/components/media.md)
   * [Drawing and Animation](/components/drawing-and-animation.md)
@@ -16,6 +18,7 @@
   * [Monetization](components/monetization.md)
   * [Experimental](/components/experimental.md)
     * [Push Notifications](components/experimental/pushnotifications.md)
+  * Date Picker
 * [Blocks](blocks.md)
   * [Control](/blocks/control.md)
   * [Logic](/blocks/logic.md)
