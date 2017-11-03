@@ -14,6 +14,7 @@
     * [Canvas](components/drawing-and-animation/canvas.md)
   * [Sensors](/components/sensors.md)
     * [Accelerometer](components/sensors/accelerometer.md)
+    * [Barcode Scanner](components/sensors/barcode-scanner.md)
   * [Social](/components/social.md)
   * [Storage](/components/storage.md)
   * [Connectivity](/components/connectivity.md)
@@ -24,6 +25,7 @@
     * [AdMob Interstitial](components/monetization/admob-interstitial.md)
     * [AdMob Banner](components/monetization/admob-banner.md)
     * [AdMob Rewarded Video](components/monetization/admob-rewarded-video.md)
+    * [Billing](components/monetization/billing.md)
   * [Experimental](/components/experimental.md)
     * [Push Notifications](components/experimental/pushnotifications.md)
   * Date Picker
