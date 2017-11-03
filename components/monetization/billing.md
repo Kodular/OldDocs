@@ -8,17 +8,25 @@ In-App Purchases component by Pavitra.
 
 ##### IsIabServiceAvailable
 
+###### Returns: (boolean)
+
 Check Play Market services availability
 
 ##### IsOneTimePurchaseSupported
+
+###### Returns: (boolean)
 
 Is One Time Purchase Supported
 
 ##### IsSubscriptionUpdateSupported
 
+###### Returns: (boolean)
+
 Is Subscription Update Supported
 
 ##### ReadyToPurchase
+
+###### Returns: (boolean)
 
 whether In-app billing service is ready to purchase
 
