@@ -8,6 +8,7 @@
     * [Date Picker](components/user-interface/date-picker.md)
   * [Layout](/components/layout.md)
   * [Media](/components/media.md)
+    * [Audio Picker](components/media/audio-picker.md)
   * [Drawing and Animation](/components/drawing-and-animation.md)
     * [Ball](components/drawing-and-animation/ball.md)
     * [Canvas](components/drawing-and-animation/canvas.md)
