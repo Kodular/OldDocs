@@ -9,6 +9,7 @@
   * [Layout](/components/layout.md)
   * [Media](/components/media.md)
     * [Audio Picker](components/media/audio-picker.md)
+    * [Yandex Translate](components/media/yandex-translate.md)
   * [Drawing and Animation](/components/drawing-and-animation.md)
     * [Ball](components/drawing-and-animation/ball.md)
     * [Canvas](components/drawing-and-animation/canvas.md)
