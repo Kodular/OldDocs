@@ -20,6 +20,7 @@
     * [Activity Starter](components/connectivity/activity-starter.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Monetization](components/monetization.md)
+    * [AdMob Interstitial](components/monetization/admob-interstitial.md)
   * [Experimental](/components/experimental.md)
     * [Push Notifications](components/experimental/pushnotifications.md)
   * Date Picker
