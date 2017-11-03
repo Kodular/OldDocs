@@ -22,7 +22,7 @@
   * [Monetization](components/monetization.md)
     * [AdMob Interstitial](components/monetization/admob-interstitial.md)
     * [AdMob Banner](components/monetization/admob-banner.md)
-    * AdMob Rewarded Video
+    * [AdMob Rewarded Video](components/monetization/admob-rewarded-video.md)
   * [Experimental](/components/experimental.md)
     * [Push Notifications](components/experimental/pushnotifications.md)
   * Date Picker
