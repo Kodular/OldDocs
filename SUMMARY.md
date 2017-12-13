@@ -22,6 +22,7 @@
     * [Network](/components/connectivity/network.md)
     * [Activity Starter](components/connectivity/activity-starter.md)
     * [WiFi](components/connectivity/wifi.md)
+    * [Bluetooth Admin](components/connectivity/bluetooth-admin.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
   * [Monetization](components/monetization.md)
     * [AdMob Interstitial](components/monetization/admob-interstitial.md)
