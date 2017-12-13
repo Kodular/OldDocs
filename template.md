@@ -65,7 +65,7 @@ Parameters:
 
 
 
->Include tips here within quotations
+>Include tips here within quotations like this whenever necessary.
 
 
 
