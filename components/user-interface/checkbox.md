@@ -30,6 +30,10 @@ Color for check box background.
 
 True if the box is checked, false otherwise.
 
+**Checkbox Color**
+
+Change the checkbox component color
+
 ##### Enabled
 
 If set, user can tap check box to cause action.

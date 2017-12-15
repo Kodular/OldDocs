@@ -11,6 +11,7 @@ The components in the User Interface section are used to interact with the app u
 * ###### List Viewer {#list-viewer}
 * ###### Notifier {#notifier}
 * ###### Slider {#slider}
+* ###### Surface View {#slider}
 * ###### Spinner {#spinner}
 * ###### Textbox {#textbox}
 * ###### Time Picker {#time-picker}
