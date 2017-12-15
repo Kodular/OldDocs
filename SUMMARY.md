@@ -6,37 +6,37 @@
     * [Button](components/user-interface/button.md)
     * [Checkbox](components/user-interface/checkbox.md)
     * [Date Picker](components/user-interface/date-picker.md)
-    * Floating Button
-    * Image
-    * Label
-    * List Picker
-    * List View
-    * Notifier
-    * Radio Button
-    * RatingBar
-    * Slider
-    * Spinner
-    * Switch
-    * TextBox
-    * Time Picker
-    * Web Viewer
+    * [Floating Button](components/user-interface/floating-button.md)
+    * [Image](components/user-interface/image.md)
+    * [Label](components/user-interface/label.md)
+    * [List Picker](components/user-interface/list-picker.md)
+    * [List View](components/user-interface/list-view.md)
+    * [Notifier](components/user-interface/notifier.md)
+    * [Radio Button](components/user-interface/radio-button.md)
+    * [RatingBar](components/user-interface/ratingbar.md)
+    * [Slider](components/user-interface/slider.md)
+    * [Surface View](components/user-interface/surface-view.md)
+    * [Spinner](components/user-interface/spinner.md)
+    * [Switch](components/user-interface/switch.md)
+    * [TextBox](components/user-interface/textbox.md)
+    * [Time Picker](components/user-interface/time-picker.md)
+    * [Web Viewer](components/user-interface/web-viewer.md)
   * [Layout](/components/layout.md)
-    * Horizontal Arrangement
-    * Horizontal Scroll Arrangement
-    * Table Arrangement
-    * Vertical Arrangement
-    * Vertical Scroll Arrangement
+    * [Horizontal Arrangement](components/layout/horizontal-arrangement.md)
+    * [Horizontal Scroll Arrangement](components/layout/horizontal-scroll-arrangement.md)
+    * [Table Arrangement](components/layout/table-arrangement.md)
+    * [Vertical Arrangement](components/layout/vertical-arrangement.md)
+    * [Vertical Scroll Arrangement](components/layout/vertical-scroll-arrangement.md)
   * [Media](/components/media.md)
     * [Audio Picker](components/media/audio-picker.md)
-    * Camcorder
-    * Camera
-    * Image Picker
-    * Metadata
-    * OCR
-    * Player
-    * Qr Code
-    * Sound
-    * Sound
+    * [Camcorder](components/media/camcorder.md)
+    * [Camera](components/media/camera.md)
+    * [Image Picker](components/media/image-picker.md)
+    * [Metadata](components/media/metadata.md)
+    * [OCR](components/media/ocr.md)
+    * [Player](components/media/player.md)
+    * [Qr Code](components/media/qr-code.md)
+    * [Sound](components/media/sound.md)
     * Sound Recorder
     * Speech Recognizer
     * Text To Speech
