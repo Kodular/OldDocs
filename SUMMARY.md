@@ -89,21 +89,21 @@
     * [Web](components/connectivity/web.md)
     * [WiFi](components/connectivity/wifi.md)
   * [Lego Mindstorms](/components/lego-mindstorms.md)
-    * NXT Drive
-    * NXT Color Sensor
-    * NXT LightSensor
-    * NXT Sound Sensor
-    * NXT Touch Sensor
-    * NXT Ultrasonic Sensor
-    * NXT Direct Commands
-    * EV3 Motors
-    * EV3 Color Sensor
-    * EV3 Gyro Sensor
-    * EV3 Touch Sensor
-    * EV3 Ultrasonic Sensor
-    * EV3 Sound
-    * EV3 UI
-    * EV3 Commands
+    * [NXT Drive](components/lego-mindstorms/nxt-drive.md)
+    * [NXT Color Sensor](components/lego-mindstorms/nxt-color-sensor.md)
+    * [NXT LightSensor](components/lego-mindstorms/nxt-lightsensor.md)
+    * [NXT Sound Sensor](components/lego-mindstorms/nxt-sound-sensor.md)
+    * [NXT Touch Sensor](components/lego-mindstorms/nxt-touch-sensor.md)
+    * [NXT Ultrasonic Sensor](components/lego-mindstorms/nxt-ultrasonic-sensor.md)
+    * [NXT Direct Commands](components/lego-mindstorms/nxt-direct-commands.md)
+    * [EV3 Motors](components/lego-mindstorms/ev3-motors.md)
+    * [EV3 Color Sensor](components/lego-mindstorms/ev3-color-sensor.md)
+    * [EV3 Gyro Sensor](components/lego-mindstorms/ev3-gyro-sensor.md)
+    * [EV3 Touch Sensor](components/lego-mindstorms/ev3-touch-sensor.md)
+    * [EV3 Ultrasonic Sensor](components/lego-mindstorms/ev3-ultrasonic-sensor.md)
+    * [EV3 Sound](components/lego-mindstorms/ev3-sound.md)
+    * [EV3 UI](components/lego-mindstorms/ev3-ui.md)
+    * [EV3 Commands](components/lego-mindstorms/ev3-commands.md)
   * [Monetization](components/monetization.md)
     * [AdMob Interstitial](components/monetization/admob-interstitial.md)
     * [AdMob Banner](components/monetization/admob-banner.md)

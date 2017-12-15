@@ -1,4 +1,4 @@
-# Button
+# ![](/assets/touchcolor.png)Button
 
 A button is a component which can detect clicks by the user.
 
@@ -78,6 +78,12 @@ Preform a click on the button.
 ---
 
 ### Properties
+
+##### Touch Color
+
+![](/assets/touchcolor.png)
+
+Set's the touch color \(ripple touch effect\) for a button.
 
 ##### Background Color
 
