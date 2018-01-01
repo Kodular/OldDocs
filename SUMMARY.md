@@ -28,6 +28,7 @@
     * [AdMob Banner](components/monetization/admob-banner.md)
     * [AdMob Rewarded Video](components/monetization/admob-rewarded-video.md)
     * [Billing](components/monetization/billing.md)
+    * [Leadbolt](components/monetization/leadbolt.md)
   * [Experimental](/components/experimental.md)
     * [Push Notifications](components/experimental/pushnotifications.md)
   * Date Picker
