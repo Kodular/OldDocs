@@ -36,25 +36,25 @@ Trigger when the Authentication Succeeded.
 
 ##### Has FingerPrint Scanner
 
-![](/assets/user-interface/button/HasFingerPrintScanner.png)
+![](/assets/sensors/finger-print/HasFingerPrintScanner.png)
 
 True if hardware is present and functional, false otherwise.
 
-##### HasFingersAdded
+##### Has Fingers Added
 
-![](/assets/user-interface/button/Has Fingers Added.png)
+![](/assets/sensors/finger-print/HasFingersAdded.png)
 
 True if at least one fingerprint is enrolled, false otherwise.
 
 ##### Authenticate
 
-![](/assets/user-interface/button/Authenticate.png)
+![](/assets/sensors/finger-print/Authenticate.png)
 
 Authenticate the user with a Fingerprint scanner.
 
 ##### Cancel Scan
 
-![](/assets/user-interface/button/CancelScan.png)
+![](/assets/sensors/finger-print/CancelScan.png)
 
 Cancel the current Fingerprint Scan.
 
