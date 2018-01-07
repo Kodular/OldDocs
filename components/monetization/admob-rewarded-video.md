@@ -1,4 +1,4 @@
-# AdmobRewardedVideo
+# AdMob RewardedVideo
 
 add description in OdeMessage
 
