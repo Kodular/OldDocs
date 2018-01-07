@@ -1,3 +1,3 @@
-# ![](/assets/touchcolor.png)WebViewer
+# WebViewer
 
 Component for viewing Web pages.
