@@ -8,6 +8,8 @@ A checkbox component can detect user taps and can change their boolean state in 
 
 ##### Changed
 
+
+
 User tapped and released check box.
 
 ##### GotFocus
@@ -29,6 +31,10 @@ Color for check box background.
 ##### Checked
 
 True if the box is checked, false otherwise.
+
+**Checkbox Color**
+
+Change the checkbox component color
 
 ##### Enabled
 

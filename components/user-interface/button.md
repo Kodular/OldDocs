@@ -1,13 +1,15 @@
-# Button
+# ![](/assets/touchcolor.png)Button
 
 A button is a component which can detect clicks by the user.
 
+* Border Shadow
 * [Click](#click)
 * [Got Focus](#got-focus)
 * [Long Click](#long-click)
 * [Lost Focus](#lost-focus)
 * [Touch Down](#touch-down)
 * [Touch Up](#touch-up)
+* Touch Color
 * [Button Click](#button-click)
 * [Background Color](#background-color)
 * [Enabled](#enabled)
@@ -76,6 +78,12 @@ Preform a click on the button.
 ---
 
 ### Properties
+
+##### Touch Color
+
+![](/assets/touchcolor.png)
+
+Set's the touch color \(ripple touch effect\) for a button.
 
 ##### Background Color
 
