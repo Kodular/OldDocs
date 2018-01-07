@@ -1,4 +1,4 @@
-# AdMobInterstitial
+# AdMob Interstitial
 
 An interstitial ad is a full-page ad. AdMob Interstitial component allows you to monetize your app. You must have a valid AdMob account and AdUnitId that can be obtained from http://www.google.com/AdMob . If your id is invalid, the AdMob Interstitial will not display on the emulator or the device. Warning: Make sure you're in test mode during development to avoid being disabled for clicking your own ads.
 
