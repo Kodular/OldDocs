@@ -1,4 +1,4 @@
-# AdmobBanner
+# AdMob Banner
 
 AdMob Banner component
 
