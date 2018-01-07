@@ -1,4 +1,4 @@
-# ListPicker
+# List Picker
 
 A button that, when clicked on, displays a list of texts for the user to choose among. The texts can be specified through the Designer or Blocks Editor by setting the ElementsFromString property to their string-separated concatenation (for example, choice 1, choice 2, choice 3) or by setting the Elements property to a List in the Blocks editor.
 
