@@ -6,55 +6,83 @@ Component to check for a FingerScanner and read fingerprints from the scanner.
 
 ### Events
 
-##### Changed
+##### On Authentication Error
 
-![](/assets/user-interface/checkbox/Changed.png)
+![](/assets/user-interface/checkbox/OnAuthenticationError.png)
 
-User tapped and released checkbox.
+Triggers when there is a Authentication Error.
 
-##### Got Focus
+##### On Authentication Help
 
-![](/assets/user-interface/checkbox/GotFocus.png)
+![](/assets/user-interface/checkbox/OnAuthenticationHelp.png)
 
-checkbox became the focused component.
+Triggers when there is a Authentication Help.
 
-##### Lost Focus
+##### On Authentication Failed
 
-![](/assets/user-interface/checkbox/LostFocus.png)
+![](/assets/user-interface/checkbox/OnAuthenticationFailed.png)
 
-checkbox stopped being the focused component.
+Triggers when the Authentication Failed.
+
+##### On Authentication Succeeded
+
+![](/assets/user-interface/checkbox/OnAuthenticationSucceeded.png)
+
+Trigger when the Authentication Succeeded.
+
+---
+
+## Methods
+
+##### Has FingerPrint Scanner
+
+![](/assets/user-interface/button/HasFingerPrintScanner.png)
+
+True if hardware is present and functional, false otherwise.
+
+##### HasFingersAdded
+
+![](/assets/user-interface/button/Has Fingers Added.png)
+
+True if at least one fingerprint is enrolled, false otherwise.
+
+##### Authenticate
+
+![](/assets/user-interface/button/Authenticate.png)
+
+Authenticate the user with a Fingerprint scanner.
+
+##### Cancel Scan
+
+![](/assets/user-interface/button/CancelScan.png)
+
+Cancel the current Fingerprint Scan.
 
 ---
 
 ### Properties
 
-##### BackgroundColor
+##### Light Theme
 
-![](/assets/user-interface/checkbox/BackgroundColor.png)
+![](/assets/user-interface/checkbox/LightTheme.png)
 
-Color for checkbox background.
+Sets the current theme.
 
-##### Checked
+##### Use Dialog
 
-![](/assets/user-interface/checkbox/Checked.png)
+![](/assets/user-interface/checkbox/UseDialog.png)
 
-True if the box is checked, false otherwise.
+Whether to use a dialog.
 
-##### Checkbox Color
+##### Dialog Title
 
-![](/assets/user-interface/checkbox/CheckboxColor.png)
+![](/assets/user-interface/checkbox/DialogTitle.png)
 
-Change the checkbox component color
+Sets the dialog title/
 
-##### Enabled
+##### Dialog Help Text
 
-![](/assets/user-interface/checkbox/Enabled.png)
+![](/assets/user-interface/checkbox/DialogHelpText.png)
 
-If set, user can tap checkbox to cause action.
-
-##### Height
-
-![](/assets/user-interface/checkbox/Height.png)
-
-checkbox height \(y-size\).
+Sets the dialog help text.
 
