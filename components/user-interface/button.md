@@ -2,29 +2,6 @@
 
 A button is a component which can detect clicks by the user.
 
-* Border Shadow
-* [Click](#click)
-* [Got Focus](#got-focus)
-* [Long Click](#long-click)
-* [Lost Focus](#lost-focus)
-* [Touch Down](#touch-down)
-* [Touch Up](#touch-up)
-* Touch Color
-* [Button Click](#button-click)
-* [Background Color](#background-color)
-* [Enabled](#enabled)
-* [Font Bold](#font-bold)
-* [Font Italic](#font-italic)
-* [Font Size](#font-size)
-* [Font Typeface Import](#font-typeface-import)
-* [Height](#height)
-* [Image](#image)
-* [Show Feedback](#show-feedback)
-* [Text](#text)
-* [Text Color](#text-color)
-* [Visible](#visible)
-* [Width](#width)
-
 ---
 
 ### Events
