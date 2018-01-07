@@ -1,3 +1,3 @@
-# ![](/assets/touchcolor.png)Player
+# Player
 
 Multimedia component that plays audio and controls phone vibration.
