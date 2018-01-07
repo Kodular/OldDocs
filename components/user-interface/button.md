@@ -104,6 +104,12 @@ The font family for the button text.
 
 The height of the button.
 
+##### Height Percent
+
+![](/assets/user-interface/button/HeightPercent.png)
+
+The height of the button in percent.
+
 ##### Image
 
 ![](/assets/user-interface/button/Image.png)
@@ -139,6 +145,12 @@ Specifies whether the component should be visible on the screen. Value is true i
 ![](/assets/user-interface/button/Width.png)
 
 The width of the button.
+
+##### Width Percent
+
+![](/assets/user-interface/button/WidthPercent.png)
+
+The width of the button in percent.
 
 ---
 
