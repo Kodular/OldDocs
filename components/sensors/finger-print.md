@@ -8,25 +8,25 @@ Component to check for a FingerScanner and read fingerprints from the scanner.
 
 ##### On Authentication Error
 
-![](/assets/user-interface/checkbox/OnAuthenticationError.png)
+![](/assets/sensors/finger-print/OnAuthenticationError.png)
 
 Triggers when there is a Authentication Error.
 
 ##### On Authentication Help
 
-![](/assets/user-interface/checkbox/OnAuthenticationHelp.png)
+![](/assets/sensors/finger-print/OnAuthenticationHelp.png)
 
 Triggers when there is a Authentication Help.
 
 ##### On Authentication Failed
 
-![](/assets/user-interface/checkbox/OnAuthenticationFailed.png)
+![](/assets/sensors/finger-print/OnAuthenticationFailed.png)
 
 Triggers when the Authentication Failed.
 
 ##### On Authentication Succeeded
 
-![](/assets/user-interface/checkbox/OnAuthenticationSucceeded.png)
+![](/assets/sensors/finger-print/OnAuthenticationSucceeded.png)
 
 Trigger when the Authentication Succeeded.
 
@@ -64,25 +64,25 @@ Cancel the current Fingerprint Scan.
 
 ##### Light Theme
 
-![](/assets/user-interface/checkbox/LightTheme.png)
+![](/assets/sensors/finger-print/LightTheme.png)
 
 Sets the current theme.
 
 ##### Use Dialog
 
-![](/assets/user-interface/checkbox/UseDialog.png)
+![](/assets/sensors/finger-print/UseDialog.png)
 
 Whether to use a dialog.
 
 ##### Dialog Title
 
-![](/assets/user-interface/checkbox/DialogTitle.png)
+![](/assets/sensors/finger-print/DialogTitle.png)
 
 Sets the dialog title/
 
 ##### Dialog Help Text
 
-![](/assets/user-interface/checkbox/DialogHelpText.png)
+![](/assets/sensors/finger-print/DialogHelpText.png)
 
 Sets the dialog help text.
 
