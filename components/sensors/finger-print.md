@@ -34,9 +34,9 @@ Trigger when the Authentication Succeeded.
 
 ## Methods
 
-##### Has FingerPrint Scanner
+##### Has Fingerprint Scanner
 
-![](/assets/sensors/finger-print/HasFingerPrintScanner.png)
+![](/assets/sensors/finger-print/HasFingerprintScanner.png)
 
 True if hardware is present and functional, false otherwise.
 
