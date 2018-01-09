@@ -36,13 +36,13 @@
     * [Metadata](components/media/metadata.md)
     * [OCR](components/media/ocr.md)
     * [Player](components/media/player.md)
-    * [Qr Code](components/media/qr-code.md)
+    * [QR Code](components/media/qr-code.md)
     * [Sound](components/media/sound.md)
-    * Sound Recorder
-    * Speech Recognizer
-    * Text To Speech
-    * Video Player
-    * Yandex Translate
+    * [Sound Recorder](components/media/sound-recorder.md)
+    * [Speech Recognizer](components/media/speech-recognizer.md)
+    * [Text To Speech](components/media/text-to-speech.md)
+    * [Video Player](components/media/video-player.md)
+    * [Yandex Translate](components/media/yandex-translate.md)
   * [Drawing and Animation](/components/drawing-and-animation.md)
     * [Ball](components/drawing-and-animation/ball.md)
     * [Canvas](components/drawing-and-animation/canvas.md)
