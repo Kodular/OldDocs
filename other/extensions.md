@@ -10,7 +10,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
 <hr>
 
-##  <img src="https://puravidaapps.com/images/ai2logo.png" width="41" height="41"> MIT App Inventor
+##  <img src="https://puravidaapps.com/images/ai2logo.png" width="24" height="24"> MIT App Inventor
 
 - [Bluetooth Low Energy Extension](http://appinventor.mit.edu/extensions/)
 - [Image Processor Extension](http://appinventor.mit.edu/extensions/)
