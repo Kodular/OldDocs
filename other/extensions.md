@@ -41,7 +41,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [RatingBar Extension](http://community.appybuilder.com/t/ratingbar-extension/214?u=sander0542)
 - [Text Utils Extension](https://amerkashi.wordpress.com/2017/03/09/textutils-extension/)
 		
-## <img src="/uploads/default/original/1X/b084e9fd63f8f8baa0459986b7b3ad2209e20271.jpg" width="30" height="30"> Pura Vida Apps
+## <img src="https://puravidaapps.com/images/logo.png" width="30" height="30"> Pura Vida Apps
 
 
 
