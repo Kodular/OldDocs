@@ -1,6 +1,6 @@
 # Index of Available Extensions
 
-###List of extensions for Makeroid
+### List of extensions for Makeroid
 
 <hr>
 
@@ -34,7 +34,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Microsoft Emotion Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftEmotionRecognizer.aix)
 - [Microsoft Image Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftImageRecognizer.aix)
 
-## AppyBuilder
+## <img src="https://puravidaapps.com/images/appybuilder.JPG" width="82" height="24"> AppyBuilder
 
 - [Date Utils Extension](https://groups.google.com/d/msg/mitappinventortest/Y7KooOOph_E/4QzL5iTrAgAJ)
 - [List Utils Extension](https://amerkashi.wordpress.com/2017/03/05/shuffling-ordering-lists/)
