@@ -1,6 +1,6 @@
 # Index of Available Extensions
 
-###List of extensions for Makeroid
+### List of extensions for Makeroid
 
 <hr>
 
@@ -10,7 +10,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
 <hr>
 
-## MIT App Inventor
+##  <img src="https://puravidaapps.com/images/ai2logo.png" width="24" height="24"> MIT App Inventor
 
 - [Bluetooth Low Energy Extension](http://appinventor.mit.edu/extensions/)
 - [Image Processor Extension](http://appinventor.mit.edu/extensions/)
@@ -29,53 +29,55 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Computer Vision Extension](http://learn.makeblock.com/en/user-makeblock-computer-vision-extension-for-app-inventor/)
 - [mBot Extension](http://learn.makeblock.com/en/use-mbot-with-app-inventor/)
 
-## Thunkable
+## <img src="https://puravidaapps.com/images/thunkable.JPG" width="82" height="24"> Thunkable
 
 - [Microsoft Emotion Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftEmotionRecognizer.aix)
 - [Microsoft Image Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftImageRecognizer.aix)
 
-## AppyBuilder
+## <img src="https://puravidaapps.com/images/appybuilder.JPG" width="82" height="24"> AppyBuilder
 
 - [Date Utils Extension](https://groups.google.com/d/msg/mitappinventortest/Y7KooOOph_E/4QzL5iTrAgAJ)
 - [List Utils Extension](https://amerkashi.wordpress.com/2017/03/05/shuffling-ordering-lists/)
 - [RatingBar Extension](http://community.appybuilder.com/t/ratingbar-extension/214?u=sander0542)
 - [Text Utils Extension](https://amerkashi.wordpress.com/2017/03/09/textutils-extension/)
 		
-## <img src="/uploads/default/original/1X/b084e9fd63f8f8baa0459986b7b3ad2209e20271.jpg" width="30" height="30"> Pura Vida Apps
+## <img src="https://puravidaapps.com/images/logo.png" width="30" height="30"> Pura Vida Apps 
+_(Makeroid Community username: @Taifun)_
 
-- <img src="/uploads/default/original/1X/6e90a5ddbe794a3b68b6a58ddd98efc7f393b024.jpg" width="22" height="22"> [Account Manager Extension](https://puravidaapps.com/accountmanager.php)
-- <img src="/uploads/default/original/1X/0c4a69399f5af813d25565d76cf6b14884fda312.png" width="22" height="22"> [AES Encryption Extension](https://puravidaapps.com/aes.php) - $10.00
-- <img src="/uploads/default/original/1X/bc4e0a557ef332b093b326c0492c73e927f9194c.png" width="22" height="22"> [Alarm Extension](https://puravidaapps.com/alarm.php)
-- <img src="/uploads/default/original/1X/766eeb8131006bdd35b6b5e603fd788779b53c59.jpg" width="22" height="22"> [Enhanced Audio Player Extension](https://puravidaapps.com/player.php)
-- <img src="/uploads/default/original/1X/b2300183e221269f4e88e38ee8809c80ebcdc344.png" width="22" height="22"> [Barometer Sensor Extension](https://puravidaapps.com/barometer.php)
-- <img src="/uploads/default/original/1X/fdf84a32692aa241ea5f4069fc800152641e3a0d.png" width="22" height="22"> [Battery Manager Extension](https://puravidaapps.com/battery.php)
-- <img src="/uploads/default/original/1X/7c9794a6bc6a3715f6f38c269d134a412cbd9af9.jpg" width="22" height="22"> [Billing Extension](https://puravidaapps.com/billing.php) - $10.00
-- <img src="/uploads/default/original/1X/4cf78e2504b3e19cfd0ec80e6b2c18c8ec78d6d5.png" width="22" height="22"> [Classic Bluetooth Extension](https://puravidaapps.com/bluetooth.php) - $10.00
-- <img src="/uploads/default/original/1X/296180520a99532de1fe669c5a985e3ee3a2414c.png" width="22" height="22"> [Camera Extension](https://puravidaapps.com/camera.php) - $10.00
-- <img src="/uploads/default/original/1X/c60f287fe734e74e71cba19e118b2dbf11f849b4.png" width="22" height="22"> [ClipBoard Extension](https://puravidaapps.com/clipboard.php)
-- <img src="/uploads/default/original/1X/71b2fc06b63d79c58e368700193f3935a04bfc8b.png" width="22" height="22"> [File Extension](https://puravidaapps.com/file.php)
-- <img src="/uploads/default/original/1X/ced8013c664ac6b1723eb9627a858c2ccd9b518a.jpg" width="22" height="22"> [FlashLight Extension](https://puravidaapps.com/flashlight.php)
-- <img src="/uploads/default/original/1X/140402dfbee2c62d489c0f9a85bd691b70fe6485.png" width="22" height="22"> [FTP Extension](https://puravidaapps.com/ftp.php) - $10.00
-- <img src="/uploads/default/original/1X/419d79cd3aa4cee0dd9b42c70e969a85e5d654c7.jpg" width="22" height="22"> [Hotspot Extension](https://puravidaapps.com/hotspot.php)
-- <img src="/uploads/default/original/1X/09278c49f168744a6378d261708070fd6c8ecebe.jpg" width="22" height="22"> [Image Extension](https://puravidaapps.com/image.php)
-- <img src="/uploads/default/original/1X/09278c49f168744a6378d261708070fd6c8ecebe.jpg" width="22" height="22"> [Image Metadata Extension](https://puravidaapps.com/metadata.php)
-- <img src="/uploads/default/original/1X/2539948244864c7b36e523b127835fb374fd8496.png" width="22" height="22"> [Light Sensor Extension](https://puravidaapps.com/light.php)
-- <img src="/uploads/default/original/1X/f6ec522b2cb19c8d54759ddb6087ca42b359eac3.png" width="22" height="22"> [Magnetic Sensor Extension](https://puravidaapps.com/magnetic.php)
-- <img src="/uploads/default/original/1X/8cf94c4967d8539ccea69e09825245a13d0ff8e9.png" width="22" height="22"> [Mail Extension](https://puravidaapps.com/mail.php) - $10.00
-- <img src="/uploads/default/original/1X/b2860f143ce3481627b3c7c889e834264cab9dc8.png" width="22" height="22"> [Simple Notification Extension](https://puravidaapps.com/notification.php)
-- <img src="/uploads/default/original/1X/94507e20566c0f1fb679425c543382040e8b494d.jpg" width="22" height="22"> [PDF Extension](https://puravidaapps.com/pdf.php)
-- <img src="/uploads/default/original/1X/be2c88218be5076717bd0d94739635fa7a6abf4e.jpg" width="22" height="22"> [Settings Extension](https://puravidaapps.com/settings.php)
-- <img src="/uploads/default/original/1X/ec37e06875ff0ea5387d763efbd703619429791e.png" width="22" height="22"> [Take ScreenShot Extension](https://puravidaapps.com/screenshot.php)
-- <img src="/uploads/default/original/1X/7a1c120d13f797d2a8a3cfb6ac814cf7874fc9b8.png" width="22" height="22"> [Sharing Extension](https://puravidaapps.com/sharing.php)
-- <img src="/uploads/default/original/1X/e31b9fef299703befe7ce76807738250d234fbce.png" width="22" height="22"> [Speech Recognizer Extension](https://puravidaapps.com/speechRecognizer.php)
-- <img src="/uploads/default/original/1X/00c20775b726ff9adc21785be7ed4405572f5ec0.jpg" width="22" height="22"> [SQLite Extension](https://puravidaapps.com/sqlite.php) - $10.00
-- <img src="/uploads/default/original/1X/ac963580bf16894bfb95ede4c53d7acfe5d3529c.png" width="22" height="22"> [Telephony Manager Extension](https://puravidaapps.com/telephonymanager.php)
-- <img src="/uploads/default/original/1X/19239e40e33f80529fb3944f04240c97a3d8f054.png" width="22" height="22"> [Texting Extension](https://puravidaapps.com/texting.php)
-- <img src="/uploads/default/original/1X/afb017c30c623f01106add637854ef149fc56793.jpg" width="22" height="22"> [Tools Extension](https://puravidaapps.com/tools.php)
-- <img src="/uploads/default/original/1X/49efca1997551641cb3bedf30649195fa630a7ea.png" width="22" height="22"> [WiFi Extension](https://puravidaapps.com/wifi.php)
-- <img src="/uploads/default/original/1X/f8109e76f3dd46fddc0fcbf577e4adc1c3a21f30.png" width="22" height="22"> [ZIP Extension](https://puravidaapps.com/zip.php)
+- <img src="https://puravidaapps.com/images/extensions/user.png" width="22" height="22"> [Account Manager Extension](https://puravidaapps.com/accountmanager.php)
+- <img src="https://puravidaapps.com/images/extensions/aes.png" width="22" height="22"> [AES Encryption Extension](https://puravidaapps.com/aes.php) - $10.00
+- <img src="https://puravidaapps.com/images/extensions/alarm.png" width="22" height="22"> [Alarm Extension](https://puravidaapps.com/alarm.php)
+- <img src="https://puravidaapps.com/images/extensions/player.png" width="22" height="22"> [Enhanced Audio Player Extension](https://puravidaapps.com/player.php)
+- <img src="https://puravidaapps.com/images/extensions/barometer.png" width="22" height="22"> [Barometer Sensor Extension](https://puravidaapps.com/barometer.php)
+- <img src="https://puravidaapps.com/images/extensions/battery.png" width="22" height="22"> [Battery Manager Extension](https://puravidaapps.com/battery.php)
+- <img src="https://puravidaapps.com/images/extensions/google-play.jpg" width="22" height="22"> [Billing Extension](https://puravidaapps.com/billing.php) - $10.00
+- <img src="/https://puravidaapps.com/images/extensions/bluetooth.png" width="22" height="22"> [Classic Bluetooth Extension](https://puravidaapps.com/bluetooth.php) - $10.00
+- <img src="https://puravidaapps.com/images/extensions/camera.png" width="22" height="22"> [Camera Extension](https://puravidaapps.com/camera.php) - $10.00
+- <img src="https://puravidaapps.com/images/extensions/clipboard.png" width="22" height="22"> [ClipBoard Extension](https://puravidaapps.com/clipboard.php)
+- <img src="https://puravidaapps.com/images/extensions/file.png" width="22" height="22"> [File Extension](https://puravidaapps.com/file.php)
+- <img src="https://puravidaapps.com/images/extensions/flashlight.jpg" width="22" height="22"> [FlashLight Extension](https://puravidaapps.com/flashlight.php)
+- <img src="https://puravidaapps.com/images/extensions/ftp.png" width="22" height="22"> [FTP Extension](https://puravidaapps.com/ftp.php) - $10.00
+- <img src="https://puravidaapps.com/images/extensions/hotspot.png" width="22" height="22"> [Hotspot Extension](https://puravidaapps.com/hotspot.php)
+- <img src="https://puravidaapps.com/images/extensions/image.png" width="22" height="22"> [Image Extension](https://puravidaapps.com/image.php)
+- <img src="https://puravidaapps.com/images/extensions/image.png" width="22" height="22"> [Image Metadata Extension](https://puravidaapps.com/metadata.php)
+- <img src="https://puravidaapps.com/images/extensions/light.png" width="22" height="22"> [Light Sensor Extension](https://puravidaapps.com/light.php)
+- <img src="https://puravidaapps.com/images/extensions/magnetic.png" width="22" height="22"> [Magnetic Sensor Extension](https://puravidaapps.com/magnetic.php)
+- <img src="https://puravidaapps.com/images/extensions/mail.png" width="22" height="22"> [Mail Extension](https://puravidaapps.com/mail.php) - $10.00
+- <img src="https://puravidaapps.com/images/extensions/notification.png" width="22" height="22"> [Simple Notification Extension](https://puravidaapps.com/notification.php)
+- <img src="https://puravidaapps.com/images/extensions/pdf.png" width="22" height="22"> [PDF Extension](https://puravidaapps.com/pdf.php)
+- <img src="https://puravidaapps.com/images/extensions/settings.png" width="22" height="22"> [Settings Extension](https://puravidaapps.com/settings.php)
+- <img src="https://puravidaapps.com/images/extensions/screenshot.png" width="22" height="22"> [Take ScreenShot Extension](https://puravidaapps.com/screenshot.php)
+- <img src="https://puravidaapps.com/images/extensions/sharing.png" width="22" height="22"> [Sharing Extension](https://puravidaapps.com/sharing.php)
+- <img src="https://puravidaapps.com/images/extensions/speechRecognizer.png" width="22" height="22"> [Speech Recognizer Extension](https://puravidaapps.com/speechRecognizer.php)
+- <img src="https://puravidaapps.com/images/extensions/sqlite.png" width="22" height="22"> [SQLite Extension](https://puravidaapps.com/sqlite.php) - $10.00
+- <img src="https://puravidaapps.com/images/extensions/telephony.png" width="22" height="22"> [Telephony Manager Extension](https://puravidaapps.com/telephonymanager.php)
+- <img src="https://puravidaapps.com/images/extensions/texting.png" width="22" height="22"> [Texting Extension](https://puravidaapps.com/texting.php)
+- <img src="https://puravidaapps.com/images/extensions/tools.png" width="22" height="22"> [Tools Extension](https://puravidaapps.com/tools.php)
+- <img src="https://puravidaapps.com/images/extensions/wifi.png" width="22" height="22"> [WiFi Extension](https://puravidaapps.com/wifi.php)
+- <img src="https://puravidaapps.com/images/extensions/zip.png" width="22" height="22"> [ZIP Extension](https://puravidaapps.com/zip.php)
 		
 ## Sander
+_(Makeroid Community username: @Sander)_
 
 - [BluetoothPlus Extension](https://www.sanderjochems.com/appinventor/extension/1/bluetoothplus)
 - [ScreenTools Extension](https://www.sanderjochems.com/appinventor/extension/2/screentools)
@@ -85,6 +87,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Sound Manager Extension](https://www.sanderjochems.com/appinventor/extension/6/soundmanager)
 
 ## Pavitra
+_(Makeroid Community username: @pavi2410)_
 
 - [Arduino USB Serial Extension](https://groups.google.com/d/msg/mitappinventortest/WZCUtKAfwj0/4Na63LmnAQAJ)
 - [In App Billing Extension](https://community.thunkable.com/t/free-iap-extension/2082?u=sander0542)
@@ -98,6 +101,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Extra Components Extension](https://community.thunkable.com/t/the-extracomponents-extension-beta/4125?u=sander0542)
 		
 ## Mika
+_(Makeroid Community username: @Mika)_
 
 - [Body Mass Index Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#2)
 - [Click Listener Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#8)
@@ -109,6 +113,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Special Tools Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#4)
 		
 ## Ben
+_(Makeroid Community username: @ben)_
 
 - [Extended WebViewer Extension](https://community.thunkable.com/t/extended-web-viewer-extension/4564?u=sander0542)
 - [Image Cropping Extension](https://community.thunkable.com/t/image-cropping-extension/4953?u=sander0542)

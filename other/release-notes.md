@@ -1,8 +1,8 @@
-#Release Notes
+# Release Notes
 ---
 <!-- timeline -->
 
-##2.0.0
+## 2.0.0
 
 `4 Sep, 2017`
 
@@ -87,7 +87,7 @@
 
 <!-- timeline -->
 
-##1.3.1
+## 1.3.1
 
 `15 Aug, 2017`
 

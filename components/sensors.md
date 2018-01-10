@@ -1,5 +1,7 @@
 # Sensors
 
+Sensors allow you to get sensor data from the users' mobile device and supply those data to your app.
+
 * ###### [Accelerometer](/components/sensors/accelerometer.md) {#data-picker}
 * ###### [Barcode Scanner](/components/sensors/barcode-scanner.md) {#data-picker}
 * ###### [Clock](/components/sensors/clock.md) {#data-picker}

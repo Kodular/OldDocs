@@ -1,5 +1,7 @@
 # Social
 
+Social components allow you to perform social actions. _(For example: Google Account Picker component to get the saved Google Account from the device / Twitter component to perform actions on your Twitter account.)_
+
 * ###### [Contact Picker](/components/social/contact-picker.md) {#data-picker}
 * ###### [Email Picker](/components/social/email-picker.md) {#data-picker}
 * ###### [Google Account Picker](/components/social/google-account-picker.md) {#data-picker}

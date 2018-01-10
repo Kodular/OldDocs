@@ -1,5 +1,7 @@
 # Storage
 
+Storage components allow you to store data/file on the local device or the cloud.
+
 * ###### [File](/components/storage/file.md) {#data-picker}
 * ###### [Firebase DB](/components/storage/firebase-db.md) {#data-picker}
 * ###### [Fusiontables Control](/components/storage/fusiontables-control.md) {#data-picker}
