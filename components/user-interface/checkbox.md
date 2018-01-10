@@ -8,21 +8,17 @@ A checkbox component can detect user taps and can change their boolean state in 
 
 ##### Changed
 
-![](/assets/user-interface/checkbox/Changed.png)
 
-User tapped and released checkbox.
 
-##### Got Focus
+User tapped and released check box.
 
-![](/assets/user-interface/checkbox/GotFocus.png)
+##### GotFocus
 
-checkbox became the focused component.
+Check box became the focused component.
 
-##### Lost Focus
+##### LostFocus
 
-![](/assets/user-interface/checkbox/LostFocus.png)
-
-checkbox stopped being the focused component.
+Check box stopped being the focused component.
 
 ---
 
@@ -30,67 +26,37 @@ checkbox stopped being the focused component.
 
 ##### BackgroundColor
 
-![](/assets/user-interface/checkbox/BackgroundColor.png)
-
-Color for checkbox background.
+Color for check box background.
 
 ##### Checked
 
-![](/assets/user-interface/checkbox/Checked.png)
-
 True if the box is checked, false otherwise.
 
-##### Checkbox Color
-
-![](/assets/user-interface/checkbox/CheckboxColor.png)
+**Checkbox Color**
 
 Change the checkbox component color
 
 ##### Enabled
 
-![](/assets/user-interface/checkbox/Enabled.png)
-
-If set, user can tap checkbox to cause action.
+If set, user can tap check box to cause action.
 
 ##### Height
 
-![](/assets/user-interface/checkbox/Height.png)
-
-checkbox height \(y-size\).
-
-##### Height Percent
-
-![](/assets/user-interface/checkbox/HeightPercent.png)
-
-checkbox height in percent \(y-size\).
-
-##### Text
-
-![](/assets/user-interface/checkbox/Text.png)
-
-Text to display on checkbox.
-
-##### TextColor
-
-![](/assets/user-interface/checkbox/TextColor.png)
-
-Color for checkbox text.
-
-##### Visible
-
-![](/assets/user-interface/checkbox/Visible.png)
-
-If set, checkbox is visible.
+Check box height \(y-size\).
 
 ##### Width
 
-![](/assets/user-interface/checkbox/Width.png)
+Check box width \(x-size\).
 
-checkbox width \(x-size\).
+##### Text
 
-##### Width Percent
+Text to display on check box.
 
-![](/assets/user-interface/checkbox/WidthPercent.png)
+##### TextColor
 
-checkbox width in percent \(x-size\).
+Color for check box text.
+
+##### Visible
+
+If set, check box is visible.
 
