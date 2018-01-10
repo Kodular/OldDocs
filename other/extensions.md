@@ -41,9 +41,8 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [RatingBar Extension](http://community.appybuilder.com/t/ratingbar-extension/214?u=sander0542)
 - [Text Utils Extension](https://amerkashi.wordpress.com/2017/03/09/textutils-extension/)
 		
-## <img src="https://puravidaapps.com/images/logo.png" width="30" height="30"> Pura Vida Apps
-
-
+## <img src="https://puravidaapps.com/images/logo.png" width="30" height="30"> Pura Vida Apps 
+_(Makeroid Community username: @Taifun)_
 
 - <img src="https://puravidaapps.com/images/extensions/user.png" width="22" height="22"> [Account Manager Extension](https://puravidaapps.com/accountmanager.php)
 - <img src="https://puravidaapps.com/images/extensions/aes.png" width="22" height="22"> [AES Encryption Extension](https://puravidaapps.com/aes.php) - $10.00
@@ -78,6 +77,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - <img src="https://puravidaapps.com/images/extensions/zip.png" width="22" height="22"> [ZIP Extension](https://puravidaapps.com/zip.php)
 		
 ## Sander
+_(Makeroid Community username: @Sander)_
 
 - [BluetoothPlus Extension](https://www.sanderjochems.com/appinventor/extension/1/bluetoothplus)
 - [ScreenTools Extension](https://www.sanderjochems.com/appinventor/extension/2/screentools)
@@ -87,6 +87,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Sound Manager Extension](https://www.sanderjochems.com/appinventor/extension/6/soundmanager)
 
 ## Pavitra
+_(Makeroid Community username: @pavi2410)_
 
 - [Arduino USB Serial Extension](https://groups.google.com/d/msg/mitappinventortest/WZCUtKAfwj0/4Na63LmnAQAJ)
 - [In App Billing Extension](https://community.thunkable.com/t/free-iap-extension/2082?u=sander0542)
@@ -100,6 +101,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Extra Components Extension](https://community.thunkable.com/t/the-extracomponents-extension-beta/4125?u=sander0542)
 		
 ## Mika
+_(Makeroid Community username: @Mika)_
 
 - [Body Mass Index Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#2)
 - [Click Listener Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#8)
@@ -111,6 +113,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Special Tools Extension](https://nmd-apps.jimdo.com/extensions/nmd-extensions/#4)
 		
 ## Ben
+_(Makeroid Community username: @ben)_
 
 - [Extended WebViewer Extension](https://community.thunkable.com/t/extended-web-viewer-extension/4564?u=sander0542)
 - [Image Cropping Extension](https://community.thunkable.com/t/image-cropping-extension/4953?u=sander0542)
