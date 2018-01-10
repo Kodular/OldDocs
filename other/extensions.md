@@ -43,7 +43,9 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 		
 ## <img src="/uploads/default/original/1X/b084e9fd63f8f8baa0459986b7b3ad2209e20271.jpg" width="30" height="30"> Pura Vida Apps
 
-- <img src="/uploads/default/original/1X/6e90a5ddbe794a3b68b6a58ddd98efc7f393b024.jpg" width="22" height="22"> [Account Manager Extension](https://puravidaapps.com/accountmanager.php)
+/uploads/default/original/1X/6e90a5ddbe794a3b68b6a58ddd98efc7f393b024.jpg
+
+- <img src="https://puravidaapps.com/images/extensions/user.png" width="22" height="22"> [Account Manager Extension](https://puravidaapps.com/accountmanager.php)
 - <img src="/uploads/default/original/1X/0c4a69399f5af813d25565d76cf6b14884fda312.png" width="22" height="22"> [AES Encryption Extension](https://puravidaapps.com/aes.php) - $10.00
 - <img src="/uploads/default/original/1X/bc4e0a557ef332b093b326c0492c73e927f9194c.png" width="22" height="22"> [Alarm Extension](https://puravidaapps.com/alarm.php)
 - <img src="/uploads/default/original/1X/766eeb8131006bdd35b6b5e603fd788779b53c59.jpg" width="22" height="22"> [Enhanced Audio Player Extension](https://puravidaapps.com/player.php)
