@@ -10,7 +10,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
 <hr>
 
-## MIT App Inventor
+##  <img src="https://puravidaapps.com/images/ai2logo.png" width="82" height="82"> MIT App Inventor
 
 - [Bluetooth Low Energy Extension](http://appinventor.mit.edu/extensions/)
 - [Image Processor Extension](http://appinventor.mit.edu/extensions/)
@@ -29,7 +29,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Computer Vision Extension](http://learn.makeblock.com/en/user-makeblock-computer-vision-extension-for-app-inventor/)
 - [mBot Extension](http://learn.makeblock.com/en/use-mbot-with-app-inventor/)
 
-## Thunkable
+## <img src="https://puravidaapps.com/images/thunkable.JPG" width="82" height="24"> Thunkable
 
 - [Microsoft Emotion Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftEmotionRecognizer.aix)
 - [Microsoft Image Recognizer](https://thunkable.github.io/extensions/files/com.thunkable.ai.MicrosoftImageRecognizer.aix)
