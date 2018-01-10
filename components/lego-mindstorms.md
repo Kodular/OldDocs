@@ -1,5 +1,7 @@
 # Lego Mindstorms
 
+LEGO Mindstorms components allows you to control your Mindstorms™️ robot (EV3 or NXT).
+
 * ###### [NXT Drive](/components/lego-mindstorms/nxt-drive.md) {#button}
 * ###### [NXT Color Sensor](/components/lego-mindstorms/nxt-color-sensor.md) {#button}
 * ###### [NXT Light Sensor](/components/lego-mindstorms/nxt-lightsensor.md) {#button}
