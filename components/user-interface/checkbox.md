@@ -8,17 +8,21 @@ A checkbox component can detect user taps and can change their boolean state in 
 
 ##### Changed
 
+![](/assets/user-interface/checkbox/Changed.png)
 
+User tapped and released checkbox.
 
-User tapped and released check box.
+##### Got Focus
 
-##### GotFocus
+![](/assets/user-interface/checkbox/GotFocus.png)
 
-Check box became the focused component.
+checkbox became the focused component.
 
-##### LostFocus
+##### Lost Focus
 
-Check box stopped being the focused component.
+![](/assets/user-interface/checkbox/LostFocus.png)
+
+checkbox stopped being the focused component.
 
 ---
 
@@ -26,37 +30,67 @@ Check box stopped being the focused component.
 
 ##### BackgroundColor
 
-Color for check box background.
+![](/assets/user-interface/checkbox/BackgroundColor.png)
+
+Color for checkbox background.
 
 ##### Checked
 
+![](/assets/user-interface/checkbox/Checked.png)
+
 True if the box is checked, false otherwise.
 
-**Checkbox Color**
+##### Checkbox Color
+
+![](/assets/user-interface/checkbox/CheckboxColor.png)
 
 Change the checkbox component color
 
 ##### Enabled
 
-If set, user can tap check box to cause action.
+![](/assets/user-interface/checkbox/Enabled.png)
+
+If set, user can tap checkbox to cause action.
 
 ##### Height
 
-Check box height \(y-size\).
+![](/assets/user-interface/checkbox/Height.png)
 
-##### Width
+checkbox height \(y-size\).
 
-Check box width \(x-size\).
+##### Height Percent
+
+![](/assets/user-interface/checkbox/HeightPercent.png)
+
+checkbox height in percent \(y-size\).
 
 ##### Text
 
-Text to display on check box.
+![](/assets/user-interface/checkbox/Text.png)
+
+Text to display on checkbox.
 
 ##### TextColor
 
-Color for check box text.
+![](/assets/user-interface/checkbox/TextColor.png)
+
+Color for checkbox text.
 
 ##### Visible
 
-If set, check box is visible.
+![](/assets/user-interface/checkbox/Visible.png)
+
+If set, checkbox is visible.
+
+##### Width
+
+![](/assets/user-interface/checkbox/Width.png)
+
+checkbox width \(x-size\).
+
+##### Width Percent
+
+![](/assets/user-interface/checkbox/WidthPercent.png)
+
+checkbox width in percent \(x-size\).
 

@@ -35,4 +35,3 @@ Specifies whether the component should be visible on the screen. Value is true i
 #### Width
 
 #### WidthPercent
-
