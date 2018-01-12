@@ -7,8 +7,9 @@
         "favicon": "favicon.ico",
         "ribbon": {
             "color": "blue",
-            "text": "Work in Progress",
-            "url": "https://makeroid.io"
+            "icon": "fa-github",
+            "text": "Help us filling this!",
+            "url": "https://github.com/Makeroid/docs"
             }
     },
     "styles": {
