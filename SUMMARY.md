@@ -142,6 +142,4 @@
   * [Create Extensions](/other/create-extensions.md)
 * [Release Notes](other/release-notes.md)
 * [Backpack](/other/backpack.md)
-
-## Troubleshooting
-
+* [Donate](https://paypal.me/Makeroid)
