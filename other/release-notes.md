@@ -153,6 +153,9 @@ Instructions
 
  - Added MultiLanguage Support (detected automatically from Device’s language)
 
+<!-- /timeline -->
+
+<!-- timeline -->
 
 ##2.2.0
 `12 Nov, 2017`
@@ -264,6 +267,10 @@ Instructions
 
  - Fixed Player bug - Load files from assets was not working
 
+<!-- /timeline -->
+
+<!-- timeline -->
+
 ##2.1.0
 `7 Oct, 2017`
 
@@ -286,6 +293,10 @@ Instructions
 
  - Fixed Companion for Live Testing
  - Fixed QR Code Screen
+ 
+<!-- /timeline -->
+
+<!-- timeline -->
 
 ##2.1.0
 `1 Oct, 2017`
@@ -365,6 +376,10 @@ Thanks to all those who helped us catch and fix those pesky errors!
  - Fixed Firebase bug that crashes apps
 
  - Added default Android Animation in all button’s shapes
+
+<!-- /timeline -->
+
+<!-- timeline -->
 
 ##2.0.0
 
