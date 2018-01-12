@@ -8,13 +8,13 @@ This is a very simple component to allow you to get some basic network info abou
 
 ##### On Connect
 
-![](/assets/connectivity/network/OnConnect.png)
+![](/assets/OnConnect.png)
 
 The On Connect Event is called when the device connects to a WiFi or mobile network.
 
 ##### On Disconnect
 
-![](/assets/connectivity/network/OnDisconnect.png)
+![](/assets/OnDisconnect.png)
 
 The On Disconnect Event is called when the device disconnects from a WiFi or mobile network.
 
@@ -24,13 +24,13 @@ The On Disconnect Event is called when the device disconnects from a WiFi or mob
 
 ##### Is Connected
 
-![](/assets/connectivity/network/IsConnected.png)
+![](/assets/IsConnected.png)
 
 Is Connected returns True or False depending whether the device is connected to a WiFi or mobile network.
 
 ##### Type
 
-![](/assets/connectivity/network/Type.png)
+![](/assets/Type.png)
 
 Type returns the type of network that the device is connected to. Possible types are WiFi and Mobile.
 
