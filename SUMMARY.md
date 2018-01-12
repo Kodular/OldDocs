@@ -36,7 +36,7 @@
     * [Metadata](components/media/metadata.md)
     * [OCR](components/media/ocr.md)
     * [Player](components/media/player.md)
-    * [Qr Code](components/media/qr-code.md)
+    * [QR Code](components/media/qr-code.md)
     * [Sound](components/media/sound.md)
     * [Sound Recorder](components/media/soundrecorder.md)
     * [Speech Recognizer](components/media/speechrecognizer.md)
