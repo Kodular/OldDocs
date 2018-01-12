@@ -44,8 +44,8 @@ Logs a warning message to the Android log.
 
 ---
 
-The messages in the dialogs (but not the alert) can be formatted using the following HTML tags:<b>, <big>, <blockquote>, <br>, <cite>, <dfn>, <div>, <em>, <small>, <strong>, <sub>, <sup>, <tt>. <u>
-You can also use the font tag to specify color, for example, <font color="blue">. Some of the available color names are aqua, black, blue, fuchsia, green, grey, lime, maroon, navy, olive, purple, red, silver, teal, white, and yellow
+The messages in the dialogs (but not the alert) can be formatted using the following HTML tags: `<b>, <big>, <blockquote>, <br>, <cite>, <dfn>, <div>, <em>, <small>, <strong>, <sub>, <sup>, <tt>, <u>`
+You can also use the font tag to specify color, for example, `<font color="blue">`. Some of the available color names are aqua, black, blue, fuchsia, green, grey, lime, maroon, navy, olive, purple, red, silver, teal, white, and yellow
 
 ---
 
