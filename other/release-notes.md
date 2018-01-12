@@ -271,7 +271,7 @@ Instructions
 
 <!-- timeline -->
 
-##2.1.0
+##2.1.1
 `7 Oct, 2017`
 
  - Event to receive OCR Server Status
@@ -292,6 +292,7 @@ Instructions
  - Updated Translations
 
  - Fixed Companion for Live Testing
+ 
  - Fixed QR Code Screen
  
 <!-- /timeline -->
