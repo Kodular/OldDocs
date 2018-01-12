@@ -9,7 +9,7 @@ The components in the Media section are usefull tools for the user to make many 
 * ###### [Metadata](/components/media/metadata.md)
 * ###### [OCR](/components/media/ocr.md)
 * ###### [Player](/components/media/player.md)
-* ###### [Qr Code](/components/media/qr-code.md)
+* ###### [QR Code](/components/media/qr-code.md)
 * ###### [Sound](/components/media/sound.md)
 * ###### [Sound Recorder](#sound-recorder)
 * ###### [Speech Recognizer](#speech-recognizer)
