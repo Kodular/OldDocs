@@ -6,7 +6,7 @@
             },
         "favicon": "favicon.ico",
         "ribbon": {
-            "color": "purple",
+            "color": "blue",
             "icon": "fa-github",
             "text": "Help Us!",
             "url": "https://github.com/Makeroid/docs"
