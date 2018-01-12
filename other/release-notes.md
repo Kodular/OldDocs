@@ -2,6 +2,370 @@
 ---
 <!-- timeline -->
 
+##3.0.0
+`25 Dec, 2017`
+
+* ####New Components
+
+ - Created SurfaceView Component in User Interface category
+
+ - Created VideoPicker Component in Media category
+
+ - Created LeadBolt Component in Monetization category
+
+ - Created Space Component in Layout category
+
+ - Created Notification Component in Experimental category
+
+ - Created CloudDB Component in Experimental category
+
+ - Created DeviceTools Component in new Device category
+
+ - Created Wallpaper Component in new Device category
+
+ - Created Audio Component in new Device category
+
+ - Created Package Component in new Device category
+
+ - Created Screenshot Component in new Device category
+
+ - Created GoogleShortlink Component in new Google category
+
+* ####New Events
+
+ - Added to Screen OnAppResume Event
+
+ - Added to Screen OnAppPause Event
+
+ - Added to Screen OnAppStop Event
+
+ - Added to TextBox OnTextChanged Event
+
+ - Added to Download GotFileSize Event
+
+ - Added to Download DownloadComplete Event return options now FileSize, Name and Path
+
+ - Added to Notifier AfterMessageDialog Event (for Custom Choose Dialog)
+
+* ####New Properties
+
+ - Added to Screen About Screen Title Property
+
+ - Added to Screen Show Options Menu Property (Hide or show the 3 Dots Menu)
+
+ - Added to TextBox TextLength Property
+
+ - Added to TextBox CurrentPosition Property
+
+ - Added to All Layouts is Card Property
+
+ - Added to VideoPlayer Volume Property
+
+ - Added to VideoPlayer IsPlaying Property
+
+ - Added to VideoPlayer CurrentPosition Property
+
+* ####New Functions
+
+ - Added to Screen Task Description Function
+
+ - Added to TextBox SetCursorAt Function
+
+ - Added to TextBox SetCursorAtEnd Function
+
+ - Added to Download GetFileSize Function
+
+* ####Bugs Fixed
+
+ - Fixed some upper case camels
+
+ - Fixed Network issue (Null pointer exceptions on some Android 5 devices)
+
+ - Fixed Network issue (“IsConnected” block was not correct working)
+
+ - Fixed ListView issue (change text size was not possible)
+
+ - Fixed Switch bug (bold, italic was not working)
+
+ - Fixed Textbox bug (projects with checked “Numbers Only” in textbox were not importable)
+
+ - Fixed RadioButton bug (text color was not working)
+
+ - Fixed Download bug (there was something wrong with the properties)
+
+ - Fixed Menu Initialize event bug (on screen orientation was all items removed)
+
+ - Fixed Spinner bug (some letters was not full visible)
+
+ - Fixed Button bug (Color NONE was not working for buttons with default shape option)
+
+* ####Other Changes
+ - SET A CUSTOM PACKAGE NAME FOR YOUR APP (thanks to AppyBuilder team)
+(Removed the PackageName input from NewProject dialog, set it from Screen1)
+Instructions
+
+ - Implemented PushNotifications inside the Builder, so users can subscribe to be up-to-date with latest Makeroid Announcements
+
+ - Added *.gif support (animated images) for Image Component
+
+ - Added input type Phone Number to TextBox Component
+
+ - Added support for Dragging and Dropping Components on mobile (merged from Evan’s PullRequest)
+
+ - Moved GoogleMap Component to new Google category
+
+ - Moved GoogleAccount Component to new Google category
+
+ - Updated Translations from Makeroid Translation Center
+
+* ###File Component Update
+
+ - Added New Methods to File component:
+    - Move
+    - GetTotalSpace
+    - GetFreeSpace
+    - Exists
+    - FileSize
+    - Copy
+    - GetFileName
+    - IsFile
+    - IsDirectory
+
+* ####UI Update
+
+ - Designer now provides draggable text-entry for entering text in the following Components:
+
+ - Qr Code
+    - ListView (elements from string)
+    - TextBox
+    - Checkbox
+    - Label
+    - RadioButton
+    - Switch
+
+ - Redesigned Components Palette: Now there is a table with all components instead of a list
+
+ - Added Scrollbars to different boxes to enhance user experience
+
+* ####Companion Changes
+
+ - Compressed Images Size (which probably was causing the “Companion stopped working” error)
+
+ - Added MultiLanguage Support (detected automatically from Device’s language)
+
+
+##2.2.0
+`12 Nov, 2017`
+
+* ####New Components
+
+ - Created SQLite Component by @CarlosPedroza27
+
+ - Created Download Component
+
+ - Created Fingerprint Component
+
+ - Created SoundSensor Component
+
+ - Created GoogleAccountPicker Component (check this thread)
+
+ - Moved Firebase from Experimental to Storage category
+
+* ####New Properties
+
+ - Added to VideoPlayer new property show/hide the control button blocks
+ - Added to WebViewer new property Use External Browser
+ - Added to WebViewer new property Scrollbar
+ - Added to ScrollableArrangements new property Scrollbar
+ - Added to Screen new property is Keyboard Visible
+ - Added to Slider new property Thumb Color
+ - Added to Slider new property Thumb Image
+ - Added to Player new property Current Position
+ - Added to Player new property Duration
+ - Added to Player new property Get TrackInfo
+ - Added to Player new property Volume
+ - Added to OCR new property Return Only Message
+ - Added to Buttons new function Border Shadow (for Android 5+)
+ - Added to TextBox new function Decimal number and Phone Number
+ - Added to PushNotifications new function Enable Log
+ - Added to PushNotifications new function Enable Sound
+ - Added to PushNotifications new function Enable Vibration
+ - Added to PushNotifications new property Get Permission Status
+ - Added to PushNotifications new property Get Subscription Status
+ - Added to PushNotifications new property Get User Id
+ - Added to PushNotifications new property Get Permission Status
+ - Added to PushNotifications new function Set Subscription
+
+* ####New Events
+
+ - Added to WebViewer new event Progress Changed
+
+ - Added to WebViewer new event Cookies Removed
+
+* ###New Functions
+
+ - Added to WebViewer new function Clear Cookies
+
+ - Added to BluetoothClient new function Remove Name From Address
+
+ - Added to Player new function Seek To
+
+ - Added to Firebase new functions Go Online & Go Offline
+
+ - Added to Google Maps new functions Add Polyline, Remove Polyline & Update Polyline
+
+* #### Other Updates
+ 
+ - Notifier Update based on @vishwasadiga Dialogs Extension
+
+   - New property Light Theme
+   - New function Show Lightbox
+   - New event Lightbox Closed
+   - New function Show Radio List Dialog
+   - New event Radio Selection
+   - New function Show Checkbox List Dialog
+   - New event Checkbox Selection
+   - New function Show List Picker
+   - New event List Picker Selection
+   - New function Show Image Dialog
+   - New event Image Dialog Close
+   - New function Show Number Picker
+   - New event Number Picker Selection
+   - New function Show Word Picker
+   - New event Word Picker Selection
+   - New function Custom Choose Dialog
+   - New event Got Custom Choose Dialog
+   - New function Custom Message Dialog
+   - New function Show Text Input Dialog
+   - New event Got Text Input From Dialog
+   - New function Update Progress
+   - New function Show Spinning Progress
+   - New function Show Linear Progress
+   - New function Dismiss Spinning Progress
+   - Now assets are saved at /Makeroid directory
+
+ - Enabled for WebViewer setAllowFileAccess8 and setAllowContentAccess5
+
+* ####Companion Changes
+ - Fixed Companion stopped working error
+
+ - Fixed Status Tab which wasn’t showing the Status Site
+
+ - Added AdMob Banner at Testing Tab (our servers costs have increased and we have to pay them :sweat_smile:)
+
+* ####Bugs Fixed
+ - Fixed VideoPlayer bug - Now you can play videos from external URL
+
+ - Fixed WebViewer bug - URL Loading
+
+ - Fixed Slider bug - When Disabled > Ugly Slider
+
+ - Fixed Spinner bug - Item Background Color crashed on devices below API 16. Now it works too for all APIs below 16
+
+ - Fixed Player bug - Load files from assets was not working
+
+##2.1.0
+`7 Oct, 2017`
+
+ - Event to receive OCR Server Status
+ - Function to call the new OCR Event
+ * New Sharing Features:
+   - Event AppNotFound
+   - Function ShareMessage to:
+    - Facebook
+    - FacebookMessenger
+    - Twitter
+    - Telegram
+    - Google+
+    - SnapChat
+    - WhatsApp
+   - Property ShareDialogMessage
+ - Fixed PopupPanel position in Chrome
+
+ - Updated Translations
+
+ - Fixed Companion for Live Testing
+ - Fixed QR Code Screen
+
+##2.1.0
+`1 Oct, 2017`
+
+* ####New Components
+
+ - Made Billing component visible for everyone
+ 
+* ####New Features
+
+ - New Hint Color Property for Textbox
+
+ - Hide Border on Buttons for devices with API >= 21
+
+ - YandexTranslate updated with new ApiKey property
+
+ - ListPicker V2 with Material Design
+
+ - New methods to set and get the text size in Switch, Radiobutton, ListView and Spinner
+
+ - Item Height in % for ListView
+
+ - Added HighlightColor on Textbox
+
+ - Added TitlebarTextColor property
+
+ - Show TitlebarBackButton method added
+
+ - Implemented Touch Color Property for Buttons with _Android >= 5
+
+ - TitleBar Subtitle has HTML Support now
+
+ - Created new default fonts (roboto thin, roboto regular, font awesome, material icons)
+
+ - Added Canvas Fonts & Scale Property
+
+ - Made clickable arrangements (horizontal, horizontal scroll, vertical & vertical scroll layouts)
+
+ - New OCR properties: CreateSearchablePdf & ReturnOnlyPdfLink
+
+ - New Notifier/ Toast functions: Change the text color and the background of a toast message
+
+* ####Important Changes
+
+ - OptionMenus must now be added with a ‘make a list’ block. Remember to update the blocks in your apps using this function created before the update.
+
+ - Removed “Prompt” in Spinner and added new property for spinner “Use Prompt” and “Prompt Item Color”
+
+ - Removed NumbersOnly property on the TextBox
+
+* ####UI Updates
+
+ - Added a beautiful Night Theme to the builder to help Makers that like to code during the night
+
+ - Added a new ColorPicker to set custom colours
+
+ - Added DropFileToUpload in Assets
+
+ - Added MediaPreview in Assets
+
+ - Made FloatingBox draggable
+
+* ####Live Testing
+
+ - We have just added an ad to the Status tab in the companion, which newer version can be downladed here
+We hope to have an automatic update feature in the next version of it
+
+ - The Makeroid Starter has the same version. There’s no need to update it
+
+* ####Bugs fixed
+
+ - The team has fixed lots of bugs that were reported here and through the Support Chat
+Thanks to all those who helped us catch and fix those pesky errors!
+
+ - Fixed some design bugs on the designer, concretly on the phone screen
+
+ - Fixed Firebase bug that crashes apps
+
+ - Added default Android Animation in all button’s shapes
+
 ##2.0.0
 
 `4 Sep, 2017`
