@@ -1,4 +1,4 @@
-# PhoneCall
+# Phone Call
 
 A non-visible component that makes a phone call to the number specified in the PhoneNumber property, which can be set either in the Designer or Blocks Editor. The component has a MakePhoneCall method, enabling the program to launch a phone call.
 
