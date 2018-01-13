@@ -3,7 +3,7 @@
 * ###### [Accelerometer](/components/sensors/accelerometer.md) {#data-picker}
 * ###### [Barcode Scanner](/components/sensors/barcode-scanner.md) {#data-picker}
 * ###### [Clock](/components/sensors/clock.md) {#data-picker}
-* ###### [Finger Print](/components/experimental/finger-print.md) {#data-picker}
+* ###### [Finger Print](/components/sensors/finger-print.md) {#data-picker}
 * ###### [Gravity Sensor](/components/sensors/gravity-sensor.md) {#data-picker}
 * ###### [Gyroscope Sensor](/components/sensors/gyroscope-sensor.md) {#data-picker}
 * ###### [Light Sensor](/components/sensors/light-sensor.md) {#data-picker}
