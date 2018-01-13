@@ -1,4 +1,4 @@
-# SpeechRecognizer
+# Speech Recognizer
 
 Use a speech recognizer component to listen to the user speaking and convert the spoken sound into text using Android's speech recognition feature.
 

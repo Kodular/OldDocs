@@ -1,4 +1,4 @@
-# Ev3Motors
+# EV3 Motors
 
 A component that provides both high- and low-level interfaces to a LEGO MINDSTORMS EV3 robot, with functions that can control the motors.
 

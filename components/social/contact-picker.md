@@ -1,4 +1,4 @@
-# ContactPicker
+# Contact Picker
 
 A button that, when clicked on, displays a list of the contacts to choose among. After the user has made a selection, the following properties will be set to information about the chosen contact:
 
