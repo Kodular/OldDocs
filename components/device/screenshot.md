@@ -18,39 +18,51 @@ Screenshot component lets you to take screenshots of your current screen.
 
 ##### Got Screenshot
 
-![](TurboProgramming/docs/assets/user-interface/screenshot/got-screenshot.png)
+![](/assets/user-interface/screenshot/got-screenshot.png)
 
 When the users clicks on the button.
 
-##### Got Focus
+##### Take Screenshot
 
-![](/assets/user-interface/button/GotFocus.png)
+![](/assets/user-interface/screenshot/take-screenshot.png)
 
-Indicates the cursor moved over the button so it is now possible to click it.
+Description
 
-##### Long Click
+##### Allow Screenshots
 
-![](/assets/user-interface/button/LongClick.png)
+![](/assets/user-interface/screenshot/allow-screenshot.png)
 
-When the users helds the button down.
+Description
 
-##### Lost Focus
+##### Notification Big Style
 
-![](/assets/user-interface/button/LostFocus.png)
+![](/assets/user-interface/screenshot/notification-big-style.png)
 
-Indicates the cursor moved away from the button so it is now no longer possible to click it.
+Description
 
-##### Touch Down
+##### Notification Share Style
 
-![](/assets/user-interface/button/TouchDown.png)
+![](/assets/user-interface/screenshot/notification-share-title.png)
 
-When the user press the button down.
+Description
 
-##### Touch Up
+##### Notification Title
 
-![](/assets/user-interface/button/TouchUp.png)
+![](/assets/user-interface/screenshot/notification-title.png)
 
-When the user releases the button.
+Description
+
+##### Notification
+
+![](/assets/user-interface/screenshot/show-notification.png)
+
+Description
+
+##### Preview
+
+![](/assets/user-interface/screenshot/show-preview.png)
+
+Description
 
 ---
 
