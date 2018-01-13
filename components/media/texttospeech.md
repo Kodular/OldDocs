@@ -1,4 +1,4 @@
-# TextToSpeech
+# Text To Speech
 
 The TextToSpeech component speaks a given text aloud. You can set the pitch and the rate of speech.
 
