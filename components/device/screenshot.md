@@ -18,7 +18,7 @@ Screenshot component lets you to take screenshots of your current screen.
 
 ##### Got Screenshot
 
-![](assets/user-interface/screenshot/got-screenshot.png)
+![](docs/assets/user-interface/screenshot/got-screenshot.png)
 
 When the users clicks on the button.
 
