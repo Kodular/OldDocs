@@ -21,6 +21,12 @@ Screenshot component lets you to take screenshots of your current screen.
 
 When the user got the screenshot.
 
+
+
+---
+
+## Methods
+
 ##### Take Screenshot
 
 ![](/assets/user-interface/screenshot/take-screenshot.png)
@@ -62,17 +68,6 @@ The option to show notifications or not.
 ![](/assets/user-interface/screenshot/show-preview.png)
 
 The option to show preview or not.
-
----
-
-## Methods
-
-##### Button Click
-
-![](/assets/user-interface/button/ButtonClick.png)
-
-Preform a click on the button.
-
 ---
 
 ### Properties
