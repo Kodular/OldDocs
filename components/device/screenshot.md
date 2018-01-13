@@ -3,14 +3,13 @@
 Screenshot component lets you to take screenshots of your current screen.
 
 - [Got Screenshot](#got-screenshot)
-- Take Screenshot
-- Allow Screenshots
-- File Name
-- Notification Big Style
-- Notification Share Style
-- Notification Title
-- Notification
-- Preview
+- [Take Screenshot](#take-screenshot)
+- [Allow Screenshots](#allow-screenshots)
+- [Notification Big Style](#notification-big-style)
+- [Notification Share Style](#notification-share-style)
+- [Notification Title](#notification-title)
+- [Notification](#notification)
+- [Preview](#preview)
 
 ---
 
