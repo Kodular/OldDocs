@@ -18,7 +18,7 @@ Screenshot component lets you to take screenshots of your current screen.
 
 ##### Got Screenshot
 
-![](docs/assets/user-interface/screenshot/got-screenshot.png)
+![](TurboProgramming/docs/assets/user-interface/screenshot/got-screenshot.png)
 
 When the users clicks on the button.
 
