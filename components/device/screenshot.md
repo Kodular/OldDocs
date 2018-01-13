@@ -2,7 +2,7 @@
 
 Screenshot component lets you to take screenshots of your current screen.
 
-- Got Screenshot
+- Got Screenshot [#events]
 - Take Screenshot
 - Allow Screenshots
 - File Name
