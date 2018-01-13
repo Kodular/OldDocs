@@ -25,7 +25,7 @@ When the user got the screenshot.
 
 ---
 
-## Methods
+### Methods
 
 ##### Take Screenshot
 
