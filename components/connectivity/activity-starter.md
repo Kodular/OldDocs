@@ -1,4 +1,4 @@
-# ActivityStarter
+# Activity Starter
 
 A component that can launch an activity using the `StartActivity` method.
 
