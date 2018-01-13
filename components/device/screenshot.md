@@ -17,7 +17,7 @@ Screenshot component lets you to take screenshots of your current screen.
 
 ##### Got Screenshot
 
-![](/assets/user-interface/screenshot/got-screenshot.png)
+![](/assets/device/screenshot/got-screenshot.png)
 
 When the user got the screenshot.
 
@@ -29,7 +29,7 @@ When the user got the screenshot.
 
 ##### Take Screenshot
 
-![](/assets/user-interface/screenshot/take-screenshot.png)
+![](/assets/device/screenshot/take-screenshot.png)
 
 Allows the user to take a Screenshot.
 
@@ -40,37 +40,37 @@ Allows the user to take a Screenshot.
 
 ##### Allow Screenshots
 
-![](/assets/user-interface/screenshot/allow-screenshot.png)
+![](/assets/device/screenshot/allow-screenshot.png)
 
 Allows the user to take a Screenshot manually on that page. This acts like a permission. If false, there will be a toast warning notifying the user that its not allowed to take screenshots on that page.
 
 ##### Notification Big Style
 
-![](/assets/user-interface/screenshot/notification-big-style.png)
+![](/assets/device/screenshot/notification-big-style.png)
 
 Makes the notification style big.
 
 ##### Notification Share Style
 
-![](/assets/user-interface/screenshot/notification-share-title.png)
+![](/assets/device/screenshot/notification-share-title.png)
 
 Makes the notification style sharable.
 
 ##### Notification Title
 
-![](/assets/user-interface/screenshot/notification-title.png)
+![](/assets/device/screenshot/notification-title.png)
 
 Allows the user to change the notification title.
 
 ##### Notification
 
-![](/assets/user-interface/screenshot/show-notification.png)
+![](/assets/device/screenshot/show-notification.png)
 
 The option to show notifications or not.
 
 ##### Preview
 
-![](/assets/user-interface/screenshot/show-preview.png)
+![](/assets/device/screenshot/show-preview.png)
 
 The option to show preview or not.
 
