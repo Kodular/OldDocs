@@ -70,7 +70,7 @@ Using the Status Page you can check which services' of Makeroid is working or in
 
 ---
 
-![](/master/assets/overview.png)
+![](/assets/overview.png)
 
 ---
 
