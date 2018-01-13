@@ -1,4 +1,4 @@
-# HorizontalArrangement
+# Horizontal Arrangement
 
 Use a horizontal arrangement component to display a group of components laid out from left to right.
 
