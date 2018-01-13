@@ -14,23 +14,23 @@ The LeadBolt component allows you to show both Rewarded and Interstitial ads in 
 
 ##### Ad Cached
 
-![](/assets/leadboltAdCached.png)
+![](/assets/monetization/leadbolt/AdCached.png)
 
 ##### Ad Clicked
 
-![](/assets/leadboltAdClicked.png)
+![](/assets/monetization/leadbolt/AdClicked.png)
 
 ##### Ad Closed
 
-![](/assets/leadboltAdClosed.png)
+![](/assets/monetization/leadbolt/AdClosed.png)
 
 ##### Ad Failed To Load
 
-![](/assets/leadboltAdFailedToLoad.png)
+![](/assets/monetization/leadbolt/AdFailedToLoad.png)
 
 ##### Ad Loaded
 
-![](/assets/leadboltAdloaded.png)
+![](/assets/monetization/leadbolt/Adloaded.png)
 
 ---
 
@@ -38,25 +38,25 @@ The LeadBolt component allows you to show both Rewarded and Interstitial ads in 
 
 ##### Is Network Ad Ready
 
-![](/assets/leadboltIsNetworkAdReady.png)
+![](/assets/monetization/leadbolt/IsNetworkAdReady.png)
 
 ##### Is Rewarded Ad Ready
 
-![](/assets/leadboltIsRewardedAdReady.png)
+![](/assets/monetization/leadbolt/IsRewardedAdReady.png)
 
 ##### Load Network Ad
 
-![](/assets/leadboltLoadNetworkAd.png)
+![](/assets/monetization/leadbolt/LoadNetworkAd.png)
 
 ##### Load Rewarded Ad
 
-![](/assets/leadboltLoadRewardedAd.png)
+![](/assets/monetization/leadbolt/LoadRewardedAd.png)
 
 ##### Show Network Ad
 
-![](/assets/leadboltShowNetworkAd.png)
+![](/assets/monetization/leadbolt/ShowNetworkAd.png)
 
 ##### Show Rewarded Ad
 
-![](/assets/leadboltShowRewardedAd.png)
+![](/assets/monetization/leadbolt/ShowRewardedAd.png)
 
