@@ -55,7 +55,7 @@ For further help, please visit the [Makeroid Community](https://community.makero
 * [Backpack]()
 * [Donate]()
 
-## ---
+---
 
 ## Makeroid
 
