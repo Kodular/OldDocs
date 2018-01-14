@@ -70,6 +70,10 @@ Using the Status Page you can check which services' of Makeroid is working or in
 
 ---
 
+## Learn more about Makeroid with this video
+
+[![](https://img.youtube.com/vi/_bZj-LOXdH8/0.jpg)](https://www.youtube.com/watch?v=_bZj-LOXdH8)
+
 ![](/assets/overview.png)
 
 ---
