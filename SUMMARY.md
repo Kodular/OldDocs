@@ -94,7 +94,7 @@
     * [Google Account Picker](components/google/google-account-picker.md)
     * [Google Maps](components/google/google-maps.md)
     * [Google Shortlink](components/google/google-shortlink.md)
-  * [Lego Mindstorms](/components/lego-mindstorms.md)
+  * [LEGO Mindstorms](/components/lego-mindstorms.md)
     * [NXT Drive](components/lego-mindstorms/nxt-drive.md)
     * [NXT Color Sensor](components/lego-mindstorms/nxt-color-sensor.md)
     * [NXT Light Sensor](components/lego-mindstorms/nxt-lightsensor.md)
