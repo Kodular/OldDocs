@@ -12,6 +12,7 @@ Components are the essence of your app. Every component has a set of _properties
 * ###### [Social](/components/social.md)
 * ###### [Storage](/components/storage.md)
 * ###### [Connectivity](/components/connectivity.md)
+* ###### [Google](/components/google.md)
 * ###### [Lego Mindstorms](/components/lego-mindstorms.md)
 * ###### [Monetization](/components/monetization.md)
 * ###### [Device](/components/device.md)
