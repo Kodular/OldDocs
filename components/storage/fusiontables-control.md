@@ -1,4 +1,4 @@
-# FusionTablesControl
+# Fusiontables Control
 
 A non-visible component that communicates with Google Fusion Tables. Fusion Tables let you store, share, query and visualize data tables; this component lets you query, create, and modify these tables.
 

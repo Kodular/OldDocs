@@ -1,4 +1,4 @@
-# Ball
+# Image Sprite
 
 A round 'sprite' that can be placed on a Canvas, where it can react to touches and drags, interact with other sprites (ImageSprites and other Balls) and the edge of the Canvas, and move according to its property values.
 

@@ -1,4 +1,4 @@
-# TableArrangement
+# Table Arrangement
 
 Use a table arrangement component to display a group of components in a tabular fashion.
 
