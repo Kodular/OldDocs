@@ -1,4 +1,4 @@
-# WiFiAdmin
+# WiFi
 
 Control the WiFi of the Device
 

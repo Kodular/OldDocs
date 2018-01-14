@@ -1,4 +1,4 @@
-# Ev3UI
+# EV3 UI
 
 A component that provides a high-level interface to a LEGO MINDSTORMS EV3 robot, with functions to draw graphs on EV3 screen.
 

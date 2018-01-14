@@ -1,4 +1,4 @@
-# Ev3Sound
+# EV3 Sound
 
 A component that provides a high-level interface to a LEGO MINDSTORMS EV3 robot, which provides sound functionalities.
 

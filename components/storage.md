@@ -1,5 +1,7 @@
 # Storage
 
+Storage Components allow you to store data.
+
 * ###### [File](/components/storage/file.md) {#data-picker}
 * ###### [Firebase DB](/components/storage/firebase-db.md) {#data-picker}
 * ###### [Fusiontables Control](/components/storage/fusiontables-control.md) {#data-picker}
