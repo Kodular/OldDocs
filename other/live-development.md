@@ -19,7 +19,7 @@ It can be quite a hassle building and installing your project's APK file on your
 
 ### Preparation on the Android Phone
 
-**Step 1:** Download the Makeroid Companion from the Google Play Store _(click ![here](https://play.google.com/store/apps/details?id=com.makeroid.companion) to download)_
+**Step 1:** Download the Makeroid Companion from the Google Play Store _(click [here](https://play.google.com/store/apps/details?id=com.makeroid.companion) to download)_
 
 ![](/assets/googleplaycompanion.png)
 
