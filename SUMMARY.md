@@ -121,6 +121,7 @@
     * [Device Tools](components/device/device-tools.md)
     * [Wallpaper](components/device/wallpaper.md)
     * [Package](components/device/package.md)
+    * [Screenshot](components/device/screenshot.md)
   * [Experimental](/components/experimental.md)
     * [Google Map](components/experimental/google-map.md)
     * [Push Notifications](components/experimental/pushnotifications.md)
