@@ -65,15 +65,15 @@ Makeroid allows you to create Android apps easily with a blocks-type editor. No 
 
 ## Useful Links
 
-### [Makeroid Builder](builder.makeroid.io)
+### [Makeroid Builder](http://builder.makeroid.io)
 
 This is the page you're going to use to build apps. This is main app that allows you to create anything you want with a Material Design UI.
 
-### [Makeroid Community](community.makeroid.io)
+### [Makeroid Community](https://community.makeroid.io)
 
 Using the community, you can get help related to your questions about Makeroid. Even submit your ideas to help improve Makeroid or even report bugs you've experienced during your app development session. Community has so many users that help you, this means you will get a proper answer to any question of yours in minutes.
 
-### [Makeroid Status Page](status.makeroid.io)
+### [Makeroid Status Page](https://status.makeroid.io)
 
 Using the Status Page you can check which services' of Makeroid is working or in Maintenance. If you cannot use a service of Makeroid, you can check using this page if the problem is related to your local internet or the Makeroid Server.
 
@@ -81,7 +81,7 @@ Using the Status Page you can check which services' of Makeroid is working or in
 
 ## A Quick Start on Makeroid
 
-[![](https://img.youtube.com/vi/_bZj-LOXdH8/0.jpg)](https://www.youtube.com/watch?v=_bZj-LOXdH8)
+{% youtube src="https://www.youtube.com/watch?v=_bZj-LOXdH8" %}{% endyoutube %}
 
 ---
 
