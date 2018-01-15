@@ -81,7 +81,9 @@ Using the Status Page you can check which services' of Makeroid is working or in
 
 ## A Quick Start on Makeroid
 
-{% youtube src="https://www.youtube.com/watch?v=_bZj-LOXdH8" %}{% endyoutube %}
+{% youtube %}
+https://www.youtube.com/watch?v=_bZj-LOXdH8
+{% endyoutube %}
 
 ---
 
