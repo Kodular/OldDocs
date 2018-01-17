@@ -1,4 +1,4 @@
-# VideoPlayer
+# Video Player
 
 A multimedia component capable of playing videos. When the application is run, the VideoPlayer will be displayed as a rectangle on-screen. If the user touches the rectangle, controls will appear to play/pause, skip ahead, and skip backward within the video. The application can also control behavior by calling the Start, Pause, and SeekTo methods.
 

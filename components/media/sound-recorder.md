@@ -1,4 +1,4 @@
-# SoundRecorder
+# Sound Recorder
 
 Multimedia component that records audio.
 
