@@ -1,3 +1,3 @@
-# Google Map
+# Google Maps
 
-Google Map component allows users to use Google Maps integrated directly to their apps.
+Google Maps component allows users to use Google Maps integrated directly to their apps.
