@@ -1,4 +1,4 @@
-# VerticalArrangement
+# Vertical Arrangement
 
 Use a vertical arrangement component to display a group of components laid out from top to bottom, left-aligned.
 

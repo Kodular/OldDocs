@@ -1,4 +1,4 @@
-# Lego Mindstorms
+# LEGO Mindstorms
 
 These components provide control of LEGO® MINDSTORMS® NXT robots using Bluetooth.
 

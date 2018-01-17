@@ -1,4 +1,4 @@
-# AccelerometerSensor
+# Accelerometer Sensor
 
 Non-visible component that can detect shaking and measure acceleration approximately in three dimensions using SI units (m/s<sup>2</sup>). The components are:
 

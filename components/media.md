@@ -11,11 +11,11 @@ The components in the Media section are usefull tools for the user to make many 
 * ###### [Player](/components/media/player.md)
 * ###### [QR Code](/components/media/qr-code.md)
 * ###### [Sound](/components/media/sound.md)
-* ###### [Sound Recorder](#sound-recorder)
-* ###### [Speech Recognizer](#speech-recognizer)
-* ###### [Text To Speech](#text-to-speech)
-* ###### [Video Player](#video-player)
-* ###### [Yandex Translate](#yandex-translate)
+* ###### [Sound Recorder](/components/media/sound-recorder.md)
+* ###### [Speech Recognizer](/components/media/speech-recognizer.md)
+* ###### [Text To Speech](/components/media/text-to-speech.md)
+* ###### [Video Player](/components/media/video-player.md)
+* ###### [Yandex Translate](/components/media/yandex-translate.md)
 
 
 

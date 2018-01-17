@@ -1,4 +1,4 @@
-# BarcodeScanner
+# Barcode Scanner
 
 Component for using the Barcode Scanner to read a barcode
 

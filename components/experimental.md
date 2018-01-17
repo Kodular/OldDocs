@@ -1,8 +1,7 @@
 # Experimental
 
-* ###### [Finger Print](/components/experimental/finger-print.md) {#data-picker}
-* ###### [Google Map](/components/experimental/google-map.md) {#data-picker}
+The experimental section has all the components that are not stable at the current time.
+
 * ###### [Push Notifications](/components/experimental/pushnotifications.md) {#data-picker}
-
-
-
+* ###### [CloudDB](/components/experimental/clouddb.md) {#data-picker}
+* ###### [Notification](/components/experimental/notification.md) {#data-picker}
