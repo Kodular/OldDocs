@@ -1,3 +1,3 @@
 # Rating Bar
 
-A RatingBar shows a rating in stars.
+A Rating Bar shows a rating in stars.
