@@ -8,7 +8,7 @@ A button that, when clicked on, launches a popup dialog to allow the user to sel
 
 ##### BackgroundColor
 
-![](/assets/user-interface/date-picker/properties/background-color.png)
+![](/assets/user-interface/date-picker/Properties/background-color.png)
 
 Returns the button's background color
 
