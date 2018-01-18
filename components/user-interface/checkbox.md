@@ -8,7 +8,7 @@ A checkbox component can detect user taps and can change their boolean state in 
 
 ##### Changed
 
-
+![](/assets/user-interface/checkbox/Changed.png)
 
 User tapped and released check box.
 
