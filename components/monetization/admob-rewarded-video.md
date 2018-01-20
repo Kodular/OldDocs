@@ -1,6 +1,6 @@
 # AdMob Rewarded Video
 
-add description in OdeMessage
+Rewarded video ads are full screen video ads that users have the option of watching in full in exchange for in-app rewards.
 
 ---
 
