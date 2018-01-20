@@ -231,7 +231,7 @@ Adds markers from json.
 
 ##### Add Markers Hue
 
-![](/assets/google/google-maps/add-markers-from-hue.png)
+![](/assets/google/google-maps/add-markers-hue.png)
 
 Adds markers from hue.
 
