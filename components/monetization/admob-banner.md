@@ -1,6 +1,6 @@
 # AdMob Banner
 
-AdMob Banner component
+AdMob Banner ads are rectangular image or text ads that occupy a spot within an apps layout.
 
 ---
 
