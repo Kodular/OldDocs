@@ -1,6 +1,6 @@
 # Index of Available Extensions
 
-###List of extensions for Makeroid
+### List of extensions for Makeroid
 
 <hr>
 
@@ -19,7 +19,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 - [Sound Analysis Extension](http://appinventor.mit.edu/extensions/)
 - [Vector Arithmetic Extension](http://appinventor.mit.edu/extensions/)
 		
-## :robot: Mad Robots
+## 🤖 Mad Robots
 
 - [Gyro Sensor Extension](https://groups.google.com/d/msg/app-inventor-open-source-dev/M7NookKPhQQ/WCN5yak3EAAJ)
 - [Sound Extension](https://groups.google.com/d/msg/app-inventor-open-source-dev/M7NookKPhQQ/WCN5yak3EAAJ)
