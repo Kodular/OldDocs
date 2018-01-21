@@ -97,7 +97,7 @@
   * [LEGO Mindstorms](/components/lego-mindstorms.md)
     * [NXT Drive](components/lego-mindstorms/nxt-drive.md)
     * [NXT Color Sensor](components/lego-mindstorms/nxt-color-sensor.md)
-    * [NXT Light Sensor](components/lego-mindstorms/nxt-lightsensor.md)
+    * [NXT Light Sensor](components/lego-mindstorms/nxt-light-sensor.md)
     * [NXT Sound Sensor](components/lego-mindstorms/nxt-sound-sensor.md)
     * [NXT Touch Sensor](components/lego-mindstorms/nxt-touch-sensor.md)
     * [NXT Ultrasonic Sensor](components/lego-mindstorms/nxt-ultrasonic-sensor.md)

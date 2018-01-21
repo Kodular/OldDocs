@@ -22,7 +22,7 @@ If desired, add another component, for example NxtColorSensor , and repeat steps
 
 * ###### [NXT Drive](/components/lego-mindstorms/nxt-drive.md) {#button}
 * ###### [NXT Color Sensor](/components/lego-mindstorms/nxt-color-sensor.md) {#button}
-* ###### [NXT Light Sensor](/components/lego-mindstorms/nxt-lightsensor.md) {#button}
+* ###### [NXT Light Sensor](/components/lego-mindstorms/nxt-light-sensor.md) {#button}
 * ###### [NXT Sound Sensor](/components/lego-mindstorms/nxt-sound-sensor.md) {#button}
 * ###### [NXT Touch Sensor](/components/lego-mindstorms/nxt-touch-sensor.md) {#button}
 * ###### [NXT Ultrasonic Sensor](/components/lego-mindstorms/nxt-ultrasonic-sensor.md) {#button}
@@ -35,6 +35,3 @@ If desired, add another component, for example NxtColorSensor , and repeat steps
 * ###### [EV3 Sound](/components/lego-mindstorms/ev3-sound.md) {#button}
 * ###### [EV3 UI](/components/lego-mindstorms/ev3-ui.md) {#button}
 * ###### [EV3 Commands](/components/lego-mindstorms/ev3-commands.md) {#button}
-
-
-
