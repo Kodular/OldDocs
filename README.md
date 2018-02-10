@@ -10,50 +10,50 @@ For further help, please visit the [Makeroid Community](https://community.makero
 
 #### Main Categories
 
-* [Components](https://docs.makeroid.io/components.html)
+* [Components](//components.md)
 
-  * [User Interface](https://docs.makeroid.io/components/user-interface.html)
-  * [Layout](https://docs.makeroid.io/components/layout.html)
-  * [Media](https://docs.makeroid.io/components/media.html)
-  * [Drawing and Animation](https://docs.makeroid.io/components/drawing-and-animation.html)
-  * [Sensors](https://docs.makeroid.io/components/sensors.html)
-  * [Social](https://docs.makeroid.io/components/social.html)
-  * [Storage](https://docs.makeroid.io/components/storage.html)
-  * [Connectivity](https://docs.makeroid.io/components/connectivity.html)
+  * [User Interface](//components/user-interface.md)
+  * [Layout](//components/layout.md)
+  * [Media](//components/media.md)
+  * [Drawing and Animation](//components/drawing-and-animation.md)
+  * [Sensors](//components/sensors.md)
+  * [Social](//components/social.md)
+  * [Storage](//components/storage.md)
+  * [Connectivity](//components/connectivity.md)
   * [Google](//components/google.md)
-  * [LEGO Mindstorms](https://docs.makeroid.io/components/lego-mindstorms.html)
-  * [Monetization](https://docs.makeroid.io/components/monetization.html)
-  * [Device](https://docs.makeroid.io/components/device.html)
-  * [Experimental](https://docs.makeroid.io/components/experimental.html)
+  * [LEGO Mindstorms](//components/lego-mindstorms.md)
+  * [Monetization](//components/monetization.md)
+  * [Device](//components/device.md)
+  * [Experimental](//components/experimental.md)
 
-* [Blocks]()
+* [Blocks](//blocks.md)
 
-  * [Control]()
-  * [Logic]()
-  * [Math]()
-  * [Text]()
-  * [Lists]()
-  * [Colors]()
-  * [Variables]()
-  * [Procedures]()
-  * [Screen]()
-  * [Any Component]()
+  * [Control](//blocks/control.md)
+  * [Logic](//blocks/logic.md)
+  * [Math](//blocks/math.md)
+  * [Text](//blocks/text.md)
+  * [Lists](//blocks/lists.md)
+  * [Colors](//blocks/colors.md)
+  * [Variables](//blocks/variables.md)
+  * [Procedures](//blocks/procedures.md)
+  * [Screen](//blocks/screen.md)
+  * [Any Component](//blocks/any-component.md)
 
 ---
 
 #### Testing
 
-* [Live Development]()
+* [Live Development](//live-development.md)
 
 ---
 
 #### Other
 
-* [Extensions]()
-  * [Create Extensions]()
-* [Release Notes]()
-* [Backpack]()
-* [Donate]()
+* [Extensions](//other/extensions.md)
+  * [Create Extensions](//other/create-extensions.md)
+* [Release Notes](//other/release-notes.md)
+* [Backpack](//other/backpack.md)
+* [Donate](https://paypal.me/Makeroid)
 
 ---
 
