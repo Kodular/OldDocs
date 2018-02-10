@@ -1,8 +1,8 @@
 # Image Sprite
 
-A round 'sprite' that can be placed on a Canvas, where it can react to touches and drags, interact with other sprites (ImageSprites and other Balls) and the edge of the Canvas, and move according to its property values.
+A rectangular 'sprite' that can be placed on a Canvas, where it can react to touches and drags, interact with other sprites (ImageSprites and other Balls) and the edge of the Canvas, and move according to its property values.
 
-For example, to have a Ball move 4 pixels toward the top of a Canvas every 500 milliseconds (half second), you would set the Speed property to 4 [pixels], the Interval property to 500 [milliseconds], the Heading property to 90 [degrees], and the Enabled property to True. These and its other properties can be changed at any time.
+For example, to have an ImageSprite move 4 pixels toward the top of a Canvas every 500 milliseconds (half second), you would set the Speed property to 4 [pixels], the Interval property to 500 [milliseconds], the Heading property to 90 [degrees], and the Enabled property to True. These and its other properties can be changed at any time.
 
 The difference between a Ball and an ImageSprite is that the latter can get its appearance from an image file, while a Ball's appearance can only be changed by varying its PaintColor and Radius properties.
 
@@ -21,10 +21,6 @@ Returns the sprite's heading in degrees above the positive x-axis. Zero degrees 
 #### Interval
 
 The interval in milliseconds at which the sprite's position is updated. For example, if the interval is 50 and the speed is 10, then the sprite will move 10 pixels every 50 milliseconds.
-
-#### PaintColor
-
-#### Radius
 
 #### Speed
 
