@@ -16,7 +16,7 @@ Components are the essence of your app. Every component has a set of _properties
 * ###### [Lego Mindstorms](/components/lego-mindstorms.md)
 * ###### [Monetization](/components/monetization.md)
 * ###### [Device](/components/device.md)
-* ###### [Experimental](/experimental.md)
+* ###### [Experimental](/components/experimental.md)
 * ###### [Extensions](/other/extensions.md)
 
 
