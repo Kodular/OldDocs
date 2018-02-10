@@ -13,7 +13,7 @@
     * [List View](components/user-interface/list-view.md)
     * [Notifier](components/user-interface/notifier.md)
     * [Radio Button](components/user-interface/radio-button.md)
-    * [RatingBar](components/user-interface/ratingbar.md)
+    * [Rating Bar](components/user-interface/ratingbar.md)
     * [Slider](components/user-interface/slider.md)
     * [Surface View](components/user-interface/surface-view.md)
     * [Spinner](components/user-interface/spinner.md)

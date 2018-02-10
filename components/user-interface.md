@@ -12,7 +12,7 @@ The components in the User Interface section are used to interact with the app u
 * ###### [List View](/components/user-interface/list-view.md) {#list-viewer}
 * ###### [Notifier](/components/user-interface/notifier.md) {#notifier}
 * ###### [Radio Button](/components/user-interface/radio-button.md) {#notifier}
-* ###### [RatingBar](/components/user-interface/ratingbar.md) {#notifier}
+* ###### [Rating Bar](/components/user-interface/ratingbar.md) {#notifier}
 * ###### [Slider](/components/user-interface/slider.md) {#slider}
 * ###### [Surface View](/components/user-interface/surface-view.md) {#slider}
 * ###### [Spinner](/components/user-interface/spinner.md) {#spinner}
