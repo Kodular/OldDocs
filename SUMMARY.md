@@ -124,6 +124,8 @@
     * [Screenshot](components/device/screenshot.md)
   * [Experimental](/components/experimental.md)
     * [Push Notifications](components/experimental/pushnotifications.md)
+    * [Cloud DB](components/experimental/clouddb.md)
+    * [Notification](components/experimental/notification.md)
 * [Blocks](blocks.md)
   * [Control](/blocks/control.md)
   * [Logic](/blocks/logic.md)
