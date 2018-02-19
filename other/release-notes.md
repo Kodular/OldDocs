@@ -2,7 +2,7 @@
 ---
 <!-- timeline -->
 
-##3.0.0
+##3.0.0 _Beta_
 `25 Dec, 2017`
 
 * ####New Components
@@ -157,7 +157,7 @@ Instructions
 
 <!-- timeline -->
 
-##2.2.0
+##2.2.0 _Beta_
 `12 Nov, 2017`
 
 * ####New Components
@@ -271,7 +271,7 @@ Instructions
 
 <!-- timeline -->
 
-##2.1.1
+##2.1.1 _Beta_
 `7 Oct, 2017`
 
  - Event to receive OCR Server Status
@@ -299,7 +299,7 @@ Instructions
 
 <!-- timeline -->
 
-##2.1.0
+##2.1.0 _Beta_
 `1 Oct, 2017`
 
 * ####New Components
@@ -382,7 +382,7 @@ Thanks to all those who helped us catch and fix those pesky errors!
 
 <!-- timeline -->
 
-##2.0.0
+##2.0.0 _Beta_
 
 `4 Sep, 2017`
 
@@ -467,7 +467,7 @@ Thanks to all those who helped us catch and fix those pesky errors!
 
 <!-- timeline -->
 
-##1.3.1
+##1.3.1 _Beta_
 
 `15 Aug, 2017`
 
@@ -482,7 +482,7 @@ Thanks to all those who helped us catch and fix those pesky errors!
 
 <!-- timeline -->
 
-## 1.2.1
+## 1.2.1 _Beta_
 
 `07 Aug 2017`
 
@@ -498,7 +498,7 @@ Thanks to all those who helped us catch and fix those pesky errors!
 
 <!-- timeline -->
 
-## 1.1.1
+## 1.1.1 _Beta_
 
 `03 Aug 2017`
 
@@ -513,7 +513,7 @@ Thanks to all those who helped us catch and fix those pesky errors!
 
 <!-- timeline -->
 
-## 0.3.1
+## 0.3.1 _Beta_
 
 `01 Aug 2017`
 
@@ -540,7 +540,7 @@ Thanks to all those who helped us catch and fix those pesky errors!
 
 <!-- timeline -->
 
-## 0.1.1 Beta
+## 0.1.1 _Beta_
 
 `23 Jul 2017`
 
