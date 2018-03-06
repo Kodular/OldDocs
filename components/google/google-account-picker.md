@@ -26,3 +26,5 @@ When the Google Account is picked.
 To pick the users' Google Account.
 
 ---
+
+Thank you to [Pura Vida Apps](https://puravidaapps.com/) for releasing the source code of their [Google Account Picker extension](https://puravidaapps.com/accountmanager.php#pick) which was used to re-create this component in Makeroid.
