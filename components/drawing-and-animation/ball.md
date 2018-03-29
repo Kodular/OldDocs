@@ -1,58 +1,52 @@
 # Ball
 
-A round 'sprite' that can be placed on a `Canvas`, where it can react to touches and drags, interact with other sprites (`ImageSprite`s and other `Ball`s) and the edge of the Canvas, and move according to its property values.
+A round 'sprite' that can be placed on a `Canvas`, where it can react to touches and drags, interact with other sprites \(`ImageSprite`s and other `Ball`s\) and the edge of the Canvas, and move according to its property values.
 
-For example, to have a `Ball` move 4 pixels toward the top of a `Canvas` every 500 milliseconds (half second), you would set the `Speed` property to 4 [pixels], the `Interval` property to 500 [milliseconds], the `Heading` property to 90 [degrees], and the `Enabled` property to `True`.  These and its other properties can be changed at any time.
+For example, to have a `Ball` move 4 pixels toward the top of a `Canvas` every 500 milliseconds \(half second\), you would set the `Speed` property to 4 \[pixels\], the `Interval` property to 500 \[milliseconds\], the `Heading` property to 90 \[degrees\], and the `Enabled` property to `True`.  These and its other properties can be changed at any time.
 
 The difference between a Ball and an `ImageSprite` is that the latter can get its appearance from an image file, while a Ball's appearance can only be changed by varying its `PaintColor` and `Radius` properties.
 
----
+## Properties
 
-### Properties
-
-##### Enabled
+### Enabled
 
 Controls whether the sprite moves when its speed is non-zero.
 
-##### Heading
+### Heading
 
 Returns the sprite's heading in degrees above the positive x-axis.  Zero degrees is toward the right of the screen; 90 degrees is toward the top of the screen.
 
-##### Interval
+### Interval
 
 The interval in milliseconds at which the sprite's position is updated.  For example, if the interval is 50 and the speed is 10, then the sprite will move 10 pixels every 50 milliseconds.
 
-##### PaintColor
+### PaintColor
 
+### Radius
 
-##### Radius
-
-
-##### Speed
+### Speed
 
 he speed at which the sprite moves.  The sprite moves this many pixels every interval.
 
-##### Visible
+### Visible
 
 True if the sprite is visible.
 
-##### X
+### X
 
 The horizontal coordinate of the left edge of the sprite, increasing as the sprite moves to the right.
 
-##### Y
+### Y
 
 The vertical coordinate of the top of the sprite, increasing as the sprite moves down.
 
-##### Z
+### Z
 
 How the sprite should be layered relative to other sprits, with higher-numbered layers in front of lower-numbered layers.
 
----
+## Events
 
-### Events
-
-##### CollidedWith
+### CollidedWith
 
 | Parameter | Type |
 | :--- | :--- |
@@ -62,7 +56,7 @@ Handler for CollidedWith events, called when two sprites collide.
 
 > Note that checking for collisions with a rotated ImageSprite currently checks against the sprite's unrotated position. Therefore, collision checking will be inaccurate for tall narrow or short wide sprites that are rotated.
 
-##### Dragged
+### Dragged
 
 | Parameter | Type |
 | :--- | :--- |
@@ -77,15 +71,15 @@ Handler for Dragged events. On all calls, the starting coordinates are where the
 
 > Note that the Sprite won't actually move anywhere in response to the Dragged event unless MoveTo is specifically called.
 
-##### EdgeReached
+### EdgeReached
 
 | Parameter | Type |
 | :--- | :--- |
 | edge | number |
 
-Event handler called when the sprite reaches an edge of the screen. If Bounce is then called with that edge, the sprite will appear to bounce off of the edge it reached.  Edge here is represented as an integer that indicates one of eight directions north(1), northeast(2), east(3), southeast(4), south (-1), southwest(-2), west(-3), and northwest(-4).
+Event handler called when the sprite reaches an edge of the screen. If Bounce is then called with that edge, the sprite will appear to bounce off of the edge it reached.  Edge here is represented as an integer that indicates one of eight directions north\(1\), northeast\(2\), east\(3\), southeast\(4\), south \(-1\), southwest\(-2\), west\(-3\), and northwest\(-4\).
 
-##### Flung
+### Flung
 
 | Parameter | Type |
 | :--- | :--- |
@@ -96,9 +90,9 @@ Event handler called when the sprite reaches an edge of the screen. If Bounce is
 | xvel | number |
 | yvel | number |
 
-When a fling gesture (quick swipe) is made on the sprite: provides the (x,y) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed (pixels per millisecond) and heading (0-360 degrees) of the fling, as well as the x velocity and y velocity components of the fling's vector.
+When a fling gesture \(quick swipe\) is made on the sprite: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector.
 
-##### NoLongerCollidingWith
+### NoLongerCollidingWith
 
 | Parameter | Type |
 | :--- | :--- |
@@ -106,39 +100,37 @@ When a fling gesture (quick swipe) is made on the sprite: provides the (x,y) pos
 
 Event indicating that a pair of sprites are no longer colliding.
 
-##### TouchDown
+### TouchDown
 
 | Parameter | Type |
 | :--- | :--- |
 | x | number |
 | y | number |
 
-When the user begins touching the sprite (places finger on sprite and leaves it there): provides the (x,y) position of the touch, relative to the upper left of the canvas
+When the user begins touching the sprite \(places finger on sprite and leaves it there\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas
 
-##### TouchUp
-
-| Parameter | Type |
-| :--- | :--- |
-| x | number |
-| y | number |
-
-When the user stops touching the sprite (lifts finger after a TouchDown event): provides the (x,y) position of the touch, relative to the upper left of the canvas
-
-##### Touched
+### TouchUp
 
 | Parameter | Type |
 | :--- | :--- |
 | x | number |
 | y | number |
 
-When the user touches the sprite and then immediately lifts finger: provides
- the (x,y) position of the touch, relative to the upper left of the canvas
+When the user stops touching the sprite \(lifts finger after a TouchDown event\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas
 
----
+### Touched
 
-### Methods
+| Parameter | Type |
+| :--- | :--- |
+| x | number |
+| y | number |
 
-##### Bounce
+When the user touches the sprite and then immediately lifts finger: provides  
+ the \(x,y\) position of the touch, relative to the upper left of the canvas
+
+## Methods
+
+### Bounce
 
 | Parameter | Type |
 | :--- | :--- |
@@ -146,26 +138,26 @@ When the user touches the sprite and then immediately lifts finger: provides
 
 Makes this sprite bounce, as if off a wall.  For normal bouncing, the edge argument should be the one returned by EdgeReached.
 
-##### CollidingWith
+### CollidingWith
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 | Parameter | Type |
 | :--- | :--- |
 | other | component |
 
-Indicates whether a collision has been registered between this sprite
+Indicates whether a collision has been registered between this sprite  
  and the passed sprite.
 
-##### MoveIntoBounds
+### MoveIntoBounds
 
-Moves the sprite back in bounds if part of it extends out of bounds,
- having no effect otherwise. If the sprite is too wide to fit on the
- canvas, this aligns the left side of the sprite with the left side of the
- canvas. If the sprite is too tall to fit on the canvas, this aligns the
+Moves the sprite back in bounds if part of it extends out of bounds,  
+ having no effect otherwise. If the sprite is too wide to fit on the  
+ canvas, this aligns the left side of the sprite with the left side of the  
+ canvas. If the sprite is too tall to fit on the canvas, this aligns the  
  top side of the sprite with the top side of the canvas.
 
-##### MoveTo
+### MoveTo
 
 | Parameter | Type |
 | :--- | :--- |
@@ -174,19 +166,20 @@ Moves the sprite back in bounds if part of it extends out of bounds,
 
 Moves the sprite so that its left top corner is at the specfied x and y coordinates.
 
-##### PointInDirection
+### PointInDirection
 
 | Parameter | Type |
 | :--- | :--- |
 | x | number |
 | y | number |
 
-Turns the sprite to point towards the point with coordinates as (x, y).
+Turns the sprite to point towards the point with coordinates as \(x, y\).
 
-##### PointTowards
+### PointTowards
 
 | Parameter | Type |
 | :--- | :--- |
 | target | component |
 
 Turns the sprite to point towards a designated target sprite. The new heading will be parallel to the line joining the centerpoints of the two sprites.
+

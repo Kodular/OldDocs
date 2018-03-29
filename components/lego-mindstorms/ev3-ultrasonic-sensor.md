@@ -2,54 +2,51 @@
 
 A component that provides a high-level interface to an ultrasonic sensor on a LEGO MINDSTORMS EV3 robot.
 
----
+## Properties
 
-### Properties
-
-#### BluetoothClient
+### BluetoothClient
 
 The BluetoothClient component that should be used for communication. Must be set in the Designer
 
-#### SensorPort
+### SensorPort
 
 The sensor port that the sensor is connected to. Must be set in the Designer
 
-#### BottomOfRange
+### BottomOfRange
 
 The bottom of the range used for the BelowRange, WithinRange, and AboveRange events.
 
-#### TopOfRange
+### TopOfRange
 
 The top of the range used for the BelowRange, WithinRange, and AboveRange events.
 
-#### BelowRangeEventEnabled
+### BelowRangeEventEnabled
 
 Whether the BelowRange event should fire when the distance goes below the BottomOfRange.
 
-#### WithinRangeEventEnabled
+### WithinRangeEventEnabled
 
 Whether the WithinRange event should fire when the distance goes between the BottomOfRange and the TopOfRange.
 
-#### AboveRangeEventEnabled
+### AboveRangeEventEnabled
 
 Whether the AboveRange event should fire when the distance goes above the TopOfRange.
 
-#### Unit
+### Unit
 
 The distance unit, which can be either "cm" or "inch".
 
----
+## Methods
 
-### Methods
-
-#### GetDistance ()
+### GetDistance \(\)
 
 Returns the current distance in centimeters as a value between 0 and 254, or -1 if the distance can not be read.
 
-#### SetCmUnit ()
+### SetCmUnit \(\)
 
 Measure the distance in centimeters.
 
-#### SetInchUnit ()
+### SetInchUnit \(\)
 
 Measure the distance in inches.
+

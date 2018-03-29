@@ -11,9 +11,7 @@ Any location on the Canvas can be specified as a pair of \(X, Y\) values, where
 
 There are events to tell when and where a Canvas has been touched or aSprite\(ImageSpriteorBall\) has been dragged. There are also methods for drawing points, lines, and circles.
 
----
-
-### Properties
+## Properties
 
 BackgroundColor
 
@@ -47,9 +45,7 @@ Specifies whether the component should be visible on the screen. Value is true i
 
 Width
 
----
-
-### Events
+## Events
 
 Dragged\(number startX, number startY, number prevX, number prevY, number currentX, number currentY, boolean draggedSprite\)
 
@@ -71,9 +67,7 @@ Touched\(number x, number y, boolean touchedSprite\)
 
 When the user touches the canvas and then immediately lifts finger: provides the \(x,y\) position of the touch, relative to the upper left of the canvas. TouchedSprite is true if the same touch also touched a sprite, and false otherwise.
 
----
-
-### Methods
+## Methods
 
 Clear\(\)
 

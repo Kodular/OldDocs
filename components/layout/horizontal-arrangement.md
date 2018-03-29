@@ -12,34 +12,33 @@ If a HorizontalArrangement's Width property is set to Automatic, the actual widt
 
 If a HorizontalArrangement's Width property is set to Fill Parent or specified in pixels, any components whose Width properties are set to Fill Parent will equally take up the width not occupied by other components.
 
----
+## Properties
 
-### Properties
-
-#### AlignHorizontal
+### AlignHorizontal
 
 A number that encodes how contents of the arrangement are aligned horizontally. The choices are: 1 = left aligned, 2 = right aligned, 3 = horizontally centered. Alignment has no effect if the arrangement's width is automatic.
 
-#### AlignVertical
+### AlignVertical
 
 A number that encodes how the contents of the arrangement are aligned vertically. The choices are: 1 = aligned at the top, 2 = aligned at the bottom, 3 = vertically centered. Alignment has no effect if the arrangement's height is automatic.
 
-#### BackgroundColor
+### BackgroundColor
 
 Background color for this component
 
-#### Image
+### Image
 
 Background image for this component
 
-#### Visible
+### Visible
 
 If true, component and its contents are visible.
 
-#### Height
+### Height
 
-Horizontal arrangement height (y-size).
+Horizontal arrangement height \(y-size\).
 
-#### Width
+### Width
 
-Horizontal arrangement width (x-size).
+Horizontal arrangement width \(x-size\).
+

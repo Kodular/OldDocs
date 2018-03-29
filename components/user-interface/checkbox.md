@@ -2,84 +2,79 @@
 
 A checkbox component can detect user taps and can change their boolean state in response.
 
----
+## Events
 
-### Events
+### Changed
 
-##### Changed
-
-![](/assets/user-interface/checkbox/Changed.png)
+![](../../.gitbook/assets/changed.png)
 
 User tapped and released check box.
 
-##### GotFocus
+### GotFocus
 
-![](/assets/user-interface/checkbox/GotFocus.png)
+![](../../.gitbook/assets/gotfocus%20%281%29.png)
 
 Check box became the focused component.
 
+### LostFocus
 
-##### LostFocus
-
-![](/assets/user-interface/checkbox/LostFocus.png)
+![](../../.gitbook/assets/lostfocus%20%281%29.png)
 
 Check box stopped being the focused component.
 
----
+## Properties
 
-### Properties
+### BackgroundColor
 
-##### BackgroundColor
-
-![](/assets/user-interface/checkbox/BackgroundColor.png)
+![](../../.gitbook/assets/backgroundcolor%20%281%29.png)
 
 Color for check box background.
 
-##### Checked
+### Checked
 
-![](/assets/user-interface/checkbox/Checked.png)
+![](../../.gitbook/assets/checked.png)
 
 True if the box is checked, false otherwise.
 
 **Checkbox Color**
 
-![](/assets/user-interface/checkbox/CheckboxColor.png)
+![](../../.gitbook/assets/checkboxcolor.png)
 
 Change the checkbox component color
 
-##### Enabled
+### Enabled
 
-![](/assets/user-interface/checkbox/Enabled.png)
+![](../../.gitbook/assets/enabled%20%281%29.png)
 
 If set, user can tap check box to cause action.
 
-##### Height
+### Height
 
-![](/assets/user-interface/checkbox/Height.png)
+![](../../.gitbook/assets/height%20%281%29.png)
 
 Check box height \(y-size\).
 
-##### Width
+### Width
 
-![](/assets/user-interface/checkbox/Width.png)
+![](../../.gitbook/assets/width.png)
 
 Check box width \(x-size\).
 
-##### Text
+### Text
 
-![](/assets/user-interface/checkbox/Text.png)
+![](../../.gitbook/assets/text%20%282%29.png)
 
 Text to display on check box.
 
-##### TextColor
+### TextColor
 
-![](/assets/user-interface/checkbox/TextColor.png)
+![](../../.gitbook/assets/textcolor%20%281%29.png)
 
 Color for check box text.
 
-##### Visible
+### Visible
 
-![](/assets/user-interface/checkbox/Visible.png)
+![](../../.gitbook/assets/visible%20%281%29.png)
 
 If set, check box is visible.
 

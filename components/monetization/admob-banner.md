@@ -2,58 +2,49 @@
 
 AdMob Banner ads are rectangular image or text ads that occupy a spot within an apps layout.
 
----
+## Properties
 
-### Properties
-
-##### AdEnabled
+### AdEnabled
 
 If true, device that will receive test ads. You should utilize this property during development to avoid generating false impressions
 
-##### AdUnitId (designer only)
+### AdUnitId \(designer only\)
 
 Set Ad Unit ID
 
-##### Height
+### Height
 
+### HeightPercent
 
-##### HeightPercent
-
-
-##### Visible
+### Visible
 
 Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
-##### Width
+### Width
 
+### WidthPercent
 
-##### WidthPercent
+## Events
 
-
----
-
-### Events
-
-##### AdClosed
+### AdClosed
 
 Event triggered when ads are closed
 
-##### AdFailedToLoad
+### AdFailedToLoad
 
 Event triggered when ads failed to load
 
-##### AdLoaded
+### AdLoaded
 
 Event triggered when ads are loaded
 
-##### AdOpened
+### AdOpened
 
 Event triggered when ads are opened
 
----
+## Methods
 
-### Methods
-
-##### LoadAd
+### LoadAd
 
 Load Ad
+

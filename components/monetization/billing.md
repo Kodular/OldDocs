@@ -2,47 +2,43 @@
 
 In-App Purchases component by Pavitra.
 
----
+## Properties
 
-### Properties
+### IsIabServiceAvailable
 
-##### IsIabServiceAvailable
-
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 Check Play Market services availability
 
-##### IsOneTimePurchaseSupported
+### IsOneTimePurchaseSupported
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 Is One Time Purchase Supported
 
-##### IsSubscriptionUpdateSupported
+### IsSubscriptionUpdateSupported
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 Is Subscription Update Supported
 
-##### ReadyToPurchase
+### ReadyToPurchase
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 whether In-app billing service is ready to purchase
 
-##### SuppressToast
+### SuppressToast
 
 whether Toast should be suppressed
 
-##### TestMode
+### TestMode
 
 whether it is testing
 
----
+## Events
 
-### Events
-
-##### AfterPurchase
+### AfterPurchase
 
 | Parameter | Type |
 | :--- | :--- |
@@ -50,7 +46,7 @@ whether it is testing
 
 After purchase event.
 
-##### ErrorOccurred
+### ErrorOccurred
 
 | Parameter | Type |
 | :--- | :--- |
@@ -58,7 +54,7 @@ After purchase event.
 
 Error occurred event.
 
-##### GotOwnedPurchases
+### GotOwnedPurchases
 
 | Parameter | Type |
 | :--- | :--- |
@@ -67,7 +63,7 @@ Error occurred event.
 
 Got Owned Purchases
 
-##### GotProductDetails
+### GotProductDetails
 
 | Parameter | Type |
 | :--- | :--- |
@@ -80,7 +76,7 @@ Got Owned Purchases
 
 Got Product Details
 
-##### GotSubscriptionDetails
+### GotSubscriptionDetails
 
 | Parameter | Type |
 | :--- | :--- |
@@ -94,11 +90,9 @@ Got Product Details
 
 Got Subscription Details
 
----
+## Methods
 
-### Methods
-
-##### Consume
+### Consume
 
 | Parameter | Type |
 | :--- | :--- |
@@ -106,7 +100,7 @@ Got Subscription Details
 
 Consume product.
 
-##### Initialize
+### Initialize
 
 | Parameter | Type |
 | :--- | :--- |
@@ -116,9 +110,9 @@ Consume product.
 
 Initialize Billing with License Key & Merchant ID
 
-##### IsPurchased
+### IsPurchased
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 | Parameter | Type |
 | :--- | :--- |
@@ -126,9 +120,9 @@ Initialize Billing with License Key & Merchant ID
 
 Is purchased?
 
-##### IsSubscribed
+### IsSubscribed
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 | Parameter | Type |
 | :--- | :--- |
@@ -136,11 +130,11 @@ Is purchased?
 
 Is subscribed?
 
-##### LoadOwnedPurchases
+### LoadOwnedPurchases
 
 Load Owned Purchases from Google
 
-##### ProductDetails
+### ProductDetails
 
 | Parameter | Type |
 | :--- | :--- |
@@ -148,7 +142,7 @@ Load Owned Purchases from Google
 
 Get Product Details.
 
-##### Purchase
+### Purchase
 
 | Parameter | Type |
 | :--- | :--- |
@@ -156,7 +150,7 @@ Get Product Details.
 
 Purchase product.
 
-##### Subscribe
+### Subscribe
 
 | Parameter | Type |
 | :--- | :--- |
@@ -164,7 +158,7 @@ Purchase product.
 
 Subscribe product.
 
-##### SubscriptionDetails
+### SubscriptionDetails
 
 | Parameter | Type |
 | :--- | :--- |
@@ -172,10 +166,11 @@ Subscribe product.
 
 Get Subscription Details.
 
-##### UpdateSubscription
+### UpdateSubscription
 
 | Parameter | Type |
 | :--- | :--- |
 | subscriptionId | text |
 
 Update Subscription
+

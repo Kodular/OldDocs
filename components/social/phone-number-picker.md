@@ -7,86 +7,81 @@ A button that, when clicked on, displays a list of the contacts' phone numbers t
 * EmailAddress: the contact's email address
 * Picture: the name of the file containing the contact's image, which can be used as a Picture property value for the Image or ImageSprite component.
 
-Other properties affect the appearance of the button (TextAlignment, BackgroundColor, etc.) and whether it can be clicked on (Enabled).
+Other properties affect the appearance of the button \(TextAlignment, BackgroundColor, etc.\) and whether it can be clicked on \(Enabled\).
 
 The PhoneNumberPicker component may not work on all Android devices. For example, on Android systems before system 3.0, the returned lists of phone numbers and email addresses will be empty.
 
----
+## Properties
 
-### Properties
-
-#### BackgroundColor
+### BackgroundColor
 
 Returns the button's background color
 
-#### ContactName
+### ContactName
 
-#### EmailAddress
+### EmailAddress
 
-#### Enabled
+### Enabled
 
-#### FontBold (designer only)
+### FontBold \(designer only\)
 
-#### FontItalic (designer only)
+### FontItalic \(designer only\)
 
-#### FontSize (designer only)
+### FontSize \(designer only\)
 
-#### FontTypeface (designer only)
+### FontTypeface \(designer only\)
 
-#### Height
+### Height
 
-#### Image
+### Image
 
 Specifies the path of the button's image. If there is both an Image and a BackgroundColor, only the Image will be visible.
 
-#### PhoneNumber
+### PhoneNumber
 
-#### Picture
+### Picture
 
-#### Shape (designer only)
+### Shape \(designer only\)
 
-Specifies the button's shape (default, rounded, rectangular, oval). The shape will not be visible if an Image is being displayed.
+Specifies the button's shape \(default, rounded, rectangular, oval\). The shape will not be visible if an Image is being displayed.
 
-#### ShowFeedback
+### ShowFeedback
 
 Specifies if a visual feedback should be shown for a button that as an image as background.
 
-#### Text
+### Text
 
-TextAlignment (designer only)
+TextAlignment \(designer only\)
 
-#### TextColor
+### TextColor
 
-#### Visible
+### Visible
 
 Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
-#### Width
+### Width
 
----
+## Events
 
-### Events
-
-#### AfterPicking()
+### AfterPicking\(\)
 
 Simple event to be raised after the picker activity returns its result and the properties have been filled in.
 
-#### BeforePicking()
+### BeforePicking\(\)
 
 Simple event to raise when the component is clicked but before the picker activity is started.
 
-#### GotFocus()
+### GotFocus\(\)
 
 Indicates the cursor moved over the button so it is now possible to click it.
 
-#### LostFocus()
+### LostFocus\(\)
 
 Indicates the cursor moved away from the button so it is now no longer possible to click it.
 
----
+## Methods
 
-### Methods
-
-#### Open()
+### Open\(\)
 
 Opens the picker, as though the user clicked on it.
+

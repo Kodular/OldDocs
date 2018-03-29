@@ -2,62 +2,57 @@
 
 A component that provides a high-level interface to a light sensor on a LEGO MINDSTORMS NXT robot
 
----
+## Properties
 
-### Properties
-
-#### BluetoothClient
+### BluetoothClient
 
 The BluetoothClient component that should be used for communication. Must be set in the Designer
 
-#### SensorPort
+### SensorPort
 
 The sensor port that the sensor is connected to. Must be set in the Designer
 
-#### GenerateLight
+### GenerateLight
 
 Whether the light sensor should generate light.
 
-#### BottomOfRange
+### BottomOfRange
 
 The bottom of the range used for the BelowRange, WithinRange, and AboveRange events.
 
-#### TopOfRange
+### TopOfRange
 
 The top of the range used for the BelowRange, WithinRange, and AboveRange events.
 
-#### BelowRangeEventEnabled
+### BelowRangeEventEnabled
 
 Whether the BelowRange event should fire when the light level goes below the BottomOfRange.
 
-#### WithinRangeEventEnabled
+### WithinRangeEventEnabled
 
 Whether the WithinRange event should fire when the light level goes between the BottomOfRange and the TopOfRange.
 
-#### AboveRangeEventEnabled
+### AboveRangeEventEnabled
 
 Whether the AboveRange event should fire when the light level goes above the TopOfRange.
 
----
+## Events
 
-### Events
-
-#### BelowRange()
+### BelowRange\(\)
 
 Light level has gone below the range.
 
-#### WithinRange()
+### WithinRange\(\)
 
 Light level has gone within the range.
 
-#### AboveRange()
+### AboveRange\(\)
 
 Light level has gone above the range.
 
----
+## Methods
 
-### Methods
-
-#### GetLightLevel ()
+### GetLightLevel \(\)
 
 Returns the current light level as a value between 0 and 1023, or -1 if the light level can not be read.
+

@@ -2,66 +2,65 @@
 
 Control the WiFi of the Device
 
----
+## Methods
 
-### Methods
+### BSSID
 
-##### BSSID
+#### Returns: \(text\)
 
-###### Returns: (text)
+Return the basic service set identifier \(BSSID\) of the current access point
 
-Return the basic service set identifier (BSSID) of the current access point
-
-##### Disable
+### Disable
 
 Disable the Wi-Fi
 
-##### Enable
+### Enable
 
 Enable the Wi-Fi
 
-##### Is5GHzSupported
+### Is5GHzSupported
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 Return whether this adapter supports 5 GHz band
 
-##### IsEnabled
+### IsEnabled
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 Return whether Wi-Fi is enabled or disabled
 
-##### IsWiFiDirectSupported
+### IsWiFiDirectSupported
 
-###### Returns: (boolean)
+#### Returns: \(boolean\)
 
 Return whether this adapter supports Wi-Fi Direct
 
-##### LinkSpeed
+### LinkSpeed
 
-###### Returns: (number)
+#### Returns: \(number\)
 
 Returns the current link speed in Mbps
 
-##### LocalIP
+### LocalIP
 
-###### Returns: (text)
+#### Returns: \(text\)
 
 Return the current Local IP
 
-##### SSID
+### SSID
 
-###### Returns: (text)
+#### Returns: \(text\)
 
-Returns the service set identifier (SSID) of the current 802.11 network
+Returns the service set identifier \(SSID\) of the current 802.11 network
 
-##### SignalStrength
+### SignalStrength
 
-###### Returns: (number)
+#### Returns: \(number\)
 
 Returns the received signal strength indicator of the current 802.11 network, in dBm
 
-##### Toggle
+### Toggle
 
 Toggle the Wi-Fi
+

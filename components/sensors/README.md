@@ -1,0 +1,19 @@
+# Sensors
+
+* [**Accelerometer**](accelerometer.md)
+* [**Barcode Scanner**](barcode-scanner.md)
+* [**Clock**](clock.md)
+* [**Finger Print**](finger-print.md)
+* [**Gravity Sensor**](gravity-sensor.md)
+* [**Gyroscope Sensor**](gyroscope-sensor.md)
+* [**Light Sensor**](light-sensor.md)
+* [**Location Sensor**](location-sensor.md)
+* [**Magnetic Field Sensor**](magnetic-field-sensor.md)
+* [**NearField**](nearfield.md)
+* [**Orientation Sensor**](orientation-sensor.md)
+* [**Pedometer**](pedometer.md)
+* [**Pressure Sensor**](pressure-sensor.md)
+* [**Proximity Sensor**](proximity-sensor.md)
+* [**Sound Sensor**](sound-sensor.md)
+* [**Temperature Sensor**](temperature-sensor.md)
+

@@ -10,154 +10,149 @@ Instant : consists of Year, Month, DayOfMonth, Hour, Minute, and Second. An inst
 
 Duration : time in milliseconds elapsed between instants. Duration can be obtained by Duration method.
 
----
+## Properties
 
-### Properties
-
-#### TimerAlwaysFires
+### TimerAlwaysFires
 
 Will fire even when application is not showing on the screen if true
 
-#### TimerEnabled
+### TimerEnabled
 
 Fires timer if true
 
-#### TimerInterval
+### TimerInterval
 
 Interval between timer events in ms
 
----
+## Events
 
-### Events
-
-#### Timer()
+### Timer\(\)
 
 Timer has gone off.
 
----
+## Methods
 
-### Methods
-
-#### InstantInTime AddDays(InstantInTime instant, number days)
+### InstantInTime AddDays\(InstantInTime instant, number days\)
 
 Returns an instant in time some days after the argument
 
-#### InstantInTime AddDuration(InstantInTime instant, Duration duration)
+### InstantInTime AddDuration\(InstantInTime instant, Duration duration\)
 
-Returns an instant in time some time after the argument. Duration can be obtained from Clock.Duration()
+Returns an instant in time some time after the argument. Duration can be obtained from Clock.Duration\(\)
 
-#### InstantInTime AddHours(InstantInTime instant, number hours)
+### InstantInTime AddHours\(InstantInTime instant, number hours\)
 
 Returns an instant in time some hours after the argument
 
-#### InstantInTime AddMinutes(InstantInTime instant, number minutes)
+### InstantInTime AddMinutes\(InstantInTime instant, number minutes\)
 
 Returns an instant in time some minutes after the argument
 
-#### InstantInTime AddMonths(InstantInTime instant, number months)
+### InstantInTime AddMonths\(InstantInTime instant, number months\)
 
 Returns an instant in time some months after the argument
 
-#### InstantInTime AddSeconds(InstantInTime instant, number seconds)
+### InstantInTime AddSeconds\(InstantInTime instant, number seconds\)
 
 Returns an instant in time some seconds after the argument
 
-#### InstantInTime AddWeeks(InstantInTime instant, number weeks)
+### InstantInTime AddWeeks\(InstantInTime instant, number weeks\)
 
 Returns an instant in time some weeks after the argument
 
-#### InstantInTime AddYears(InstantInTime instant, number years)
+### InstantInTime AddYears\(InstantInTime instant, number years\)
 
 Returns an instant in time some years after the argument
 
-#### DayOfMonth(InstantInTime instant)
+### DayOfMonth\(InstantInTime instant\)
 
-Returns the day of the month(1-31) from the instant
+Returns the day of the month\(1-31\) from the instant
 
-#### Duration(InstantInTime start, InstantInTime end)
+### Duration\(InstantInTime start, InstantInTime end\)
 
 Returns duration, which is milliseconds elapsed between instants
 
-#### DurationToSeconds(Duration duration)
+### DurationToSeconds\(Duration duration\)
 
 Converts the duration to the number of seconds.
 
-#### DurationToMinutes(Duration duration)
+### DurationToMinutes\(Duration duration\)
 
 Converts the duration to the number of minutes.
 
-#### DurationToHours(Duration duration)
+### DurationToHours\(Duration duration\)
 
 Converts the duration to the number of hours.
 
-#### DurationToDays(Duration duration)
+### DurationToDays\(Duration duration\)
 
 Converts the duration to the number of days.
 
-number DurationToWeeks(Duration duration)
+number DurationToWeeks\(Duration duration\)
 
 Converts the duration to the number of weeks.
 
-#### FormatDate(InstantInTime instant, text pattern)
+### FormatDate\(InstantInTime instant, text pattern\)
 
 Returns text representing the date of an instant in the specified pattern
 
-#### FormatDateTime(InstantInTime instant, text pattern)
+### FormatDateTime\(InstantInTime instant, text pattern\)
 
 Returns text representing the date and time of an instant in the specified pattern
 
-#### FormatTime(InstantInTime instant)
+### FormatTime\(InstantInTime instant\)
 
 Return text representing the time of an instant
 
-#### GetMillis(InstantInTime instant)
+### GetMillis\(InstantInTime instant\)
 
 Returns the instant in time measured as milliseconds since 1970.
 
-#### Hour(InstantInTime instant)
+### Hour\(InstantInTime instant\)
 
-Returns the hour of the day(0-23) from the instant
+Returns the hour of the day\(0-23\) from the instant
 
-#### InstantInTime MakeInstant(text from)
+### InstantInTime MakeInstant\(text from\)
 
 Returns an instant specified by MM/DD/YYYY hh:mm:ss or MM/DD/YYYY or hh:mm. An example text input is "06/22/2015 12:18"
 
-#### InstantInTime MakeInstantFromMillis(number millis)
+### InstantInTime MakeInstantFromMillis\(number millis\)
 
 Returns an instant in time specified by the milliseconds since 1970.
 
-#### Minute(InstantInTime instant)
+### Minute\(InstantInTime instant\)
 
-Returns the minute of the hour (0-59) from the instant
+Returns the minute of the hour \(0-59\) from the instant
 
-#### Month(InstantInTime instant)
+### Month\(InstantInTime instant\)
 
-Returns the month of the year (1-12) from the instant
+Returns the month of the year \(1-12\) from the instant
 
-#### MonthName(InstantInTime instant)
+### MonthName\(InstantInTime instant\)
 
 Returns the name of the month from the instant E.g. January, February, March...
 
-#### InstantInTime Now()
+### InstantInTime Now\(\)
 
 Returns an instant of the current time read from phone's clock
 
-#### Second(InstantInTime instant)
+### Second\(InstantInTime instant\)
 
-Returns the second of the minute (0-59) from the instant
+Returns the second of the minute \(0-59\) from the instant
 
-#### SystemTime()
+### SystemTime\(\)
 
 Returns the phone's internal time
 
-#### Weekday(InstantInTime instant)
+### Weekday\(InstantInTime instant\)
 
-Returns the day of the week represented as a number from 1 (Sunday) to 7 (Saturday)
+Returns the day of the week represented as a number from 1 \(Sunday\) to 7 \(Saturday\)
 
-#### WeekdayName(InstantInTime instant)
+### WeekdayName\(InstantInTime instant\)
 
 Returns the name of the day of the week from the instant
 
-#### Year(InstantInTime instant)
+### Year\(InstantInTime instant\)
 
 Returns the year from the instant
+

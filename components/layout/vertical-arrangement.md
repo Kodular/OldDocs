@@ -12,34 +12,33 @@ If a VerticalArrangement's Height property is set to Automatic, the actual heigh
 
 If a VerticalArrangement's Height property is set to Fill Parent or specified in pixels, any components whose Height properties are set to Fill Parent will equally take up the height not occupied by other components.
 
----
+## Properties
 
-### Properties
-
-#### AlignHorizontal
+### AlignHorizontal
 
 A number that encodes how contents of the arrangement are aligned horizontally. The choices are: 1 = left aligned, 2 = horizontally centered, 3 = right aligned. Alignment has no effect if the arrangement's width is automatic.
 
-#### AlignVertical
+### AlignVertical
 
 A number that encodes how the contents of the arrangement are aligned vertically. The choices are: 1 = aligned at the top, 2 = vertically centered, 3 = aligned at the bottom. Alignment has no effect if the arrangement's height is automatic.
 
-#### BackgroundColor
+### BackgroundColor
 
 Background color for this component
 
-#### Image
+### Image
 
 Background image for this component
 
-#### Visible
+### Visible
 
 If true, component and its contents are visible.
 
-#### Height
+### Height
 
-Vertical arrangement height (y-size).
+Vertical arrangement height \(y-size\).
 
-#### Width
+### Width
 
-Vertical arrangement width (x-size).
+Vertical arrangement width \(x-size\).
+

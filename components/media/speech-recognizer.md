@@ -2,30 +2,25 @@
 
 Use a speech recognizer component to listen to the user speaking and convert the spoken sound into text using Android's speech recognition feature.
 
----
+## Properties
 
-### Properties
-
-#### Result
+### Result
 
 The last text produced by the recognizer.
 
----
+## Methods
 
-### Methods
-
-#### GetText()
+### GetText\(\)
 
 Asks the user to speak, and converts the speech to text. Signals the AfterGettingText event when the result is available.
 
----
+## Events
 
-### Events
-
-#### AfterGetting(Text result)
+### AfterGetting\(Text result\)
 
 Signaled after the recognizer has produced text. The argument is the text result that was produced.
 
-#### BeforeGettingText()
+### BeforeGettingText\(\)
 
 Signaled just before the recognizer is called.
+

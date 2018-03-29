@@ -12,26 +12,25 @@ The width of a column is determined by the widest component in that column. When
 
 The height of a row is determined by the tallest component in that row whose Height property is not set to Fill Parent. If a row contains only components whose Height properties are set to Fill Parent, the height of the row is calculated using the automatic heights of the components.
 
----
+## Properties
 
-### Properties
-
-#### Visible
+### Visible
 
 If true, component and its contents are visible.
 
-#### Rows (number-of-rows)
+### Rows \(number-of-rows\)
 
 The number of rows in the table.
 
-#### Columns (number-of-columns)
+### Columns \(number-of-columns\)
 
 The number of columns in the table.
 
-#### Height
+### Height
 
-Table arrangement height (y-size).
+Table arrangement height \(y-size\).
 
-#### Width
+### Width
 
-Table arrangement width (x-size).
+Table arrangement width \(x-size\).
+

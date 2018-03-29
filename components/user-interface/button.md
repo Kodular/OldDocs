@@ -1,169 +1,159 @@
-# ![](/assets/touchcolor.png)Button
+# Button
 
 A button is a component which can detect clicks by the user.
 
 * Border Shadow
-* [Click](#click)
-* [Got Focus](#got-focus)
-* [Long Click](#long-click)
-* [Lost Focus](#lost-focus)
-* [Touch Down](#touch-down)
-* [Touch Up](#touch-up)
+* [Click](button.md#click)
+* [Got Focus](button.md#got-focus)
+* [Long Click](button.md#long-click)
+* [Lost Focus](button.md#lost-focus)
+* [Touch Down](button.md#touch-down)
+* [Touch Up](button.md#touch-up)
 * Touch Color
-* [Button Click](#button-click)
-* [Background Color](#background-color)
-* [Enabled](#enabled)
-* [Font Bold](#font-bold)
-* [Font Italic](#font-italic)
-* [Font Size](#font-size)
-* [Font Typeface Import](#font-typeface-import)
-* [Height](#height)
-* [Image](#image)
-* [Show Feedback](#show-feedback)
-* [Text](#text)
-* [Text Color](#text-color)
-* [Visible](#visible)
-* [Width](#width)
-
----
+* [Button Click](button.md#button-click)
+* [Background Color](button.md#background-color)
+* [Enabled](button.md#enabled)
+* [Font Bold](button.md#font-bold)
+* [Font Italic](button.md#font-italic)
+* [Font Size](button.md#font-size)
+* [Font Typeface Import](button.md#font-typeface-import)
+* [Height](button.md#height)
+* [Image](button.md#image)
+* [Show Feedback](button.md#show-feedback)
+* [Text](button.md#text)
+* [Text Color](button.md#text-color)
+* [Visible](button.md#visible)
+* [Width](button.md#width)
 
 ### Events
 
-##### Click
+#### Click
 
-![](/assets/user-interface/button/Click.png)
+![](../../.gitbook/assets/click.png)
 
 When the users clicks on the button.
 
-##### Got Focus
+#### Got Focus
 
-![](/assets/user-interface/button/GotFocus.png)
+![](../../.gitbook/assets/gotfocus.png)
 
 Indicates the cursor moved over the button so it is now possible to click it.
 
-##### Long Click
+#### Long Click
 
-![](/assets/user-interface/button/LongClick.png)
+![](../../.gitbook/assets/longclick.png)
 
 When the users helds the button down.
 
-##### Lost Focus
+#### Lost Focus
 
-![](/assets/user-interface/button/LostFocus.png)
+![](../../.gitbook/assets/lostfocus.png)
 
 Indicates the cursor moved away from the button so it is now no longer possible to click it.
 
-##### Touch Down
+#### Touch Down
 
-![](/assets/user-interface/button/TouchDown.png)
+![](../../.gitbook/assets/touchdown.png)
 
 When the user press the button down.
 
-##### Touch Up
+#### Touch Up
 
-![](/assets/user-interface/button/TouchUp.png)
+![](../../.gitbook/assets/touchup.png)
 
 When the user releases the button.
 
----
-
 ## Methods
 
-##### Button Click
+#### Button Click
 
-![](/assets/user-interface/button/ButtonClick.png)
+![](../../.gitbook/assets/buttonclick.png)
 
 Preform a click on the button.
 
----
-
 ### Properties
 
-##### Touch Color
+#### Touch Color
 
-![](/assets/touchcolor.png)
+![](https://github.com/makeroid/docs/tree/6b89ce9eb8c93762fd238491325318be0e89c35f/assets/touchcolor.png)
 
 Set's the touch color \(ripple touch effect\) for a button.
 
-##### Background Color
+#### Background Color
 
-![](/assets/user-interface/button/BackgroundColor.png)
+![](../../.gitbook/assets/backgroundcolor.png)
 
 Sets the button's background color.
 
-##### Enabled
+#### Enabled
 
-![](/assets/user-interface/button/Enabled.png)
+![](../../.gitbook/assets/enabled%20%282%29.png)
 
 The button can listen to touches only if _Enabled_ is set to true.
 
-##### Font Bold
+#### Font Bold
 
-![](/assets/user-interface/button/FontBold.png)
+![](../../.gitbook/assets/fontbold.png)
 
 If set, button text is displayed in bold.
 
-##### Font Italic
+#### Font Italic
 
-![](/assets/user-interface/button/FontItalic.png)
+![](../../.gitbook/assets/fontitalic.png)
 
 If set, button text is displayed in italic.
 
-##### Font Size
+#### Font Size
 
-![](/assets/user-interface/button/FontSize.png)
+![](../../.gitbook/assets/fontsize.png)
 
 The size of the font that is displayed on the button.
 
-##### Font Typeface Import
+#### Font Typeface Import
 
-![](/assets/user-interface/button/FontTypefaceImport.png)
+![](../../.gitbook/assets/fonttypefaceimport.png)
 
 The font family for the button text.
 
-##### Height
+#### Height
 
-![](/assets/user-interface/button/Height.png)
+![](../../.gitbook/assets/height%20%282%29.png)
 
 The height of the button.
 
-##### Image
+#### Image
 
-![](/assets/user-interface/button/Image.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 The image that is displayed on the button.
 
-##### Show Feedback
+#### Show Feedback
 
-![](/assets/user-interface/button/ShowFeedback.png)
+![](../../.gitbook/assets/showfeedback.png)
 
 Specifies if a visual feedback should be shown for a button that as an image as background.
 
-##### Text
+#### Text
 
-![](/assets/user-interface/button/Text.png)
+![](../../.gitbook/assets/text.png)
 
 The text that is displayed on the button.
 
-##### Text Color
+#### Text Color
 
-![](/assets/user-interface/button/TextColor.png)
+![](../../.gitbook/assets/textcolor.png)
 
 The color of the text that is showed on the button.
 
-##### Visible
+#### Visible
 
-![](/assets/user-interface/button/Visible.png)
+![](../../.gitbook/assets/visible%20%282%29.png)
 
 Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
-##### Width
+#### Width
 
-![](/assets/user-interface/button/Width.png)
+![](../../.gitbook/assets/width%20%282%29.png)
 
 The width of the button.
-
----
-
-
 

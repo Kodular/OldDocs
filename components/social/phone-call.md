@@ -4,34 +4,29 @@ A non-visible component that makes a phone call to the number specified in the P
 
 Often, this component is used with the ContactPicker component, which lets the user select a contact from the ones stored on the phone and sets the PhoneNumber property to the contact's phone number.
 
-To directly specify the phone number (e.g., 650-555-1212), set the PhoneNumber property to a Text with the specified digits (e.g., "6505551212"). Dashes, dots, and parentheses may be included (e.g., "(650)-555-1212") but will be ignored; spaces may not be included.
+To directly specify the phone number \(e.g., 650-555-1212\), set the PhoneNumber property to a Text with the specified digits \(e.g., "6505551212"\). Dashes, dots, and parentheses may be included \(e.g., "\(650\)-555-1212"\) but will be ignored; spaces may not be included.
 
----
+## Properties
 
-### Properties
+### PhoneNumber
 
-#### PhoneNumber
+## Events
 
----
-
-### Events
-
-#### IncomingCallAnswered(text phoneNumber)
+### IncomingCallAnswered\(text phoneNumber\)
 
 Event indicating that an incoming phone call is answered. phoneNumber is the incoming call phone number.
 
-#### PhoneCallEnded(number status, text phoneNumber)
+### PhoneCallEnded\(number status, text phoneNumber\)
 
 Event indicating that a phone call has ended. If status is 1, incoming call is missed or rejected; if status is 2, incoming call is answered before hanging up; if status is 3, outgoing call is hung up. phoneNumber is the ended call phone number.
 
-#### PhoneCallStarted(number status, text phoneNumber)
+### PhoneCallStarted\(number status, text phoneNumber\)
 
 Event indicating that a phonecall has started. If status is 1, incoming call is ringing; if status is 2, outgoing call is dialled. phoneNumber is the incoming/outgoing phone number.
 
----
+## Methods
 
-### Methods
-
-#### MakePhoneCall()
+### MakePhoneCall\(\)
 
 Makes a phone call using the number in the PhoneNumber property.
+

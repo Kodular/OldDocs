@@ -2,42 +2,37 @@
 
 A component that provides a high-level interface to a touch sensor on a LEGO MINDSTORMS NXT robot
 
----
+## Properties
 
-### Properties
-
-#### BluetoothClient
+### BluetoothClient
 
 The BluetoothClient component that should be used for communication. Must be set in the Designer
 
-#### SensorPort
+### SensorPort
 
 The sensor port that the sensor is connected to. Must be set in the Designer
 
-#### PressedEventEnabled
+### PressedEventEnabled
 
 Whether the Pressed event should fire when the touch sensor is pressed.
 
-#### ReleasedEventEnabled
+### ReleasedEventEnabled
 
 Whether the Released event should fire when the touch sensor is released.
 
----
+## Events
 
-### Events
-
-#### Pressed()
+### Pressed\(\)
 
 Touch sensor has been pressed.
 
-#### Released()
+### Released\(\)
 
 Touch sensor has been released.
 
----
+## Methods
 
-### Methods
-
-#### IsPressed ()
+### IsPressed \(\)
 
 Returns true if the touch sensor is pressed.
+

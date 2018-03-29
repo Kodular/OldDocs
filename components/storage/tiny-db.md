@@ -10,38 +10,33 @@ Each app has its own data store. There is only one data store per app. Even if y
 
 When you are developing apps using the AI Companion, all the apps using that Companion will share the same TinyDB. That sharing will disappear once the apps are packaged and installed on the phone. During development you should be careful to clear the Companion app's data each time you start working on a new app.
 
----
-
-### Properties
+## Properties
 
 none
 
----
-
-### Events
+## Events
 
 none
 
----
+## Methods
 
-### Methods
-
-#### ClearAll()
+### ClearAll\(\)
 
 Clear the entire data store in the TinyDB.
 
-#### ClearTag(text tag)
+### ClearTag\(text tag\)
 
 Clear the entry with the given tag.
 
-#### any GetTags()
+### any GetTags\(\)
 
 Return a list of all the tags in the TinyDB.
 
-#### any GetValue(text tag, any valueIfTagNotThere)
+### any GetValue\(text tag, any valueIfTagNotThere\)
 
 Retrieve the value stored under the given tag. If there's no such tag, then return valueIfTagNotThere.
 
-#### StoreValue(text tag, any valueToStore)
+### StoreValue\(text tag, any valueToStore\)
 
 Store the value under the given tag. The storage persists on the phone when the app is restarted.
+

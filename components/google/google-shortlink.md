@@ -1,45 +1,39 @@
-# Google Shortlink 
+# Google Shortlink
 
 Google Shortlink component allows you to shorten your long links using the goo.gl service.
 
-* [Got Response](#got-response)
-* [Short to URL](#short-to-url)
-* [URL to Short](#url-to-short)
-* [API Key](#api-key)
-
----
+* [Got Response](google-shortlink.md#got-response)
+* [Short to URL](google-shortlink.md#short-to-url)
+* [URL to Short](google-shortlink.md#url-to-short)
+* [API Key](google-shortlink.md#api-key)
 
 ### Events
 
-##### Got Response
+#### Got Response
 
-![](/assets/google/google-shortlink/got-response.png)
+![](../../.gitbook/assets/got-response.png)
 
-When the shortlink comes from the Google Server.
----
+## When the shortlink comes from the Google Server.
 
 ## Methods
 
-##### Short to URL
+#### Short to URL
 
-![](/assets/google/google-shortlink/short-to-url.png)
+![](../../.gitbook/assets/short-to-url.png)
 
 To get the long URL out from a short one.
 
-##### URL to Short
+#### URL to Short
 
-![](/assets/google/google-shortlink/url-to-short.png)
+![](../../.gitbook/assets/url-to-short.png)
 
 To shorten a link using the goo.gl service.
 
----
-
 ### Properties
 
-##### API Key
+#### API Key
 
-![](/assets/google/google-shortlink/api-key.png)
+![](../../.gitbook/assets/api-key.png)
 
 To set the Google Shortlink API Key.
 
----

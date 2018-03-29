@@ -1,4 +1,4 @@
-# OrientationSensor
+# Orientation Sensor
 
 Use an orientation sensor component to determine the phone's spatial orientation.
 
@@ -12,42 +12,39 @@ Azimuth : 0 degree when the top of the device is pointing north, 90 degrees when
 
 These measurements assume that the device itself is not moving.
 
----
+## Properties
 
-### Properties
-
-#### Available
+### Available
 
 Indicates whether the orientation sensor is present on the Android device.
 
-#### Enabled
+### Enabled
 
 If set, the orientation sensor is enabled.
 
-#### Azimuth
+### Azimuth
 
 Returns the azimuth angle of the device.
 
-#### Pitch
+### Pitch
 
 Returns the pitch angle of the device.
 
-#### Roll
+### Roll
 
 Returns the roll angle of the device.
 
-#### Magnitude
+### Magnitude
 
 Returns a number between 0 and 1 that indicates how much the device is tilted. It gives the magnitude of the force that would be felt by a ball rolling on the surface of the device.
 
-#### Angle
+### Angle
 
 Returns an angle that tells the direction in which the device is tiled. That is, it tells the direction of the force that would be felt by a ball rolling on the surface of the device.
 
----
+## Events
 
-### Events
-
-#### OrientationChanged(number azimuth, number pitch, number roll)
+### OrientationChanged\(number azimuth, number pitch, number roll\)
 
 Called when the orientation has changed.
+

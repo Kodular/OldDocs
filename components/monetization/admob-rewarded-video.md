@@ -2,29 +2,25 @@
 
 Rewarded video ads are full screen video ads that users have the option of watching in full in exchange for in-app rewards.
 
----
+## Properties
 
-### Properties
-
-##### AdEnabled
+### AdEnabled
 
 If true, device that will receive test ads. You should utilize this property during development to avoid generating false impressions
 
-##### AdUnitId (designer only)
+### AdUnitId \(designer only\)
 
-##### TestMode
+### TestMode
 
 For debugging/development purposes flag all ad requests as tests, but set to false for production builds. Will take effect when you use LoadAd block.
 
----
+## Events
 
-### Events
-
-##### AdClosed
+### AdClosed
 
 Called when the user is about to return to the application after clicking on an ad
 
-##### AdFailedToLoad
+### AdFailedToLoad
 
 | Parameter | Type |
 | :--- | :--- |
@@ -33,19 +29,19 @@ Called when the user is about to return to the application after clicking on an 
 
 Triggered when AD fails to load
 
-##### AdLeftApplication
+### AdLeftApplication
 
-Called when an ad leaves the application (e.g., to go to the browser).
+Called when an ad leaves the application \(e.g., to go to the browser\).
 
-##### AdLoaded
+### AdLoaded
 
 Called when an ad is received
 
-##### AdOpened
+### AdOpened
 
 Ad was opened by user
 
-##### Rewarded
+### Rewarded
 
 | Parameter | Type |
 | :--- | :--- |
@@ -54,14 +50,13 @@ Ad was opened by user
 
 User watched video and should be rewarded
 
----
+## Methods
 
-### Methods
-
-##### LoadAd
+### LoadAd
 
 Loads a new ad.
 
-##### ShowAd
+### ShowAd
 
 It will show the Video
+

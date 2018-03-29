@@ -2,76 +2,66 @@
 
 Screenshot component lets you to take screenshots of your current screen.
 
-- [Got Screenshot](#got-screenshot)
-- [Take Screenshot](#take-screenshot)
-- [Allow Screenshots](#allow-screenshots)
-- [Notification Big Style](#notification-big-style)
-- [Notification Share Style](#notification-share-style)
-- [Notification Title](#notification-title)
-- [Notification](#notification)
-- [Preview](#preview)
+* [Got Screenshot](screenshot.md#got-screenshot)
+* [Take Screenshot](screenshot.md#take-screenshot)
+* [Allow Screenshots](screenshot.md#allow-screenshots)
+* [Notification Big Style](screenshot.md#notification-big-style)
+* [Notification Share Style](screenshot.md#notification-share-style)
+* [Notification Title](screenshot.md#notification-title)
+* [Notification](screenshot.md#notification)
+* [Preview](screenshot.md#preview)
 
----
+## Events
 
-### Events
+### Got Screenshot
 
-##### Got Screenshot
-
-![](/assets/device/screenshot/got-screenshot.png)
+![](../../.gitbook/assets/got-screenshot.png)
 
 When the user got the screenshot.
 
+## Methods
 
+### Take Screenshot
 
----
-
-### Methods
-
-##### Take Screenshot
-
-![](/assets/device/screenshot/take-screenshot.png)
+![](../../.gitbook/assets/take-screenshot.png)
 
 Allows the user to take a Screenshot.
 
+## Properties
 
----
+### Allow Screenshots
 
-### Properties
-
-##### Allow Screenshots
-
-![](/assets/device/screenshot/allow-screenshot.png)
+![](../../.gitbook/assets/allow-screenshot.png)
 
 Allows the user to take a Screenshot manually on that page. This acts like a permission. If false, there will be a toast warning notifying the user that its not allowed to take screenshots on that page.
 
-##### Notification Big Style
+### Notification Big Style
 
-![](/assets/device/screenshot/notification-big-style.png)
+![](../../.gitbook/assets/notification-big-style.png)
 
 Makes the notification style big.
 
-##### Notification Share Style
+### Notification Share Style
 
-![](/assets/device/screenshot/notification-share-title.png)
+![](../../.gitbook/assets/notification-share-title.png)
 
 Makes the notification style sharable.
 
-##### Notification Title
+### Notification Title
 
-![](/assets/device/screenshot/notification-title.png)
+![](../../.gitbook/assets/notification-title.png)
 
 Allows the user to change the notification title.
 
-##### Notification
+### Notification
 
-![](/assets/device/screenshot/show-notification.png)
+![](../../.gitbook/assets/show-notification.png)
 
 The option to show notifications or not.
 
-##### Preview
+### Preview
 
-![](/assets/device/screenshot/show-preview.png)
+![](../../.gitbook/assets/show-preview.png)
 
 The option to show preview or not.
 
----

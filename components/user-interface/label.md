@@ -2,58 +2,57 @@
 
 Labels are components used to show text. A label displays text which is specified by the Text property. Other properties, all of which can be set in the Designer or Blocks Editor, control the appearance and placement of the text.
 
----
+## Properties
 
-### Properties
-
-#### BackgroundColor
+### BackgroundColor
 
 Color for label background.
 
-#### FontBold
+### FontBold
 
 If set, label text is displayed in bold.
 
-#### FontItalic
+### FontItalic
 
 If set, label text is displayed in italics.
 
-#### FontSize
+### FontSize
 
 Point size for label text.
 
-#### FontTypeface
+### FontTypeface
 
 Font family for label text.
 
-#### HasMargins
+### HasMargins
 
-Reports whether or not the label appears with margins. All four margins (left, right, top, bottom) are the same. This property has no effect in the designer, where labels are always shown with margins.
+Reports whether or not the label appears with margins. All four margins \(left, right, top, bottom\) are the same. This property has no effect in the designer, where labels are always shown with margins.
 
-#### HTMLFormat
+### HTMLFormat
 
 If true, sets text of label to html format else it is plain text format. Note: Not all HTML is supported.
 
-#### Height
+### Height
 
-Label height (y-size).
+Label height \(y-size\).
 
-#### Width
+### Width
 
-Label width (x-size).
+Label width \(x-size\).
 
-#### Text
+### Text
 
 Text to display on label.
 
-#### TextAlignment
+### TextAlignment
 
 Left, center, or right.
 
-#### TextColor
+### TextColor
 
 Color for label text.
 
-#### Visible
+### Visible
 
 If set, label is visible.
+

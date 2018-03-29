@@ -2,87 +2,81 @@
 
 Component to check for a FingerScanner and read fingerprints from the scanner.
 
----
-
 ### Events
 
-##### On Authentication Error
+#### On Authentication Error
 
-![](/assets/sensors/finger-print/OnAuthenticationError.png)
+![](../../.gitbook/assets/onauthenticationerror.png)
 
 Triggers when there is a Authentication Error.
 
-##### On Authentication Help
+#### On Authentication Help
 
-![](/assets/sensors/finger-print/OnAuthenticationHelp.png)
+![](../../.gitbook/assets/onauthenticationhelp.png)
 
 Triggers when there is a Authentication Help.
 
-##### On Authentication Failed
+#### On Authentication Failed
 
-![](/assets/sensors/finger-print/OnAuthenticationFailed.png)
+![](../../.gitbook/assets/onauthenticationfailed.png)
 
 Triggers when the Authentication Failed.
 
-##### On Authentication Succeeded
+#### On Authentication Succeeded
 
-![](/assets/sensors/finger-print/OnAuthenticationSucceeded.png)
+![](../../.gitbook/assets/onauthenticationsucceeded.png)
 
 Trigger when the Authentication Succeeded.
 
----
-
 ## Methods
 
-##### Has Fingerprint Scanner
+#### Has Fingerprint Scanner
 
-![](/assets/sensors/finger-print/HasFingerprintScanner.png)
+![](../../.gitbook/assets/hasfingerprintscanner.png)
 
 True if hardware is present and functional, false otherwise.
 
-##### Has Fingers Added
+#### Has Fingers Added
 
-![](/assets/sensors/finger-print/HasFingersAdded.png)
+![](../../.gitbook/assets/hasfingersadded.png)
 
 True if at least one fingerprint is enrolled, false otherwise.
 
-##### Authenticate
+#### Authenticate
 
-![](/assets/sensors/finger-print/Authenticate.png)
+![](../../.gitbook/assets/authenticate.png)
 
 Authenticate the user with a Fingerprint scanner.
 
-##### Cancel Scan
+#### Cancel Scan
 
-![](/assets/sensors/finger-print/CancelScan.png)
+![](../../.gitbook/assets/cancelscan.png)
 
 Cancel the current Fingerprint Scan.
 
----
-
 ### Properties
 
-##### Light Theme
+#### Light Theme
 
-![](/assets/sensors/finger-print/LightTheme.png)
+![](../../.gitbook/assets/lighttheme.png)
 
 Sets the current theme.
 
-##### Use Dialog
+#### Use Dialog
 
-![](/assets/sensors/finger-print/UseDialog.png)
+![](../../.gitbook/assets/usedialog.png)
 
 Whether to use a dialog.
 
-##### Dialog Title
+#### Dialog Title
 
-![](/assets/sensors/finger-print/DialogTitle.png)
+![](../../.gitbook/assets/dialogtitle.png)
 
 Sets the dialog title/
 
-##### Dialog Help Text
+#### Dialog Help Text
 
-![](/assets/sensors/finger-print/DialogHelpText.png)
+![](../../.gitbook/assets/dialoghelptext.png)
 
 Sets the dialog help text.
 

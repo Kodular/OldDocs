@@ -1,62 +1,56 @@
-# LeadBolt
+# Leadbolt
 
 The LeadBolt component allows you to show both Rewarded and Interstitial ads in your apps.
 
----
+## Properties
 
-### Properties
+### API Key \(designer only\)
 
-##### API Key \(designer only\)
+## Events
 
----
+### Ad Cached
 
-### Events
+![](../../.gitbook/assets/adcached.png)
 
-##### Ad Cached
+### Ad Clicked
 
-![](/assets/monetization/leadbolt/AdCached.png)
+![](../../.gitbook/assets/adclicked.png)
 
-##### Ad Clicked
+### Ad Closed
 
-![](/assets/monetization/leadbolt/AdClicked.png)
+![](../../.gitbook/assets/adclosed.png)
 
-##### Ad Closed
+### Ad Failed To Load
 
-![](/assets/monetization/leadbolt/AdClosed.png)
+![](../../.gitbook/assets/adfailedtoload.png)
 
-##### Ad Failed To Load
+### Ad Loaded
 
-![](/assets/monetization/leadbolt/AdFailedToLoad.png)
+![](../../.gitbook/assets/adloaded.png)
 
-##### Ad Loaded
+## Methods
 
-![](/assets/monetization/leadbolt/Adloaded.png)
+### Is Network Ad Ready
 
----
+![](../../.gitbook/assets/isnetworkadready.png)
 
-### Methods
+### Is Rewarded Ad Ready
 
-##### Is Network Ad Ready
+![](../../.gitbook/assets/isrewardedadready.png)
 
-![](/assets/monetization/leadbolt/IsNetworkAdReady.png)
+### Load Network Ad
 
-##### Is Rewarded Ad Ready
+![](../../.gitbook/assets/loadnetworkad.png)
 
-![](/assets/monetization/leadbolt/IsRewardedAdReady.png)
+### Load Rewarded Ad
 
-##### Load Network Ad
+![](../../.gitbook/assets/loadrewardedad.png)
 
-![](/assets/monetization/leadbolt/LoadNetworkAd.png)
+### Show Network Ad
 
-##### Load Rewarded Ad
+![](../../.gitbook/assets/shownetworkad.png)
 
-![](/assets/monetization/leadbolt/LoadRewardedAd.png)
+### Show Rewarded Ad
 
-##### Show Network Ad
-
-![](/assets/monetization/leadbolt/ShowNetworkAd.png)
-
-##### Show Rewarded Ad
-
-![](/assets/monetization/leadbolt/ShowRewardedAd.png)
+![](../../.gitbook/assets/showrewardedad.png)
 

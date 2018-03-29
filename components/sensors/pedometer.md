@@ -2,70 +2,65 @@
 
 A Component that acts like a Pedometer. It senses motion via the Accerleromter and attempts to determine if a step has been taken. Using a configurable stride length, it can estimate the distance traveled as well.
 
----
+## Properties
 
-### Properties
-
-#### Distance
+### Distance
 
 The approximate distance traveled in meters.
 
-#### ElapsedTime
+### ElapsedTime
 
 Time elapsed in milliseconds since the pedometer was started.
 
-#### SimpleSteps
+### SimpleSteps
 
 The number of simple steps taken since the pedometer has started.
 
-#### StopDetectionTimeout
+### StopDetectionTimeout
 
-The duration in milliseconds of idleness (no steps detected) after which to go into a "stopped" state
+The duration in milliseconds of idleness \(no steps detected\) after which to go into a "stopped" state
 
-#### StrideLength
+### StrideLength
 
 Set the average stride length in meters.
 
-#### WalkSteps
+### WalkSteps
 
 the number of walk steps taken since the pedometer has started.
 
----
+## Events
 
-### Events
-
-#### SimpleStep(number simpleSteps, number distance)
+### SimpleStep\(number simpleSteps, number distance\)
 
 This event is run when a raw step is detected
 
-#### WalkStep(number walkSteps, number distance)
+### WalkStep\(number walkSteps, number distance\)
 
 This event is run when a walking step is detected. A walking step is a step that appears to be involved in forward motion.
 
----
+## Methods
 
-### Methods
-
-#### Pause()
+### Pause\(\)
 
 Pause counting of steps and distance.
 
-#### Reset()
+### Reset\(\)
 
 Resets the step counter, distance measure and time running.
 
-#### Resume()
+### Resume\(\)
 
 Resumes counting, synonym of Start.
 
-#### Save()
+### Save\(\)
 
 Saves the pedometer state to the phone. Permits permits accumulation of steps and distance between invocations of an App that uses the pedometer. Different Apps will have their own saved state.
 
-#### Start()
+### Start\(\)
 
 Start counting steps
 
-#### Stop()
+### Stop\(\)
 
 Stop counting steps
+
