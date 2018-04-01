@@ -149,5 +149,5 @@
 * [Release Notes](other/release-notes.md)
 * [Backpack](other/backpack.md)
 * [Donate](https://paypal.me/Makeroid)
-* [Terms of Service](other/untitled.md)
+* [Terms of Service](tos.md)
 
