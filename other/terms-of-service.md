@@ -1,20 +1,20 @@
 # Terms of Service
 
-### Makeroid Builder Privacy Policy and Terms of Use
+## Makeroid Builder Privacy Policy and Terms of Use
 
 Welcome to Makeroid Builder website \(the "Site"\). The Site runs on Google's App Engine service. You must read and agree to these Terms of Service and Privacy Policy \(collectively, the "Terms"\) prior to using any portion of this Site. These Terms are an agreement between you and Makeroid. If you do not understand or do not agree to be bound by these Terms, please immediately exit this Site.
 
 Makeroid reserves the right to modify these Terms at any time and will publish notice of any such modifications online on this page for a reasonable period of time following such modifications, and by changing the effective date of these Terms. By continuing to access the Site after notice of such changes have been posted, you signify your agreement to be bound by them. Be sure to return to this page periodically to ensure familiarity with the most current version of these Terms.
 
-#### Description of Makeroid Builder
+### Description of Makeroid Builder
 
 From this Site you can access Makeroid Builder, which lets you develop applications for Android devices using a web browser and either a connected phone or emulator. You can also use the Site to store your work and keep track of your projects. Makeroid Builder was originally developed by Google. The Site also includes documentation and educational content, and this is being licensed to you under the Creative Commons Attribution 4.0 International license [\(CC BY 4.0\).](https://creativecommons.org/licenses/by/4.0/)
 
-#### Account Required for Use of Makeroid Builder
+### Account Required for Use of Makeroid Builder
 
 In order to log in to Makeroid Builder, you need to use a Google account. Your use of that account is subject to Google's Terms of Service for accounts, and the information you provide to Google is governed by Google's [Privacy Policy](http://www.google.com/policies/privacy/preview/). Makeroid has no access to your Google account or the information you provide for it other than the account email address, which we may use to contact you. In the future, the Center for Mobile Learning may provide alternative means for using Makeroid Builder without Google accounts, at which point we will update these terms of use to reflect those alternatives.
 
-#### Information about you
+### Information about you
 
 Beyond the name of your Google account, you do not have to tell us anything about yourself to download the Makeroid Builder setup software or use the Makeroid Builder website. From time to time, we will give you the option of telling us some things about yourself, but you do not have provide this information if you don't want to. Please understand that by submitting any Personally Identifiable Information to us, you consent and agree that we may collect, use and disclose such Personally Identifiable Information in accordance with these Terms, and as permitted or required by law. If you do not agree with these Terms, then please do not provide any Personally Identifiable Information to us.
 
@@ -30,7 +30,7 @@ Among other things, we may use the information that you provide \(including your
 * To publish information gathered about learning and creating with Makeroid Builder but only as non-personally identifiable data.
 * As otherwise described to you at the point of collection.
 
-#### Sharing with Third Parties
+### Sharing with Third Parties
 
 We may share the information we collect with third parties as follows:
 
@@ -38,7 +38,7 @@ We may share the information we collect with third parties as follows:
 * With research collaborators, but only under the condition that they are obligated to keep any personally identifying information confidential.
 * To respond to subpoenas, court orders, or other legal process, in response to a request for cooperation from law enforcement or another government agency, to investigate, prevent, or take action regarding illegal activities, suspected fraud, or to enforce our user agreement or privacy policy, or to protect our rights or the rights of others.
 
-#### The Apps you create
+### The Apps you create
 
 By creating and storing apps on the Makeroid Builder server you represent and warrant that you are the owner and creator of the apps, \(i\) that you have the authority to authorize Makeroid to store the apps on the Makeroid Builder Server and \(ii\) you will use the apps in compliance with all applicable laws and regulations. You, and not Makeroid, are solely responsible for your apps and your use of them.
 
@@ -46,9 +46,9 @@ Makeroid has no proprietary rights in the apps you create with Makeroid Builder.
 
 In addition, any illegal usage of Makeroid Builder could carry a suspension of the account without any previous warning. You can appeal this decission writing at support@makeroid.io.
 
-#### User Postings
+### User Postings
 
-Makeroid Builder has a gallery for sharing apps, user profile information and commentary. You agree that you are responsible for your own use of the Site and your User Postings. âUser Postingsâ include all projects, applications and content submitted, posted, published or distributed on the Site by you or other users of the Site.
+Makeroid Builder has a gallery for sharing apps, user profile information and commentary. You agree that you are responsible for your own use of the Site and your User Postings. "User Postings" include all projects, applications and content submitted, posted, published or distributed on the Site by you or other users of the Site.
 
 By submitting or distributing your User Postings, you affirm, represent, and warrant that you are the creator and owner of or have the necessary licenses, rights, consents, and permissions to reproduce and publish the User Postings, and to authorize Makeroid and the Site’s users to reproduce, modify, publish, and otherwise distribute your User Postings as necessary to exercise the license granted by you below. You, and not Makeroid, are solely responsible for your User Postings and the consequences of posting or publishing them.
 
@@ -56,7 +56,7 @@ All content and projects on this Site are licensed under the Creative Commons At
 
 Makeroid has no proprietary rights in your User Postings. You have the right to download or delete them from the server at any time.
 
-#### Community Guidelines
+### Community Guidelines
 
 You are required to follow these community guidelines.
 
@@ -74,7 +74,7 @@ Keep personal info private. Your projects on the Site are private unless you sha
 
 Help keep the Site friendly. If you think a project, comment or user profile is mean, insulting, too violent, or otherwise inappropriate, click "Report" to let the moderators know about it.
 
-#### Prohibited Content
+### Prohibited Content
 
 * Content that defames, harasses, or threatens others
 * Content that discusses illegal activities with the intent to commit them
@@ -84,18 +84,18 @@ Help keep the Site friendly. If you think a project, comment or user profile is 
 * Political content or content related to partisan political activities
 * Content that contains intentional inaccurate information with the intent of misleading others.
 
-#### Prohibited Activities
+### Prohibited Activities
 
 * Viruses, trojan horses, worms, time bombs, corrupted files, malware, spyware, or any other similar software that may damage the operation of another’s computer or property
 * Using the Site in any manner intended to damage, disable, overburden, or impair any Makeroid server, or the network\(s\) connected to any Makeroid server, or interfere with any other party's use and enjoyment of the Site.
 * Attempting to gain unauthorized access to the Site, other accounts, computer systems or networks connected to any Makeroid server through hacking, password mining or any other means.
 * Obtaining or attempting to obtain any materials or information stored on the Site, its servers, or associated computers through any means not intentionally made available through the Site.
 
-#### Use of Makeroid Names and Trademarks
+### Use of Makeroid Names and Trademarks
 
 "Makeroid Builder", "Makeroid", and its logos and seal are trademarks of Makeroid. You may not use Makeroid's names or logos, or any variations thereof, without prior written consent of Makeroid. You may not use the Makeroid name in any of its forms nor Makeroid seals or logos for promotional purposes, or in any way that deliberately or inadvertently claims, suggests, or in Makeroid's sole judgment gives the appearance or impression of a relationship with or endorsement by Makeroid.
 
-#### The Digital Millennium Copyright Act \("DMCA"\)
+### The Digital Millennium Copyright Act \("DMCA"\)
 
 It is Makeroid's policy to respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act. Copyright owners who believe their material has been infringed on the Site should contact Makeroid's designated copyright agent at support@makeroid.io
 
@@ -107,17 +107,17 @@ Notification must include:
 * A statement that the complaining party believes that the use of the material has not been authorized by the copyright owner or an authorized agent.
 * A statement that the information in the notification is accurate and that the complaining party is authorized to act on behalf of the copyright owner.
 
-#### Disclaimer of Warranty / Indemnification/Limitation of Liabilities
+### Disclaimer of Warranty / Indemnification/Limitation of Liabilities
 
 THE SITE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR USE FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Makeroid does not warrant the Site will operate in an uninterrupted or error-free manner or that the Site is free of viruses or other harmful components. Use of information obtained from or through this Site is at your own risk. Your access to or download of software, information, materials, or data through the Site or any reference sites is at your own discretion and risk and that you will be solely responsible for any damage to your property \(including your computer system\) or loss of data that results from the download or use of such material or data.
 
 IN PARTICULAR, Makeroid WILL HAVE NO LIABILITY FOR ANY CONSEQUENTIAL, INDIRECT, PUNITIVE, SPECIAL, EXEMPLARY OR INCIDENTAL DAMAGES, WHETHER FORESEEABLE OR UNFORESEEABLE, \(INCLUDING, BUT NOT LIMITED TO, CLAIMS FOR DEFAMATION, ERRORS, LOSS OF DATA, OR INTERRUPTION IN AVAILABILITY OF DATA\).
 
-#### Indemnification
+### Indemnification
 
 You agree to defend, hold harmless and indemnify Makeroid, and its subsidiaries, affiliates, officers, agents, and employees from and against any third-party claims, actions or demands arising out of, resulting from or in any way related to your use of the Site, including any liability or expense arising from any and all claims, losses, damages \(actual and consequential\), suits, judgments, litigation costs and attorneys' fees, of every kind and nature. In such a case, Makeroid will provide you with written notice of such claim, suit or action.
 
-#### Miscellaneous
+### Miscellaneous
 
 **Termination Rights.** You agree that Makeroid, in its sole discretion, may terminate your use of the Site or your participation in it thereof, for any reason or no reason.
 
@@ -128,3 +128,4 @@ You agree to defend, hold harmless and indemnify Makeroid, and its subsidiaries,
 **Choice of Law/Forum Selection.** You agree that any dispute arising out of or relating to these Terms or any content posted to a Site will be governed by the laws of the Commonwealth of Massachusetts, excluding its conflicts of law provisions. You further consent to the personal jurisdiction of and exclusive venue in the federal and state courts located in and serving Boston, Massachusetts as the legal forum for any such dispute.
 
 _Effective Date: April 01, 2018_
+
