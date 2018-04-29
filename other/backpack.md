@@ -6,7 +6,7 @@
 
 Backpack: Copy and Paste Blocks to DifferentScreens and Projects
 
-TheBackpack allows you to carry around blocks throughout your project repositories, allowing blocks to be transferred between projects and between screens.  The contents of the Backpackare persistent across logins. When you login to MIT App Inventor, you will find the blocks you left from your last session.
+TheBackpack allows you to carry around blocks throughout your project repositories, allowing blocks to be transferred between projects and between screens. The contents of the Backpackare persistent across logins. When you login to MIT App Inventor, you will find the blocks you left from your last session.
 
 Click[here](https://www.google.com/url?q=https://youtu.be/diQ8wJCYb6o&sa=D&ust=1513348208622000&usg=AFQjCNE2wsMEfVuWatdwdQ_waRH22z72cA) for a video demo.
 
@@ -16,9 +16,9 @@ The Backpack is a copy-and-paste feature that works between projects and screens
 
 ![](../.gitbook/assets/backpack_doc.png)
 
-Copying Blocks. Blocks from the workspace can be dragged and dropped into Backpack. This is the copy operation -- the blocks are copied \(duplicated\) in the backpack.  When blocks are dropped into the Backpack, an animation and sound will occur to confirm for the user that the operation was successful. The blocks are not removed from the workspace.
+Copying Blocks. Blocks from the workspace can be dragged and dropped into Backpack. This is the copy operation -- the blocks are copied \(duplicated\) in the backpack. When blocks are dropped into the Backpack, an animation and sound will occur to confirm for the user that the operation was successful. The blocks are not removed from the workspace.
 
-Viewing the Backpack Contents. The contents of the Backpack can be viewed by clicking on its icon \(upper right corner of the workspace\).  A scrollable flyout will pull out from the right edge of the workspace, displaying the Backpack’s contents. The flyout of the Backpack works the same way as the flyouts in the Block drawers.
+Viewing the Backpack Contents. The contents of the Backpack can be viewed by clicking on its icon \(upper right corner of the workspace\). A scrollable flyout will pull out from the right edge of the workspace, displaying the Backpack’s contents. The flyout of the Backpack works the same way as the flyouts in the Block drawers.
 
 To close the flyout without pasting any blocks, you can click the workspace or click any empty space in the Backpack with no block highlighted. Note that if you click on a highlighted block in the flyout, that block will be pasted to the workspace.
 

@@ -1,6 +1,6 @@
 # Audio Picker
 
-A special-purpose button. When the user taps an audio picker, the device's audio gallery appears, and the user can choose an audio file. After an audio file is picked, it is saved, and the `Selected` property will be the name of the file where the audio file is stored. In order to not fill up storage, a maximum of 10 audio files will be stored.  Picking more audio files will delete previous audio files, in order from oldest to newest.
+A special-purpose button. When the user taps an audio picker, the device's audio gallery appears, and the user can choose an audio file. After an audio file is picked, it is saved, and the `Selected` property will be the name of the file where the audio file is stored. In order to not fill up storage, a maximum of 10 audio files will be stored. Picking more audio files will delete previous audio files, in order from oldest to newest.
 
 ## Properties
 
@@ -50,7 +50,7 @@ Specifies the button's shape \(default, rounded, rectangular, oval\). The shape 
 
 ### ShowFeedback
 
-Specifies if a visual feedback should be shown  for a button that as an image as background.
+Specifies if a visual feedback should be shown for a button that as an image as background.
 
 ### Text
 
@@ -79,13 +79,13 @@ Specifies whether the component should be visible on the screen. Value is true i
 ### AfterPicking
 
 Event to be raised after the picker activity returns its  
- result and the properties have been filled in.
+result and the properties have been filled in.
 
 ### BeforePicking
 
 Event to raise when the button of the component is clicked or the list is shown  
- using the Open block.  This event occurs before the list of items is displayed, and  
- can be used to prepare the list before it is shown.
+using the Open block. This event occurs before the list of items is displayed, and  
+can be used to prepare the list before it is shown.
 
 ### GotFocus
 

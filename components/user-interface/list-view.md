@@ -1,7 +1,7 @@
 # List View
 
-This is a visible component that allows to place a list of text elements in your Screen to display.   
-The list can be set using the ElementsFromString property or using the Elements block in the blocks editor.   
+This is a visible component that allows to place a list of text elements in your Screen to display.  
+The list can be set using the ElementsFromString property or using the Elements block in the blocks editor.  
 Warning: This component will not work correctly on Screens that are scrollable.
 
 ## Properties

@@ -239,9 +239,7 @@ Remainder\(a,b\) returns the result of dividing a by b and taking the remainder.
 
 For example, remainder\(11,5\) = 1 because
 
-
-
-In this case,  is the fractional part. We multiply this by b, in this case 5 and we get 1, our remainder.
+In this case, is the fractional part. We multiply this by b, in this case 5 and we get 1, our remainder.
 
 Other examples are remainder\(-11, 5\) = -1, remainder\(11, -5\) = 1, and remainder\(-11, -5\) = -1.
 

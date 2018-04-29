@@ -82,7 +82,7 @@ Specifies if a visual feedback should be shown for a button that as an image as 
 
 ### Text
 
-![](../../.gitbook/assets/text%20%281%29.png)
+![](../../.gitbook/assets/text-1.png)
 
 Text to display on button.
 
@@ -104,7 +104,7 @@ Specifies whether the component should be visible on the screen. Value is true i
 
 ### Width
 
-![](../../.gitbook/assets/width%20%281%29.png)
+![](../../.gitbook/assets/width-1.png)
 
 To set it's width.
 

@@ -39,7 +39,7 @@ Tests whether its arguments are equal.
 
 It acts exactly the same as the **=** block found in Math
 
-![](../.gitbook/assets/equal.png)
+![](../.gitbook/assets/equal%20%281%29.png)
 
 ## ≠ {#not=}
 

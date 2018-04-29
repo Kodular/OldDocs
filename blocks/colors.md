@@ -24,7 +24,7 @@ Each basic color block that you drag from the Colors drawer to the Blocks Editor
 
 `make color`
 
- takes in a list of 3 or 4 numbers. These numbers in this list represent values in an RGB code. RGB codes are used to make colors on the Internet. An RGB color chart is available 
+takes in a list of 3 or 4 numbers. These numbers in this list represent values in an RGB code. RGB codes are used to make colors on the Internet. An RGB color chart is available
 
 [here](http://www.tayloredmktg.com/rgb/)
 
@@ -36,7 +36,7 @@ Each basic color block that you drag from the Colors drawer to the Blocks Editor
 
 `split color`
 
- does the opposite of 
+does the opposite of
 
 `make color`
 

@@ -39,7 +39,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
 ![](https://community.makeroid.io/uploads/default/original/1X/b084e9fd63f8f8baa0459986b7b3ad2209e20271.jpg)
 
- Pura Vida Apps
+Pura Vida Apps
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/6e90a5ddbe794a3b68b6a58ddd98efc7f393b024.jpg)
 
@@ -49,9 +49,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
   [AES Encryption Extension](https://puravidaapps.com/aes.php)
 
-   - 
-
-  $10.00
+  * $10.00
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/bc4e0a557ef332b093b326c0492c73e927f9194c.png)
 
@@ -73,25 +71,19 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
   [Billing Extension](https://puravidaapps.com/billing.php)
 
-   - 
-
-  $10.00
+  * $10.00
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/4cf78e2504b3e19cfd0ec80e6b2c18c8ec78d6d5.png)
 
   [Classic Bluetooth Extension](https://puravidaapps.com/bluetooth.php)
 
-   - 
-
-  $10.00
+  * $10.00
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/296180520a99532de1fe669c5a985e3ee3a2414c.png)
 
   [Camera Extension](https://puravidaapps.com/camera.php)
 
-   - 
-
-  $10.00
+  * $10.00
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/c60f287fe734e74e71cba19e118b2dbf11f849b4.png)
 
@@ -109,9 +101,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
   [FTP Extension](https://puravidaapps.com/ftp.php)
 
-   - 
-
-  $10.00
+  * $10.00
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/419d79cd3aa4cee0dd9b42c70e969a85e5d654c7.jpg)
 
@@ -137,9 +127,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
   [Mail Extension](https://puravidaapps.com/mail.php)
 
-   - 
-
-  $10.00
+  * $10.00
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/b2860f143ce3481627b3c7c889e834264cab9dc8.png)
 
@@ -169,9 +157,7 @@ _This topic will be updated regularly. If you have made a new extension, then pl
 
   [SQLite Extension](https://puravidaapps.com/sqlite.php)
 
-   - 
-
-  $10.00
+  * $10.00
 
 * ![](https://community.makeroid.io/uploads/default/original/1X/ac963580bf16894bfb95ede4c53d7acfe5d3529c.png)
 
