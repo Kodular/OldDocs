@@ -1,10 +1,19 @@
+---
+description: >-
+  Device Components allow you to control your devices' functions. (For example:
+  control its volume, take a screenshot, change or get the current wallpaper
+  etc.)
+---
+
 # Device
 
-Device Components allow you to control your devices' functions. _\(For example: control its volume, take a screenshot, change or get the current wallpaper etc.\)_
+{% page-ref page="audio.md" %}
 
-* [**Audio**](audio.md)
-* [**Device Tools**](device-tools.md)
-* [**Wallpaper**](wallpaper.md)
-* [**Package**](package.md)
-* [**Screenshot**](screenshot.md)
+{% page-ref page="device-tools.md" %}
+
+{% page-ref page="wallpaper.md" %}
+
+{% page-ref page="package.md" %}
+
+{% page-ref page="screenshot.md" %}
 

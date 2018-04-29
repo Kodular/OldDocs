@@ -1,11 +1,18 @@
+---
+description: Storage Components allow you to store data.
+---
+
 # Storage
 
-Storage Components allow you to store data.
+{% page-ref page="file.md" %}
 
-* [**File**](file.md)
-* [**Firebase DB**](firebase-db.md)
-* [**Fusiontables Control**](fusiontables-control.md)
-* [**SQLite**](sqlite.md)
-* [**Tiny DB**](tiny-db.md)
-* [**Tiny Web DB**](tiny-web-db.md)
+{% page-ref page="firebase-db.md" %}
+
+{% page-ref page="fusiontables-control.md" %}
+
+{% page-ref page="sqlite.md" %}
+
+{% page-ref page="tiny-db.md" %}
+
+{% page-ref page="tiny-web-db.md" %}
 

@@ -1,12 +1,22 @@
+---
+description: >-
+  Social Components allows you to share content on the social media, call or
+  message someone.
+---
+
 # Social
 
-Social Components allows you to share content on the social media, call or message someone.
+{% page-ref page="contact-picker.md" %}
 
-* [**Contact Picker**](contact-picker.md)
-* [**Email Picker**](email-picker.md)
-* [**Phone Call**](phone-call.md)
-* [**Phone Number Picker**](phone-number-picker.md)
-* [**Sharing**](sharing.md)
-* [**Texting**](texting.md)
-* [**Twitter**](twitter.md)
+{% page-ref page="email-picker.md" %}
+
+{% page-ref page="phone-call.md" %}
+
+{% page-ref page="phone-number-picker.md" %}
+
+{% page-ref page="sharing.md" %}
+
+{% page-ref page="texting.md" %}
+
+{% page-ref page="twitter.md" %}
 
