@@ -1,6 +1,10 @@
-# Checkbox
+---
+description: >-
+  A checkbox component can detect user taps and can change their boolean state
+  in response.
+---
 
-A checkbox component can detect user taps and can change their boolean state in response.
+# Checkbox
 
 ## Events
 

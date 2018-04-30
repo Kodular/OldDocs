@@ -1,6 +1,8 @@
-# Button
+---
+description: A button is a component which can detect clicks by the user.
+---
 
-A button is a component which can detect clicks by the user.
+# Button
 
 * Border Shadow
 * [Click](button.md#click)

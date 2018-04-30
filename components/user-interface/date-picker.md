@@ -1,6 +1,10 @@
-# Date Picker
+---
+description: >-
+  A button that, when clicked on, launches a popup dialog to allow the user to
+  select a date.
+---
 
-A button that, when clicked on, launches a popup dialog to allow the user to select a date.
+# Date Picker
 
 ## Properties
 
