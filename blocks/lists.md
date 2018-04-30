@@ -146,7 +146,7 @@ In the returned text, items in rows are separated by commas and rows are separat
 
 ## list from csv table {#listfromcsvtable}
 
-![](../.gitbook/assets/listtocsvtable%20%281%29.png)
+![](../.gitbook/assets/listtocsvtable-1.png)
 
 Parses a text as a CSV \(comma-separated value\) formatted table to produce a list of rows, each of which is a list of fields.  
 Rows can be separated by newlines \(\n\) or CRLF \(\r\n\).

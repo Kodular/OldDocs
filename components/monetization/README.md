@@ -1,10 +1,20 @@
+---
+description: >-
+  The components in the Monetization section allow users to earn money from
+  their apps they create using Makeroid.
+---
+
 # Monetization
 
-The components in the Monetization section allow users to earn money from their apps they create using Makeroid.
+{% page-ref page="admob-interstitial.md" %}
 
-* [**AdMob Interstitial**](admob-interstitial.md)
-* [**AdMob Banner**](admob-banner.md)
-* [**AdMob Rewarded Video**](admob-rewarded-video.md)
-* [**Billing**](billing.md)
-* [**Leadbolt**](leadbolt.md)
+{% page-ref page="admob-banner.md" %}
+
+{% page-ref page="admob-rewarded-video.md" %}
+
+{% page-ref page="billing.md" %}
+
+{% page-ref page="leadbolt.md" %}
+
+
 

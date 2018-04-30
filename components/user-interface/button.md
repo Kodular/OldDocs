@@ -1,6 +1,8 @@
-# Button
+---
+description: A button is a component which can detect clicks by the user.
+---
 
-A button is a component which can detect clicks by the user.
+# Button
 
 * Border Shadow
 * [Click](button.md#click)
@@ -87,7 +89,7 @@ Sets the button's background color.
 
 #### Enabled
 
-![](../../.gitbook/assets/enabled%20%282%29.png)
+![](../../.gitbook/assets/enabled-2.png)
 
 The button can listen to touches only if _Enabled_ is set to true.
 
@@ -117,13 +119,13 @@ The font family for the button text.
 
 #### Height
 
-![](../../.gitbook/assets/height%20%282%29.png)
+![](../../.gitbook/assets/height-2.png)
 
 The height of the button.
 
 #### Image
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image-1.png)
 
 The image that is displayed on the button.
 
@@ -147,13 +149,13 @@ The color of the text that is showed on the button.
 
 #### Visible
 
-![](../../.gitbook/assets/visible%20%282%29.png)
+![](../../.gitbook/assets/visible-2.png)
 
 Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
 #### Width
 
-![](../../.gitbook/assets/width%20%282%29.png)
+![](../../.gitbook/assets/width-2.png)
 
 The width of the button.
 

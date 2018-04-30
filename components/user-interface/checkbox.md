@@ -1,6 +1,10 @@
-# Checkbox
+---
+description: >-
+  A checkbox component can detect user taps and can change their boolean state
+  in response.
+---
 
-A checkbox component can detect user taps and can change their boolean state in response.
+# Checkbox
 
 ## Events
 
@@ -12,13 +16,13 @@ User tapped and released check box.
 
 ### GotFocus
 
-![](../../.gitbook/assets/gotfocus%20%281%29.png)
+![](../../.gitbook/assets/gotfocus-1.png)
 
 Check box became the focused component.
 
 ### LostFocus
 
-![](../../.gitbook/assets/lostfocus%20%281%29.png)
+![](../../.gitbook/assets/lostfocus-1.png)
 
 Check box stopped being the focused component.
 
@@ -26,7 +30,7 @@ Check box stopped being the focused component.
 
 ### BackgroundColor
 
-![](../../.gitbook/assets/backgroundcolor%20%281%29.png)
+![](../../.gitbook/assets/backgroundcolor-1.png)
 
 Color for check box background.
 
@@ -44,13 +48,13 @@ Change the checkbox component color
 
 ### Enabled
 
-![](../../.gitbook/assets/enabled%20%281%29.png)
+![](../../.gitbook/assets/enabled-1.png)
 
 If set, user can tap check box to cause action.
 
 ### Height
 
-![](../../.gitbook/assets/height%20%281%29.png)
+![](../../.gitbook/assets/height-1.png)
 
 Check box height \(y-size\).
 
@@ -62,19 +66,19 @@ Check box width \(x-size\).
 
 ### Text
 
-![](../../.gitbook/assets/text%20%282%29.png)
+![](../../.gitbook/assets/text-2.png)
 
 Text to display on check box.
 
 ### TextColor
 
-![](../../.gitbook/assets/textcolor%20%281%29.png)
+![](../../.gitbook/assets/textcolor-1.png)
 
 Color for check box text.
 
 ### Visible
 
-![](../../.gitbook/assets/visible%20%281%29.png)
+![](../../.gitbook/assets/visible-1.png)
 
 If set, check box is visible.
 

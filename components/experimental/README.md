@@ -1,8 +1,14 @@
+---
+description: >-
+  The experimental section has all the components that are not stable at the
+  current time.
+---
+
 # Experimental
 
-The experimental section has all the components that are not stable at the current time.
+{% page-ref page="push-notifications.md" %}
 
-* [**Push Notifications**](push-notifications.md)
-* [**Cloud DB**](cloud-db.md)
-* [**Notification**](notification.md)
+{% page-ref page="cloud-db.md" %}
+
+{% page-ref page="notification.md" %}
 

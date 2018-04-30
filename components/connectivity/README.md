@@ -1,13 +1,24 @@
+---
+description: >-
+  Connectivity components are non-visible components which allow users to use
+  connectivity functions, such as Bluetooth.
+---
+
 # Connectivity
 
-Connectivity components are non-visible components which allow users to use connectivity functions, such as Bluetooth.
+{% page-ref page="activity-starter.md" %}
 
-* [**Activity Starter**](activity-starter.md)
-* [**Bluetooth Admin**](bluetooth-admin.md)
-* [**Bluetooth Client**](bluetooth-client.md)
-* [**Bluetooth Server**](bluetooth-server.md)
-* [**Download**](download.md)
-* [**Network**](network.md)
-* [**Web**](web.md)
-* [**WiFi**](wifi.md)
+{% page-ref page="bluetooth-admin.md" %}
+
+{% page-ref page="bluetooth-client.md" %}
+
+{% page-ref page="bluetooth-server.md" %}
+
+{% page-ref page="download.md" %}
+
+{% page-ref page="network.md" %}
+
+{% page-ref page="web.md" %}
+
+{% page-ref page="wifi.md" %}
 

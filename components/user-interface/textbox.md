@@ -1,6 +1,8 @@
-# TextBox
+---
+description: Users enter text in a text box component.
+---
 
-Users enter text in a text box component.
+# TextBox
 
 The initial or user-entered text value in a text box component is in the Text property. If Text is blank, you can use the Hint property to provide the user with a suggestion of what to type. The Hint appears as faint text in the box.
 

@@ -1,6 +1,12 @@
+---
+description: >-
+  A button that, when clicked on, displays a list of texts for the user to
+  choose among.
+---
+
 # List Picker
 
-A button that, when clicked on, displays a list of texts for the user to choose among. The texts can be specified through the Designer or Blocks Editor by setting the ElementsFromString property to their string-separated concatenation \(for example, choice 1, choice 2, choice 3\) or by setting the Elements property to a List in the Blocks editor.
+The texts can be specified through the Designer or Blocks Editor by setting the ElementsFromString property to their string-separated concatenation \(for example, choice 1, choice 2, choice 3\) or by setting the Elements property to a List in the Blocks editor.
 
 Setting property ShowFilterBar to true, will make the list searchable. Other properties affect the appearance of the button \(TextAlignment, BackgroundColor, etc.\) and whether it can be clicked on \(Enabled\).
 

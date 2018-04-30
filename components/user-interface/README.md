@@ -1,23 +1,45 @@
+---
+description: >-
+  The components in the User Interface section are used to interact with the app
+  user. Commonly used components are buttons and text boxes. Click on a
+  component below to know more about it.
+---
+
 # User Interface
 
-The components in the User Interface section are used to interact with the app user. Commonly used components are buttons and text boxes. Click on a component below to know more about it.
+{% page-ref page="button.md" %}
 
-* [**Button**](button.md)
-* [**Checkbox**](checkbox.md)
-* [**Date Picker**](date-picker.md)
-* [**Floating Button**](floating-button.md)
-* [**Image**](image.md)
-* [**Label**](label.md)
-* [**List Picker**](list-picker.md)
-* [**List View**](list-view.md)
-* [**Notifier**](notifier.md)
-* [**Radio Button**](radio-button.md)
-* [**Rating Bar**](rating-bar.md)
-* [**Slider**](slider.md)
-* [**Surface View**](surface-view.md)
-* [**Spinner**](spinner.md)
-* [**Switch**](switch.md)
-* [**Textbox**](textbox.md)
-* [**Time Picker**](time-picker.md)
-* [**Web Viewer**](web-viewer.md)
+{% page-ref page="checkbox.md" %}
+
+{% page-ref page="date-picker.md" %}
+
+{% page-ref page="floating-button.md" %}
+
+{% page-ref page="image.md" %}
+
+{% page-ref page="label.md" %}
+
+{% page-ref page="list-picker.md" %}
+
+{% page-ref page="list-view.md" %}
+
+{% page-ref page="notifier.md" %}
+
+{% page-ref page="radio-button.md" %}
+
+{% page-ref page="rating-bar.md" %}
+
+{% page-ref page="slider.md" %}
+
+{% page-ref page="surface-view.md" %}
+
+{% page-ref page="spinner.md" %}
+
+{% page-ref page="switch.md" %}
+
+{% page-ref page="textbox.md" %}
+
+{% page-ref page="time-picker.md" %}
+
+{% page-ref page="web-viewer.md" %}
 

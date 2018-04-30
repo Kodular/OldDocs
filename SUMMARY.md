@@ -6,18 +6,18 @@
     * [Button](components/user-interface/button.md)
     * [Checkbox](components/user-interface/checkbox.md)
     * [Date Picker](components/user-interface/date-picker.md)
-    * [Floating Button](components/user-interface/floating-button.md)
+    * Floating Button
     * [Image](components/user-interface/image.md)
     * [Label](components/user-interface/label.md)
     * [List Picker](components/user-interface/list-picker.md)
     * [List View](components/user-interface/list-view.md)
     * [Notifier](components/user-interface/notifier.md)
-    * [Radio Button](components/user-interface/radio-button.md)
-    * [Rating Bar](components/user-interface/rating-bar.md)
+    * Radio Button
+    * Rating Bar
     * [Slider](components/user-interface/slider.md)
-    * [Surface View](components/user-interface/surface-view.md)
+    * Surface View
     * [Spinner](components/user-interface/spinner.md)
-    * [Switch](components/user-interface/switch.md)
+    * Switch
     * [TextBox](components/user-interface/textbox.md)
     * [Time Picker](components/user-interface/time-picker.md)
     * [Web Viewer](components/user-interface/web-viewer.md)

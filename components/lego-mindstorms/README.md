@@ -1,6 +1,10 @@
-# LEGO Mindstorms
+---
+description: >-
+  These components provide control of LEGO® MINDSTORMS® NXT robots using
+  Bluetooth.
+---
 
-These components provide control of LEGO® MINDSTORMS® NXT robots using Bluetooth.
+# LEGO Mindstorms
 
 LEGO and MINDSTORMS are registered trademarks of the LEGO Group.
 
@@ -18,19 +22,31 @@ A box appears with a list of all the BluetoothClient components in your project.
 Click on BluetoothClient1 and click OK .  
 If desired, add another component, for example NxtColorSensor , and repeat steps 6-8 to set its BluetoothClient property.
 
-* [**NXT Drive**](nxt-drive.md)
-* [**NXT Color Sensor**](nxt-color-sensor.md)
-* [**NXT Light Sensor**](nxt-light-sensor.md)
-* [**NXT Sound Sensor**](nxt-sound-sensor.md)
-* [**NXT Touch Sensor**](nxt-touch-sensor.md)
-* [**NXT Ultrasonic Sensor**](nxt-ultrasonic-sensor.md)
-* [**NXT Direct Commands**](nxt-direct-commands.md)
-* [**EV3 Motors**](ev3-motors.md)
-* [**EV3 Color Sensor**](ev3-color-sensor.md)
-* [**EV3 Gyro Sensor**](ev3-gyro-sensor.md)
-* [**EV3 Touch Sensor**](ev3-touch-sensor.md)
-* [**EV3 Ultrasonic Sensor**](ev3-ultrasonic-sensor.md)
-* [**EV3 Sound**](ev3-sound.md)
-* [**EV3 UI**](ev3-ui.md)
-* [**EV3 Commands**](ev3-commands.md)
+{% page-ref page="nxt-drive.md" %}
+
+{% page-ref page="nxt-color-sensor.md" %}
+
+{% page-ref page="nxt-light-sensor.md" %}
+
+{% page-ref page="nxt-sound-sensor.md" %}
+
+{% page-ref page="nxt-touch-sensor.md" %}
+
+{% page-ref page="nxt-ultrasonic-sensor.md" %}
+
+{% page-ref page="nxt-direct-commands.md" %}
+
+{% page-ref page="ev3-motors.md" %}
+
+{% page-ref page="ev3-color-sensor.md" %}
+
+{% page-ref page="ev3-gyro-sensor.md" %}
+
+{% page-ref page="ev3-touch-sensor.md" %}
+
+{% page-ref page="ev3-sound.md" %}
+
+{% page-ref page="ev3-ui.md" %}
+
+{% page-ref page="ev3-commands.md" %}
 

@@ -1,6 +1,10 @@
-# Notifier
+---
+description: >-
+  The Notifier component displays alert dialogs, messages, and temporary alerts,
+  and creates Android log entries.
+---
 
-The Notifier component displays alert dialogs, messages, and temporary alerts, and creates Android log entries.
+# Notifier
 
 ## Methods
 

@@ -1,6 +1,11 @@
-# Image
+---
+description: >-
+  Component for displaying images. The picture to display, and other aspects of
+  the Image's appearance, can be specified in the Designer or in the Blocks
+  Editor.
+---
 
-Component for displaying images. The picture to display, and other aspects of the Image's appearance, can be specified in the Designer or in the Blocks Editor.
+# Image
 
 ## Properties
 

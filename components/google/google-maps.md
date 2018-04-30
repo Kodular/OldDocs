@@ -247,7 +247,7 @@ Enables the map long click listener.
 
 #### Height
 
-![](../../.gitbook/assets/height%20%283%29.png)
+![](../../.gitbook/assets/height-3.png)
 
 Sets the height of the map.
 
@@ -259,13 +259,13 @@ Sets the height of the map in percent.
 
 #### Visible
 
-![](../../.gitbook/assets/visible%20%283%29.png)
+![](../../.gitbook/assets/visible-3.png)
 
 Sets the visibility of the map. Visible, or not.
 
 #### Width
 
-![](../../.gitbook/assets/width%20%283%29.png)
+![](../../.gitbook/assets/width-3.png)
 
 Sets the width of the map.
 
