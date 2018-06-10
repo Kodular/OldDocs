@@ -1,13 +1,5 @@
 # Logic
 
-* [true](logic.md#true)
-* [false](logic.md#false)
-* [not](logic.md#not)
-* [=](logic.md#=)
-* [≠](logic.md#not=)
-* [and](logic.md#and)
-* [or](logic.md#or)
-
 ## true
 
 ![](../.gitbook/assets/true.png)

@@ -1,27 +1,6 @@
 # Lists
 
-* [create empty list](lists.md#emptylist)
-* [make a list](lists.md#makealist)
-* [add items to list](lists.md#additems)
-* [is in list?](lists.md#inlist)
-* [length of list](lists.md#lengthoflist)
-* [is list empty](lists.md#islistempty)
-* [pick a random item](lists.md#pickrandomitem)
-* [index in list](lists.md#indexinlist)
-* [select list item](lists.md#selectlistitem)
-* [insert list item](lists.md#insert)
-* [replace list item](lists.md#replace)
-* [remove list item](lists.md#removeitem)
-* [append to list](lists.md#append)
-* [copy list](lists.md#copy)
-* [is a list?](lists.md#isalist)
-* [list to csv row](lists.md#listtocsvrow)
-* [list to csv table](lists.md#listtocsvtable)
-* [list from csv row](lists.md#listfromcsvrow)
-* [list from csv table](lists.md#listfromcsvtable)
-* [lookup in pairs](lists.md#lookupinpairs)
-
-> ### _Need additional help understanding lists? Check out_ [_making lists_](http://appinventor.mit.edu/explore/ai2/support/concepts/lists.html).
+> ### Need additional help understanding lists? Check out [making lists](http://appinventor.mit.edu/explore/ai2/support/concepts/lists.html).
 
 ## create empty list {#emptylist}
 

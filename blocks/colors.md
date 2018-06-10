@@ -22,23 +22,11 @@ Each basic color block that you drag from the Colors drawer to the Blocks Editor
 
 ![](../.gitbook/assets/makecolor.png)
 
-`make color`
-
- takes in a list of 3 or 4 numbers. These numbers in this list represent values in an RGB code. RGB codes are used to make colors on the Internet. An RGB color chart is available 
-
-[here](http://www.tayloredmktg.com/rgb/)
-
-. This first number in this list represents the R value of the code. The second represents the G. The third represents the B. The fourth value is optional and represents the alpha value or how saturated the color is. The default alpha value is 100. Experiment with different values and see how the colors change using this block.
+`make color` takes in a list of 3 or 4 numbers. These numbers in this list represent values in an RGB code. RGB codes are used to make colors on the Internet. An RGB color chart is available [here](http://www.tayloredmktg.com/rgb/). This first number in this list represents the R value of the code. The second represents the G. The third represents the B. The fourth value is optional and represents the alpha value or how saturated the color is. The default alpha value is 100. Experiment with different values and see how the colors change using this block.
 
 ## split color {#split}
 
 ![](../.gitbook/assets/splitcolor.png)
 
-`split color`
-
- does the opposite of 
-
-`make color`
-
-. It takes in a color: a color block, variable holding a color, or property from one of the components representing a color and returns a list of the RGB values in that color's RGB code.
+`split color` does the opposite of `make color`. It takes in a color: a color block, variable holding a color, or property from one of the components representing a color and returns a list of the RGB values in that color's RGB code.
 
