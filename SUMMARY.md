@@ -68,7 +68,7 @@
   * [Social](components/social/README.md)
     * [Contact Picker](components/social/contact-picker.md)
     * [Email Picker](components/social/email-picker.md)
-    * Google Account Picker
+    * [Google Account Picker](components/social/google-account-picker.md)
     * [Phone Call](components/social/phone-call.md)
     * [Phone Number Picker](components/social/phone-number-picker.md)
     * [Sharing](components/social/sharing.md)

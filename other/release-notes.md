@@ -277,7 +277,7 @@
   * **Updated Makeroid Starter to work with new Companion**
   * **Fixed error that made the Companion to not start on Android &lt;5.0**
 
-> _**Note:** Remember to update the _[_Starter_](https://github.com/Makeroid/Starter/releases/latest)_ and the _[_Companion_](https://rink.hockeyapp.net/apps/93f5fed412b2457296f351cd0f1d824e/#)_ to latest version_
+> _**Note:** Remember to update the_ [_Starter_](https://github.com/Makeroid/Starter/releases/latest) _and the_ [_Companion_](https://rink.hockeyapp.net/apps/93f5fed412b2457296f351cd0f1d824e/#) _to latest version_
 
 * **Bugs Fixed**
   * **Fixed bug that buttons weren't clickable on some Android devices under 5.0**

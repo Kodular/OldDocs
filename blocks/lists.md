@@ -21,7 +21,7 @@
 * [list from csv table](lists.md#listfromcsvtable)
 * [lookup in pairs](lists.md#lookupinpairs)
 
-> ### _Need additional help understanding lists? Check out _[_making lists_](http://appinventor.mit.edu/explore/ai2/support/concepts/lists.html).
+> ### _Need additional help understanding lists? Check out_ [_making lists_](http://appinventor.mit.edu/explore/ai2/support/concepts/lists.html).
 
 ## create empty list {#emptylist}
 

@@ -1,6 +1,6 @@
 # Math
 
-> **Note**:_ any Math blocks that have unplugged sockets will read the unplugged spot as a 0._
+> **Note**: _any Math blocks that have unplugged sockets will read the unplugged spot as a 0._
 
 * [0 \(basic number block\)](math.md#number)
 * [=](math.md#=)

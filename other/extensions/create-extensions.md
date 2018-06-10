@@ -1,31 +1,39 @@
+---
+description: This tutorial will guide you to create extensions for Makeroid.
+---
+
 # Create Extensions
 
-This tutorial will guide you to create extensions for Makeroid.
-
-> This guide assumes you to be a Windows user.
+{% hint style="info" %}
+This guide assumes you to be a Windows user.
+{% endhint %}
 
 ## Tools you will need:
 
-* [App Inventor Sources ](https://github.com/mit-cml/appinventor-sources)
-* [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [Apache Ant](http://ant.apache.org/bindownload.cgi)
-* [Git](https://git-scm.com/downloads) \(or [GitHub Desktop](https://desktop.github.com/)\)
-* Java IDE/Text Editor \([Eclipse](http://www.eclipse.org/downloads/eclipse-packages/), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org), [Atom](https://atom.io/) are recommended\)
+* [ ] [App Inventor Sources ](https://github.com/mit-cml/appinventor-sources)
+* [ ] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [ ] [Apache Ant](http://ant.apache.org/bindownload.cgi)
+* [ ] [Git](https://git-scm.com/downloads) \(or [GitHub Desktop](https://desktop.github.com/)\)
+* [ ] Java IDE/Text Editor \([VS Code](https://code.visualstudio.com), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org), [Atom](https://atom.io/) are recommended\)
 
-> **Download everything listed above and let's get started!**
+{% hint style="info" %}
+**Download everything listed above and let's get started!**
+{% endhint %}
 
 ## Step 1: Setting up Java JDK
 
 * Install JDK
 
-  > :warning: _Be sure not to install it in a directory whose path contains spaces_
+{% hint style="warning" %}
+_Be sure not to install it in a directory whose path contains spaces_
+{% endhint %}
 
 * Set the Environmental Variables:
-  * Set** **`JAVA_HOME` to where you installed Java JDK.
+  * Set ****`JAVA_HOME` to where you installed Java JDK.
 
     For example: `C:\Program Files\Java\jdk1.8.0_131`
 
-  * Edit** **`PATH` and add those:
+  * Edit ****`PATH` and add those:
 
     `%JAVA_HOME%/bin`, `%JAVA_HOME%/jre/bin`, `C:\ProgramData\Oracle\Java\javapath`
 * **Check Java installation:** Execute `java -version`
@@ -41,18 +49,15 @@ This tutorial will guide you to create extensions for Makeroid.
 
 * Unzip the folder and move it to a place where it is safe. For example: `C:\apache-ant-1.10.1`
 
-  > :warning: _Be sure not to place it in a directory whose path contains spaces_
+{% hint style="warning" %}
+_Be sure not to install it in a directory whose path contains spaces_
+{% endhint %}
 
 * Set the Environmental Variables:
-  * **Set **`ANT_HOME` to where you have the Ant folder placed. For example: `C:/Ant/apache-ant-1.10.1`
-  * **Edit **`Path` and add `<Ant Directory>\bin`
-
-    For example: `C:/Ant/apache-ant-1.10.1\bin`
-
-  * **Edit **`ClassPath` and add `<Ant Directory>\bin`
-
-    For example: `C:/Ant/apache-ant-1.10.1\lib`
-* **Check Ant installation**: Execute `ant -version`
+  * **Set** `ANT_HOME` to where you have the Ant folder placed. For example: `C:\Ant\apache-ant-1.10.1`
+  * **Edit** `Path` and add `%ANT_HOME%\bin`
+  * **Edit** `ClassPath` and add `%ANT_HOME%\bin`
+* **Check Ant installation**:
 
   ```text
     C:\Users\Pavitra>ant -version
@@ -62,7 +67,7 @@ This tutorial will guide you to create extensions for Makeroid.
 ## Step 3: Setting up Git
 
 * Set it up as written in this [tutorial](https://www.atlassian.com/git/tutorials/install-git#windows)
-* **Check Git installation**: Execute `git version`
+* **Check Git installation**:
 
   ```text
     C:\Users\Pavitra>git version
@@ -73,9 +78,13 @@ This tutorial will guide you to create extensions for Makeroid.
 
 * Unzip the folder and move it to a place where it is safe
 
-  > :warning: _Be sure not to place it in a directory whose path contains spaces_
+{% hint style="warning" %}
+_Be sure not to place it in a directory whose path contains spaces_
+{% endhint %}
 
 ## Step 5: Building an Extension
+
+{% embed data="{\"url\":\"https://gist.github.com/pavi2410/c58954d86e8510e7300b1253c5ecca4a\",\"type\":\"rich\",\"title\":\"Create an extension for Makeroid\",\"description\":\"Create an extension for Makeroid · GitHub\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gist.github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/28837746?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"html\":\"<script type=\\\"text/javascript\\\" src=\\\"https://gist.github.com/c58954d86e8510e7300b1253c5ecca4a.js\\\"></script>\",\"aspectRatio\":0}}" %}
 
 * Save the above code to `appinventor-sources/appinventor/components/src/com/makeroid/`as `SimpleMaths.java`
 * Go back to the `appinventor` folder.
@@ -84,8 +93,13 @@ This tutorial will guide you to create extensions for Makeroid.
 
 ### _Wait for the extension to build..._
 
-If it says: `BUILD SUCCESSFUL`, then you just created an extension :tada:  
-But if it says: `BUILD FAILED`, then you did something wrong and have to look over again.
+{% hint style="success" %}
+If it says: **`BUILD SUCCESSFUL`**, then you just created an extension. :-\)
+{% endhint %}
+
+{% hint style="danger" %}
+But if it says: `BUILD FAILED`, then you did something wrong and have to look over again. :-\(
+{% endhint %}
 
 ## Step 6: Sharing Extensions
 

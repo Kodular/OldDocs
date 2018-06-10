@@ -100,7 +100,7 @@ Splitting _i love apples bananas apples grapes by the list \[ba_,_ap_\] would re
 
 ![](../.gitbook/assets/split.png)
 
-Divides text into pieces using at as the dividing points and produces a list of the results. Splitting _one,two,three,four at _,_\(comma\) returns the list one two three four_. Splitting _one-potato,two-potato,three-potato,four at_-potato_, returns the list one two three four_.
+Divides text into pieces using at as the dividing points and produces a list of the results. Splitting _one,two,three,four at_ ,_\(comma\) returns the list one two three four_. Splitting _one-potato,two-potato,three-potato,four at_-potato_, returns the list one two three four_.
 
 ## split at any {#splitatany}
 
