@@ -1,22 +1,6 @@
 # Control
 
-* [if & if else](control.md#if)
-* [for each from to](control.md#forrange)
-* [for each in list](control.md#foreach)
-* [while](control.md#while)
-* [if then else](control.md#choose)
-* [do](control.md#doreturn)
-* [evaluate but ignore result](control.md#evaluate)
-* [open another screen](control.md#openscreen)
-* [open another screen with start value](control.md#openscreenwithvalue)
-* [get start value](control.md#getstartvalue)
-* [close screen](control.md#closescreen)
-* [close screen with value](control.md#closescreenwithvalue)
-* [close application](control.md#closeapp)
-* [get plain start text](control.md#getplainstarttext)
-* [close screen with plain text](control.md#closescreenwithplaintext)
-
-## if & if else {#if}
+## if & if else
 
 ![](../.gitbook/assets/if.png)
 
@@ -34,29 +18,29 @@ The gif below shows how to use the if else mutator block.
 
 ![](../.gitbook/assets/if.gif)
 
-## for each from to {#forrange}
+## for each from to
 
 ![](../.gitbook/assets/forrange.png)
 
-Runs the blocks in the do section for each numeric value in the range starting at_from\_and ending at\_to_, incrementing\_number\_by the value of\_by\_each time. Use the given variable name,\_number\_to refer to the current value. You can change the name\_number\_to something else if you wish.
+Runs the blocks in the do section for each numeric value in the range starting at _from_ and __ending at _to_, incrementing _number_ by the value of _by_ each time. Use the given variable name, _number_ to refer to the current value. You can change the name _number_ to something else if you wish.
 
 ## for each in list {#foreach}
 
 ![](../.gitbook/assets/foreach.png)
 
-Runs the blocks in the do section for each item in the list. Use the given variable name,_item_, to refer to the current list item. You can change the name\_item\_to something else if you wish.
+Runs the blocks in the do section for each item in the list. Use the given variable name, _item_, to refer to the current list item. You can change the name _item_ to something else if you wish.
 
 ## while {#while}
 
 ![](../.gitbook/assets/while.png)
 
-Tests the -test condition. If true, performs the action given in -do , then tests again. When test is false, the block ends and the action given in -do is no longer performed.
+Tests the _test_ condition. If true, performs the action given in _do_, then tests again. When test is false, the block ends and the action given in _do_ is no longer performed.
 
 ## if then else {#choose}
 
 ![](../.gitbook/assets/choose.png)
 
-Tests a given condition. If the statement is true, performs the actions in the then-return sequence of blocks and returns the then-return value; otherwise, performs the actions in the else-return sequence of blocks and returns the else-return value.
+Tests a given condition. If the statement is true, performs the actions in the then _return_ sequence of blocks and returns the then _return_ value; otherwise, performs the actions in the else-return sequence of blocks and returns the else-return value.
 
 ## do {#doreturn}
 
@@ -88,7 +72,7 @@ Opens another screen and passes a value to it.
 
 Returns the start value given to the current screen.
 
-This value is given from usingopen another screen with start valueorclose screen with value.
+This value is given from using open another screen with start value or close screen with value.
 
 ## close screen {#closescreen}
 
@@ -112,7 +96,7 @@ Closes the application.
 
 ![](../.gitbook/assets/getplainstarttext.png)
 
-Returns the plain text that was passed to this screen when it was started by another app. If no value was passed, it returns the empty text. For multiple screen apps, use get start value rather than get plain start text
+Returns the plain text that was passed to this screen when it was started by another app. If no value was passed, it returns the empty text. For multiple screen apps, use get start value rather than get plain start text.
 
 ## close screen with plain text {#closescreenwithplaintext}
 
