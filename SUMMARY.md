@@ -149,9 +149,9 @@
 
 ## Other
   
-* [Release Notes](other/release-notes.md)
-  * [Release Notes](other/old-release-notes.md)
-  * [Old Release Notes](other/release-notes.md)
+* [Release Notes](other/release-notes/README.md)
+  * [Release Notes](other/release-notes/builder.md)
+  * [Old Release Notes](other/release-notes/beta.md)
 * [Backpack](other/backpack.md)
 * [Terms of Service](other/terms-of-service.md)
 
