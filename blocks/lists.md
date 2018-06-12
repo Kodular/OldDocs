@@ -20,17 +20,15 @@ This block is a [mutator](http://appinventor.mit.edu/explore/ai2/support/concept
 ![](../.gitbook/assets/additems.png)
 
 Adds the given items to the end of the list.  
-The difference between this and `append to list` is that `append to list` takes the items to be appended as a single list  
-while `add items to list` takes the items as individual arguments. This block is a [mutator](http://appinventor.mit.edu/explore/ai2/support/concepts/mutators.html).
+The difference between this and `append to list` is that `append to list` takes the items to be appended as a single list while `add items to list` takes the items as individual arguments. This block is a [mutator](http://appinventor.mit.edu/explore/ai2/support/concepts/mutators.html).
 
 ## is in list? {#inlist}
 
 ![](../.gitbook/assets/inlist.png)
 
-If thing is one of the elements of the list, returns true; otherwise, returns false. Note that if a list contains sublists,  
-the members of the sublists are not themselves members of the list.
+If thing is one of the elements of the list, returns true; otherwise, returns false. Note that if a list contains sublists, the members of the sublists are not themselves members of the list.
 
-For example, the members of the list \(1 2 \(3 4\)\) are 1, 2, and the list \(3 4\); 3 and 4 are not themselves members of the list.
+For example, the members of the list `(1 2 (3 4))` are 1, 2, and the list \(3 4\); 3 and 4 are not themselves members of the list.
 
 ## length of list {#lengthoflist}
 
@@ -72,7 +70,7 @@ Inserts an item into the list at the given position
 
 ![](../.gitbook/assets/replace.png)
 
-Inserts\_replacement\_into the given list at position index. The previous item at that position is removed.
+Inserts _replacement_ into the given list at position index. The previous item at that position is removed.
 
 ## remove list item {#removeitem}
 
@@ -96,7 +94,7 @@ Makes a copy of a list, including copying all sublists.
 
 ![](../.gitbook/assets/isalist.png)
 
-If\_thing\_is a list, returns true; otherwise, returns false.
+If _thing_ is a list, returns true; otherwise, returns false.
 
 ## list to csv row {#listtocsvrow}
 
@@ -104,7 +102,7 @@ If\_thing\_is a list, returns true; otherwise, returns false.
 
 Interprets the list as a row of a table and returns a CSV \(comma-separated value\) text representing the row.  
 Each item in the row list is considered to be a field, and is quoted with double-quotes in the resulting CSV text. Items are separated by commas.  
-For example, converting the list \(a b c d\) to a CSV row produces \("a", "b", "c", "d"\).  
+For example, converting the list `(a b c d)` to a CSV row produces `("a", "b", "c", "d")`.  
 The returned row text does not have a line separator at the end.
 
 ## list from csv row {#listfromcsvrow}
@@ -112,7 +110,7 @@ The returned row text does not have a line separator at the end.
 ![](../.gitbook/assets/listfromcsvrow.png)
 
 Parses a text as a CSV \(comma-separated value\) formatted row to produce a list of fields.  
-For example, converting \("a", "b", "c", "d"\) to a list produces \(a b c d\).
+For example, converting `("a", "b", "c", "d")` to a list produces `(a b c d)`.
 
 ## list to csv table {#listtocsvtable}
 
@@ -137,10 +135,8 @@ Rows can be separated by newlines \(\n\) or CRLF \(\r\n\).
 Used for looking up information in a dictionary-like structure represented as a list.  
 This operation takes three inputs, a _key_, a list _pairs_, and a _notFound_ result, which by default, is set to "not found".  
 Here pairs must be a list of pairs, that is, a list where each element is itself a list of two elements.  
-Lookup in pairs finds the first pair in the list whose first element is the key, and returns the second  
-element.
+Lookup in pairs finds the first pair in the list whose first element is the key, and returns the second element.
 
-For example, if the list is \(\(a apple\) \(d dragon\) \(b boxcar\) \(cat 100\)\) then looking up 'b' will return 'boxcar'.  
-If there is no such pair in the list, then the\_lookup in pairs\_will return the notFound result. If pairs is not a list of  
-pairs, then the operation will signal an error.
+For example, if the list is `((a apple) (d dragon) (b boxcar) (cat 100))` then looking up 'b' will return 'boxcar'.  
+If there is no such pair in the list, then the _lookup in pairs_ will return the _notFound_ result. If pairs is not a list of pairs, then the operation will signal an error.
 

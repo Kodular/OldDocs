@@ -12,7 +12,7 @@ There are five main types of variable blocks:
 
 ![](../.gitbook/assets/initializeglobal.png)
 
-This block is used to create global variables. It takes in any type of value as an argument. Clicking on\_name\_will change the name of this global variable. Global variables are used in all procedures or events so this block will stand alone.
+This block is used to create global variables. It takes in any type of value as an argument. Clicking on _name_ will change the name of this global variable. Global variables are used in all procedures or events so this block will stand alone.
 
 Global variables can be changed while an app is running and can be referred to and changed from any part of the app even within procedures and event handlers. You can rename this block at any time and any associated blocks referring to the old name will be updated automatically.
 
