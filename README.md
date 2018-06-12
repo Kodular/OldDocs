@@ -38,15 +38,21 @@ For further help, please visit the [Makeroid Community](https://community.makero
 
 #### Testing
 
-* [Live Development](https://github.com/makeroid/docs/tree/6b89ce9eb8c93762fd238491325318be0e89c35f/live-development.md)
+* [Live Development](testing/live-development.md)
+
+## Extensions
+
+* [List of Extensions](other/extensions/README.md)
+* [Creating Extensions](other/extensions/create-extensions.md)
 
 #### Other
-
-* [Extensions](other/extensions/)
-  * [Create Extensions](other/extensions/create-extensions.md)
-* [Release Notes](other/release-notes.md)
+  
+* [Release Notes](other/release-notes/README.md)
+  * [Release Notes](other/release-notes/builder.md)
+  * [Old Release Notes](other/release-notes/beta.md)
 * [Backpack](other/backpack.md)
 * [Donate](https://paypal.me/Makeroid)
+* [Terms of Service](other/terms-of-service.md)
 
 ## Makeroid
 
