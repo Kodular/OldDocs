@@ -1,6 +1,12 @@
+---
+description: >-
+  A button that, when clicked on, displays a list of texts for the user to
+  choose among.
+---
+
 # List Picker
 
-A button that, when clicked on, displays a list of texts for the user to choose among. The texts can be specified through the Designer or Blocks Editor by setting the ElementsFromString property to their string-separated concatenation \(for example, choice 1, choice 2, choice 3\) or by setting the Elements property to a List in the Blocks editor.
+The texts can be specified through the Designer or Blocks Editor by setting the ElementsFromString property to their string-separated concatenation \(for example, choice 1, choice 2, choice 3\) or by setting the Elements property to a List in the Blocks editor.
 
 Setting property ShowFilterBar to true, will make the list searchable. Other properties affect the appearance of the button \(TextAlignment, BackgroundColor, etc.\) and whether it can be clicked on \(Enabled\).
 
@@ -100,25 +106,25 @@ The background color of the ListPicker items.
 
 ## Events
 
-### AfterPicking\(\)
+### AfterPicking
 
 Event to be raised after the picker activity returns its result and the properties have been filled in.
 
-### BeforePicking\(\)
+### BeforePicking
 
 Event to raise when the button of the component is clicked or the list is shown using the Open block. This event occurs before the list of items is displayed, and can be used to prepare the list before it is shown.
 
-### GotFocus\(\)
+### GotFocus
 
 Indicates the cursor moved over the button so it is now possible to click it.
 
-### LostFocus\(\)
+### LostFocus
 
 Indicates the cursor moved away from the button so it is now no longer possible to click it.
 
 ## Methods
 
-### Open\(\)
+### Open
 
 Opens the picker, as though the user clicked on it.
 

@@ -1,6 +1,10 @@
+---
+description: A spinner component that displays a pop-up with a list of elements.
+---
+
 # Spinner
 
-A spinner component that displays a pop-up with a list of elements. These elements can be set in the Designer or Blocks Editor by setting theElementsFromString property to a string-separated concatenation \(for example, choice 1, choice 2, choice 3\) or by setting the Elements property to a List in the Blocks editor. Spinners are created with the first item already selected. So selecting it does not generate an After Picking event. Consequently it's useful to make the first Spinner item be a non-choice like "Select from below...".
+These elements can be set in the Designer or Blocks Editor by setting the ElementsFromString property to a string-separated concatenation \(for example, choice 1, choice 2, choice 3\) or by setting the Elements property to a List in the Blocks editor. Spinners are created with the first item already selected. So selecting it does not generate an After Picking event. Consequently it's useful to make the first Spinner item be a non-choice like "Select from below...".
 
 ## Properties
 

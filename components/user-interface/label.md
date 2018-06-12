@@ -1,6 +1,10 @@
+---
+description: Labels are components used to show text.
+---
+
 # Label
 
-Labels are components used to show text. A label displays text which is specified by the Text property. Other properties, all of which can be set in the Designer or Blocks Editor, control the appearance and placement of the text.
+A label displays text which is specified by the Text property. Other properties, all of which can be set in the Designer or Blocks Editor, control the appearance and placement of the text.
 
 ## Properties
 
