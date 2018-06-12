@@ -2,6 +2,11 @@
 
 A procedure is a sequence of blocks or code that is stored under a name, the name of your procedure block. Instead of having to keep putting together the same long sequence of blocks, you can create a procedure and just call the procedure block whenever you want your sequence of blocks to run. In computer science, a procedure also might be called a function or a method.
 
+### Blocks:
+
+* [procedure do](procedures.md#do)
+* [procedure result](procedures.md#return)
+
 ## procedure do {#do}
 
 ![](../.gitbook/assets/do.png)

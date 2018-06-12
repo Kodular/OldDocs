@@ -1,10 +1,6 @@
----
-description: >-
-  A checkbox component can detect user taps and can change their boolean state
-  in response.
----
-
 # Checkbox
+
+A checkbox component can detect user taps and can change their boolean state in response.
 
 ## Events
 
@@ -40,7 +36,7 @@ Color for check box background.
 
 True if the box is checked, false otherwise.
 
-### **Checkbox Color**
+**Checkbox Color**
 
 ![](../../.gitbook/assets/checkboxcolor.png)
 

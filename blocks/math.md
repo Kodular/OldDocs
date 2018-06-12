@@ -1,24 +1,75 @@
 # Math
 
-{% hint style="info" %}
-Any Math blocks that have unplugged sockets will read the unplugged spot as a 0 \(zero\).
-{% endhint %}
+> **Note**: _any Math blocks that have unplugged sockets will read the unplugged spot as a 0._
 
-## Can't find the math block you're looking for in the built-in blocks?
+* [0 \(basic number block\)](math.md#number)
+* [=](math.md#=)
+* [≠](math.md#≠)
+* [&gt;](math.md#gt)
+* [≥](math.md#gte)
+* [&lt;](math.md#lt)
+* [≤](math.md#lte)
+* [+](math.md#add)
+* [-](math.md#subtract)
+* [x](math.md#multiply)
+* [/](math.md#divide)
+* \(\#exponent\)
+* [random integer](math.md#randomint)
+* [random fraction](math.md#randomfrac)
+* [random set seed to](math.md#randomseed)
+* [min](math.md#min)
+* [max](math.md#max)
+* [square root](math.md#sqrt)
+* [absolute](math.md#abs)
+* [neg](math.md#neg)
+* [log](math.md#log)
+* [e^](math.md#e)
+* [round](math.md#round)
+* [ceiling](math.md#ceiling)
+* [floor](math.md#floor)
+* [modulo](math.md#modulo)
+* [remainder](math.md#remainder)
+* [quotient](math.md#quotient)
+* [sin](math.md#sin)
+* [cos](math.md#cos)
+* [tan](math.md#tan)
+* [asin](math.md#asin)
+* [acos](math.md#acos)
+* [atan](math.md#atan)
+* [atan2](math.md#atan2)
+* [convert radians to degrees](math.md#convertrad)
+* [convert degrees to radians](math.md#convertdeg)
+* [format as a decimal](https://github.com/makeroid/docs/tree/6b89ce9eb8c93762fd238491325318be0e89c35f/format%20as%20a%20decimal/README.md)
+* [is a number](math.md#isnumber)
+* [convert number](math.md#convertnumber)
 
-Some math blocks are dropdowns which means that they can be converted into different blocks. Here's a list of what is included in each dropdown:
-
-> ![=, &#x2260;, &amp;gt;, &#x2265;, &amp;lt;, &#x2264;](../.gitbook/assets/equals.gif)
-
-> ![min, max](../.gitbook/assets/minmax.gif)
-
-> ![square root, absolute, neg, log, e^, round, ceiling, floor](../.gitbook/assets/sqrt.gif)
-
-> ![modulo of, remainder of, quotient of](../.gitbook/assets/modulo.gif)
-
-> ![sin, cos, tan, asin, acos, atan](../.gitbook/assets/sin.gif)
-
-> ![convert radians to degrees, convert degrees to radians](../.gitbook/assets/convert.gif)
+> ### _Can't find the math block you're looking for in the built-in blocks?_
+>
+> Some math blocks are dropdowns which means that they can be converted into different blocks. Here's a list of what is included in each dropdown:
+>
+> * **=, ≠, &gt;, ≥, &lt;, ≤**
+>
+> ![](../.gitbook/assets/equals.gif)
+>
+> * **min, max**
+>
+> ![](../.gitbook/assets/minmax.gif)
+>
+> * **square root, absolute, neg, log, e^, round, ceiling, floor**
+>
+> ![](../.gitbook/assets/sqrt.gif)
+>
+> * **modulo of, remainder of, quotient of**
+>
+> ![](../.gitbook/assets/modulo.gif)
+>
+> * **sin, cos, tan, asin, acos, atan**
+>
+> ![](../.gitbook/assets/sin.gif)
+>
+> * **convert radians to degrees, convert degrees to radians**
+>
+> ![](../.gitbook/assets/convert.gif)
 
 ## Basic Number Block {#number}
 

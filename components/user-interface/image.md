@@ -1,10 +1,6 @@
----
-description: Component for displaying images.
----
-
 # Image
 
-The picture to display, and other aspects of the Image's appearance, can be specified in the Designer or in the Blocks Editor.
+Component for displaying images. The picture to display, and other aspects of the Image's appearance, can be specified in the Designer or in the Blocks Editor.
 
 ## Properties
 
@@ -21,4 +17,12 @@ This is a limited form of animation that can attach a small number of motion typ
 Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
 ### Width
+
+## Events
+
+none
+
+## Methods
+
+none
 

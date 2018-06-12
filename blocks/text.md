@@ -1,5 +1,23 @@
 # Text
 
+* [string](text.md#string)
+* [join](text.md#join)
+* [length](text.md#length)
+* [is empty?](text.md#isempty)
+* [compare texts](text.md#compare)
+* [trim](text.md#trim)
+* [upcase](text.md#upcase)
+* [downcase](text.md#downcase)
+* [starts at](text.md#startsat)
+* [contains](text.md#contains)
+* [split at first](text.md#splitatfirst)
+* [split at first of any](text.md#splitatfirstofany)
+* [split](text.md#split)
+* [split at any](text.md#splitatany)
+* [split at spaces](text.md#splitatspaces)
+* [segment](text.md#segment)
+* [replace all](text.md#replaceall)
+
 ## " " {#string}
 
 ![](../.gitbook/assets/string.png)
