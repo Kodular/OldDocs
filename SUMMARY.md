@@ -142,12 +142,16 @@
 
 * [Live Development](testing/live-development.md)
 
-## Other
+## Extensions
 
-* [Extensions](other/extensions/README.md)
-  * [Create Extensions](other/extensions/create-extensions.md)
+* [List of Extensions](other/extensions/README.md)
+* [Creating Extensions](other/extensions/create-extensions.md)
+
+## Other
+  
 * [Release Notes](other/release-notes.md)
+  * [Release Notes](other/old-release-notes.md)
+  * [Old Release Notes](other/release-notes.md)
 * [Backpack](other/backpack.md)
-* [Donate](https://paypal.me/Makeroid)
 * [Terms of Service](other/terms-of-service.md)
 
