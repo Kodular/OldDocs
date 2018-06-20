@@ -4,13 +4,13 @@ Component for viewing Web pages. The Home URL can be specified in the Designer o
 
 You can use the WebViewer.WebViewString property to communicate between your app and Javascript code running in the Webviewer page. In the app, you get and set WebViewString. In the WebViewer, you include Javascript that references the window.AppInventor object, using the methoods and setWebViewString\(text\).
 
-For example, if the WebViewer opens to a page that contains the Javascript command   
-document.write\("The answer is" + window.AppInventor.getWebViewString\(\)\);   
-and if you set WebView.WebVewString to "hello", then the web page will show   
-The answer is hello.   
-And if the Web page contains Javascript that executes the command   
-windowAppInventor.setWebViewString\("hello from Javascript"\),   
-then the value of the WebViewString property will be   
+For example, if the WebViewer opens to a page that contains the Javascript command  
+document.write\("The answer is" + window.AppInventor.getWebViewString\(\)\);  
+and if you set WebView.WebVewString to "hello", then the web page will show  
+The answer is hello.  
+And if the Web page contains Javascript that executes the command  
+windowAppInventor.setWebViewString\("hello from Javascript"\),  
+then the value of the WebViewString property will be  
 hello from Javascript.
 
 ## Properties

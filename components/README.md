@@ -17,5 +17,5 @@ Components are the essence of your app. Every component has a set of _properties
 * [**Monetization**](monetization/)
 * [**Device**](device/)
 * [**Experimental**](experimental/)
-* [**Extensions**](../other/extensions/)
+* [**Extensions**](../extensions/list-of-extensions.md)
 

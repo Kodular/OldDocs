@@ -33,7 +33,7 @@ Performs logical negation, returning false if the input is true, and true if the
 Tests whether its arguments are equal.
 
 * Two numbers are equal if they are numerically equal, for example, 1 is equal to 1.0.
-* Two text blocks are equal if they have the same characters in the same order, with the same case. For example, "`banana`" ****is not equal to "`Banana`".
+* Two text blocks are equal if they have the same characters in the same order, with the same case. For example, "`banana`" _\*\*_is not equal to "`Banana`".
 * Numbers and text are equal if the number is numerically equal to a number that would be printed with that text. For example, 12.0 is equal to the result of joining the first character of "`1A`" to the last character of "`Teafor2`".
 * Two lists are equal if they have the same number of elements and the corresponding elements are equal.
 

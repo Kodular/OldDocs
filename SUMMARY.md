@@ -144,14 +144,14 @@
 
 ## Extensions
 
-* [List of Extensions](other/extensions/README.md)
-* [Creating Extensions](other/extensions/create-extensions.md)
+* [List of Extensions](extensions/list-of-extensions.md)
+* [Creating Extensions](extensions/creating-extensions.md)
 
 ## Other
-  
+
 * [Release Notes](other/release-notes/README.md)
-  * [Release Notes](other/release-notes/builder.md)
-  * [Old Release Notes](other/release-notes/beta.md)
+  * [Builder Release Notes](other/release-notes/release-notes.md)
+  * [Old Release Notes](other/release-notes/old-release-notes.md)
 * [Backpack](other/backpack.md)
 * [Terms of Service](other/terms-of-service.md)
 

@@ -1,7 +1,3 @@
----
-description: A button is a component which can detect clicks by the user.
----
-
 # Button
 
 ## Events

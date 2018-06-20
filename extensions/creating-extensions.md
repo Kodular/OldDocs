@@ -1,8 +1,4 @@
----
-description: This tutorial will guide you to create extensions for Makeroid.
----
-
-# Create Extensions
+# Creating Extensions
 
 {% hint style="info" %}
 This guide assumes you to be a Windows user.

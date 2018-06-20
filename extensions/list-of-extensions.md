@@ -1,4 +1,4 @@
-# Extensions
+# List of Extensions
 
 ### List of extensions for Makeroid
 

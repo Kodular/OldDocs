@@ -1,4 +1,4 @@
-# Release Notes (Beta Versions)
+# Old Release Notes
 
 ## 3.0.0 _Beta_
 
