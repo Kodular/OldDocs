@@ -1,3 +1,7 @@
+---
+description: Welcome to Makeroid Documentation!
+---
+
 # Introduction
 
 Need some help with the components? Just looking around? Either way, the following docs will surely help you understand Makeroid better!
