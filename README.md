@@ -54,7 +54,7 @@ For further help, please visit the [Makeroid Community](https://community.makero
 * [Backpack](other/backpack.md)
 * [Release Notes](other/release-notes/)
   * [Makeroid Andromeda](other/release-notes/andromeda.md#1-0-andromeda-or-22-june-2018)
-  * [Old Release Notes](other/release-notes/old-release-notes.md)
+  * [Old Release Notes](other/release-notes/beta.md)
 * [Resources](other/resources/)
   * [Concept Cards](other/resources/concept-cards.md)
 * [Terms of Service](other/terms-of-service.md)

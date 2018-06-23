@@ -154,8 +154,8 @@
 
 * [Backpack](other/backpack.md)
 * [Release Notes](other/release-notes/README.md)
-  * [Makeroid Andromeda](other/release-notes/andromeda.md)
-  * [Old Release Notes](other/release-notes/old-release-notes.md)
+  * [Andromeda](other/release-notes/andromeda.md)
+  * [Beta Versions](other/release-notes/beta.md)
 * [Resources](other/resources/README.md)
   * [Concept Cards](other/resources/concept-cards.md)
 * [Terms of Service](other/terms-of-service.md)
