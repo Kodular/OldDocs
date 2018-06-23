@@ -150,7 +150,7 @@
 ## Other
 
 * [Release Notes](other/release-notes/README.md)
-  * [Builder Release Notes](other/release-notes/release-notes.md)
+  * [Makeroid Andromeda](other/release-notes/andromeda.md)
   * [Old Release Notes](other/release-notes/old-release-notes.md)
 * [Backpack](other/backpack.md)
 * [Terms of Service](other/terms-of-service.md)
