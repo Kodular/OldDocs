@@ -140,7 +140,10 @@
 
 ## Testing
 
-* [Live Development](testing/live-development.md)
+* [Live Development](testing/live-development/README.md)
+  * [Via WiFi](testing/live-development/via-wifi.md)
+  * [Via USB](testing/live-development/via-usb.md)
+* [Makeroid Companion](https://play.google.com/store/apps/details?id=io.makeroid.companion)
 
 ## Extensions
 
@@ -149,9 +152,9 @@
 
 ## Other
 
+* [Backpack](other/backpack.md)
 * [Release Notes](other/release-notes/README.md)
   * [Makeroid Andromeda](other/release-notes/andromeda.md)
   * [Old Release Notes](other/release-notes/old-release-notes.md)
-* [Backpack](other/backpack.md)
 * [Terms of Service](other/terms-of-service.md)
 

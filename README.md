@@ -38,7 +38,7 @@ For further help, please visit the [Makeroid Community](https://community.makero
 
 #### Testing
 
-* [Live Development](testing/live-development.md)
+* [Live Development](testing/live-development/)
 
 ## Extensions
 
