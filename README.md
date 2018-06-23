@@ -51,12 +51,14 @@ For further help, please visit the [Makeroid Community](https://community.makero
 
 #### Other
 
+* [Backpack](other/backpack.md)
 * [Release Notes](other/release-notes/)
   * [Makeroid Andromeda](other/release-notes/andromeda.md#1-0-andromeda-or-22-june-2018)
   * [Old Release Notes](other/release-notes/old-release-notes.md)
-* [Backpack](other/backpack.md)
-* [Donate](https://paypal.me/Makeroid)
+* [Resources](other/resources/)
+  * [Concept Cards](other/resources/concept-cards.md)
 * [Terms of Service](other/terms-of-service.md)
+* [Donate!](https://paypal.me/Makeroid)
 
 ## Makeroid
 
