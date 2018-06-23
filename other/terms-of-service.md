@@ -127,5 +127,7 @@ You agree to defend, hold harmless and indemnify Makeroid, and its subsidiaries,
 
 **Choice of Law/Forum Selection.** You agree that any dispute arising out of or relating to these Terms or any content posted to a Site will be governed by the laws of the Commonwealth of Massachusetts, excluding its conflicts of law provisions. You further consent to the personal jurisdiction of and exclusive venue in the federal and state courts located in and serving Boston, Massachusetts as the legal forum for any such dispute.
 
-Effective Date: June 21, 2018.
+{% hint style="info" %}
+**Effective Date:** June 21, 2018.
+{% endhint %}
 
