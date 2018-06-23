@@ -6,11 +6,11 @@ This guide assumes you to be a Windows user.
 
 ## Tools you will need:
 
-* [ ] [App Inventor Sources ](https://github.com/mit-cml/appinventor-sources)
-* [ ] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [ ] [Apache Ant](http://ant.apache.org/bindownload.cgi)
-* [ ] [Git](https://git-scm.com/downloads) \(or [GitHub Desktop](https://desktop.github.com/)\)
-* [ ] Java IDE/Text Editor \([VS Code](https://code.visualstudio.com), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org), [Atom](https://atom.io/) are recommended\)
+* [x] [App Inventor Sources ](https://github.com/mit-cml/appinventor-sources)
+* [x] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [x] [Apache Ant](http://ant.apache.org/bindownload.cgi)
+* [x] [Git](https://git-scm.com/downloads) \(or [GitHub Desktop](https://desktop.github.com/)\)
+* [x] Java IDE/Text Editor \([VS Code](https://code.visualstudio.com), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org), [Atom](https://atom.io/) are recommended\)
 
 {% hint style="info" %}
 **Download everything listed above and let's get started!**
