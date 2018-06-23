@@ -47,9 +47,9 @@ For further help, please visit the [Makeroid Community](https://community.makero
 
 #### Other
 
-* [Release Notes](https://github.com/Makeroid/docs/tree/8609f64f83b3466366789db53cc692caa9d8789d/other/release-notes/README.md)
-  * [Release Notes](https://github.com/Makeroid/docs/tree/8609f64f83b3466366789db53cc692caa9d8789d/other/release-notes/builder.md)
-  * [Old Release Notes](https://github.com/Makeroid/docs/tree/8609f64f83b3466366789db53cc692caa9d8789d/other/release-notes/beta.md)
+* [Release Notes](other/release-notes/)
+  * [Makeroid Andromeda](other/release-notes/andromeda.md#1-0-andromeda-or-22-june-2018)
+  * [Old Release Notes](other/release-notes/old-release-notes.md)
 * [Backpack](other/backpack.md)
 * [Donate](https://paypal.me/Makeroid)
 * [Terms of Service](other/terms-of-service.md)
