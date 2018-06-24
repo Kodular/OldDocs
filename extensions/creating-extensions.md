@@ -1,20 +1,20 @@
 # Creating Extensions
 
 {% hint style="info" %}
-This guide assumes you to be a Windows user.
+**Now you can just skip this tutorial and paste your code in** [**Makeroid IDE**](https://ide.makeroid.io)**!**
 {% endhint %}
 
-## Tools you will need:
+## Tools you will need
+
+{% hint style="warning" %}
+This guide assumes you to be a **Windows** user.
+{% endhint %}
 
 * [x] [App Inventor Sources ](https://github.com/mit-cml/appinventor-sources)
 * [x] [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [x] [Apache Ant](http://ant.apache.org/bindownload.cgi)
 * [x] [Git](https://git-scm.com/downloads) \(or [GitHub Desktop](https://desktop.github.com/)\)
 * [x] Java IDE/Text Editor \([VS Code](https://code.visualstudio.com), [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Notepad++](https://notepad-plus-plus.org), [Atom](https://atom.io/) are recommended\)
-
-{% hint style="info" %}
-**Download everything listed above and let's get started!**
-{% endhint %}
 
 ## Step 1: Setting up Java JDK
 
