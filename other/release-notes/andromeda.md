@@ -241,3 +241,30 @@ description: Release Notes for Makeroid Andromeda
   * `Requires Charging` _Customizable from Blocks_ ![image](https://community.makeroid.io/uploads/default/original/2X/b/b0d7185d2cbfdd833d7aa7c6a8ca61737c809dae.png)  
   * `Requires Device Idle` _Customizable from Blocks_ ![image](https://community.makeroid.io/uploads/default/original/2X/f/f22c7dc033713aa8362b3521f40a4290ac1d094b.png)
 
+## 1.0.1 Andromeda   \|   _23 June 2018_
+
+### Bugs Fixed
+
+* Fixed: Download app scannign QR Code \(_missing GPlay update, probably tomorrow it will be live\)_
+* Fixed: “Create” block from “FAB” was crashing companion if there was no image added
+* Fixed: ListViews
+* Fixed: Random crashes using some components
+
+## 1.0.2 Andromeda   \|   _28 June 2018_
+
+### New Blocks
+
+* Added **RemoveSideMenu** block to _Screen_
+
+### Bugs Fixed
+
+* Temporarily removed Import/Export screen feature
+* Removed “wait for milliseconds” block
+* Fixed: Server error that sometimes happened when copying screens
+* Fixed: Copied screens couldn’t be opened
+* Fixed: Errors with extensions
+* Fixed: Some issues with Leadbolt component
+* Fixed: Sizing issues with CardView component
+* Fixed: TitleBar Subtitle not updating on the companion when subtitle removed
+* Fixed: Some issues with ListViewImageText
+
