@@ -268,3 +268,31 @@ description: Release Notes for Makeroid Andromeda
 * Fixed: TitleBar Subtitle not updating on the companion when subtitle removed
 * Fixed: Some issues with ListViewImageText
 
+
+
+## 1.0.3 Andromeda   \|   _19 June 2018_
+
+### UI Changes
+
+* Added “_Import Project_” button on Projects Panel
+* Added “_Loading Project_” dialog
+* Imported _Turkish Translation_ to Blockly
+* Fixed some Descriptions for some components which had a larger font
+* Made ScrollBar of Palette thicker
+
+### Companion
+
+* Added missing “:” to IP Address Label
+
+### New Features
+
+* Added “Show Ad” block for _Facebook Interstitial Ad_ component
+* _CloudDB_ component now handles images
+
+### Bugs Fixed
+
+* _NullPointer Exception_ on some Alerts
+* _NullPointer Exception_ on GetUserId of PushNotifications
+* _Button_ Size wasn’t affected if Shape was set
+* _Facebook Interstitial Ad_ should be working now
+
