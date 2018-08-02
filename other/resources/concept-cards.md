@@ -1,7 +1,3 @@
----
-description: Makeroid Concept Cards
----
-
 # Concept Cards
 
 {% hint style="info" %}

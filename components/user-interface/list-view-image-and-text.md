@@ -8,73 +8,73 @@ This is a visible component that displays a list of a image and two labels
 
 The background color of the listview
 
-![](/assets/user-interface/list-view-image-and-text/BackgroundColor.PNG)
+![](../../.gitbook/assets/backgroundcolor.PNG)
 
 ### Divider Color
 
 The color of the divider between listitems.
 
-![](/assets/user-interface/list-view-image-and-text/DividerColor.PNG)
+![](../../.gitbook/assets/dividercolor.PNG)
 
 ### Height
 
 Determines the height of the list on the view.
 
-![](/assets/user-interface/list-view-image-and-text/Height.PNG)
+![](../../.gitbook/assets/height.PNG)
 
 ### Item Size
 
-The size of the items in the list (1 = Normal, 2 = Small and 3 = Big).
+The size of the items in the list \(1 = Normal, 2 = Small and 3 = Big\).
 
-![](/assets/user-interface/list-view-image-and-text/ItemSize.PNG)
+![](../../.gitbook/assets/itemsize.PNG)
 
 ### Subtitle Bold
 
 Whether the subtitle is bold.
 
-![](/assets/user-interface/list-view-image-and-text/SubtitleBold.PNG)
+![](../../.gitbook/assets/subtitlebold.PNG)
 
 ### Subtitle Color
 
 The text color of the subtitle.
 
-![](/assets/user-interface/list-view-image-and-text/SubtitleColor.PNG)
+![](../../.gitbook/assets/subtitlecolor.PNG)
 
 ### Subtitle Italic
 
 Whether the subtitle is italic.
 
-![](/assets/user-interface/list-view-image-and-text/SubtitleItalic.PNG)
+![](../../.gitbook/assets/subtitleitalic.PNG)
 
 ### Title Bold
 
 Whether the title is bold.
 
-![](/assets/user-interface/list-view-image-and-text/TitleBold.PNG)
+![](../../.gitbook/assets/titlebold.PNG)
 
 ### Title Color
 
 The text color of the title.
 
-![](/assets/user-interface/list-view-image-and-text/TitleColor.PNG)
+![](../../.gitbook/assets/titlecolor.PNG)
 
 ### Title Italic
 
 Whether the title is italic.
 
-![](/assets/user-interface/list-view-image-and-text/TitleItalic.PNG)
+![](../../.gitbook/assets/titleitalic.PNG)
 
 ### Visible
 
 Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
-![](/assets/user-interface/list-view-image-and-text/Visible.PNG)
+![](../../.gitbook/assets/visible.PNG)
 
 ### Width
 
 Determines the width of the list on the view.
 
-![](/assets/user-interface/list-view-image-and-text/Width.PNG)
+![](../../.gitbook/assets/width.PNG)
 
 ## Methods
 
@@ -82,31 +82,31 @@ Determines the width of the list on the view.
 
 Add a item to the listview from 3 pieces of text.
 
-![](/assets/user-interface/list-view-image-and-text/AddItem.PNG)
+![](../../.gitbook/assets/additem.PNG)
 
 ### Add Item From List\(list\)
 
 Add a item to the listview with the content of a list.
 
-![](/assets/user-interface/list-view-image-and-text/AddItemFromList.PNG)
+![](../../.gitbook/assets/additemfromlist.PNG)
 
 ### Clear List\(\)
 
 Remove all items from the list.
 
-![](/assets/user-interface/list-view-image-and-text/ClearList.PNG)
+![](../../.gitbook/assets/clearlist.PNG)
 
 ### Remove Item\(positon\)
 
 Remove an item from the list at a certain position.
 
-![](/assets/user-interface/list-view-image-and-text/RemoveItem.PNG)
+![](../../.gitbook/assets/removeitem.PNG)
 
 ### Update Item\(image, title, subtitle\)
 
 Update the image, title and subtitle of a item in the list by the position.
 
-![](/assets/user-interface/list-view-image-and-text/UpdateItem.PNG)
+![](../../.gitbook/assets/updateitem.PNG)
 
 ## Events
 
@@ -114,10 +114,11 @@ Update the image, title and subtitle of a item in the list by the position.
 
 An event that triggers when the user clicks on a item in the list.
 
-![](/assets/user-interface/list-view-image-and-text/Click.PNG)
+![](../../.gitbook/assets/click.PNG)
 
 ### Long Click\(\)
 
 An event that triggers when the user long clicks on a item in the list.
 
-![](/assets/user-interface/list-view-image-and-text/LongClick.PNG)
+![](../../.gitbook/assets/longclick.PNG)
+
