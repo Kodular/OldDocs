@@ -10,6 +10,7 @@ The components in the User Interface section are used to interact with the app u
 * [**Label**](label.md)
 * [**List Picker**](list-picker.md)
 * [**List View**](list-view.md)
+* [**List View Image and Text**](list-view-image-and-text.md)
 * [**Notifier**](notifier.md)
 * [**Radio Button**](radio-button.md)
 * [**Rating Bar**](rating-bar.md)
