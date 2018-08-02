@@ -11,6 +11,7 @@
     * [Label](components/user-interface/label.md)
     * [List Picker](components/user-interface/list-picker.md)
     * [List View](components/user-interface/list-view.md)
+    * [List View Image and Text](components/user-interface/list-view-image-and-text.md)
     * [Notifier](components/user-interface/notifier.md)
     * [Radio Button](components/user-interface/radio-button.md)
     * [Rating Bar](components/user-interface/rating-bar.md)
