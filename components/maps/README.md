@@ -1,6 +1,6 @@
 # Maps
 
-Maps Components are features for 'Google Maps' component. functions.
+Maps Components are features for 'Maps' component.
 
 * [**Circle**](circle.md)
 * [**Feature Collection**](feature-collection.md)
