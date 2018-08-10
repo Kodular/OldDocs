@@ -5,6 +5,7 @@ The components in the Media section are usefull tools for the user to make many 
 * [**Audio Picker**](audio-picker.md)
 * [**Camcorder**](camcorder.md)
 * [**Camera**](camera.md)
+* [**ExoPlayer**](exoplayer.md)
 * [**Image Picker**](image-picker.md)
 * [**Metadata**](metadata.md)
 * [**OCR**](ocr.md)
@@ -16,4 +17,5 @@ The components in the Media section are usefull tools for the user to make many 
 * [**Text To Speech**](text-to-speech.md)
 * [**Video Player**](video-player.md)
 * [**Yandex Translate**](yandex-translate.md)
+* [**Youtube Player**](youtube-player.md)
 
