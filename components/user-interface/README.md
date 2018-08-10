@@ -2,12 +2,15 @@
 
 The components in the User Interface section are used to interact with the app user. Commonly used components are buttons and text boxes. Click on a component below to know more about it.
 
+* [**Bottom Sheet**](bottom-sheet.md)
 * [**Button**](button.md)
 * [**Checkbox**](checkbox.md)
+* [**Circular Progress**](circular-progress.md)
 * [**Date Picker**](date-picker.md)
-* [**Floating Button**](floating-button.md)
+* [**Floating Action Button**](floating-button.md)
 * [**Image**](image.md)
 * [**Label**](label.md)
+* [**Linear Progress**](linear-progress.md)
 * [**List Picker**](list-picker.md)
 * [**List View**](list-view.md)
 * [**List View Image and Text**](list-view-image-and-text.md)
@@ -15,10 +18,13 @@ The components in the User Interface section are used to interact with the app u
 * [**Radio Button**](radio-button.md)
 * [**Rating Bar**](rating-bar.md)
 * [**Slider**](slider.md)
-* [**Surface View**](surface-view.md)
+* [**Snackbar**](snackbar.md)
 * [**Spinner**](spinner.md)
+* [**Spotlight**](spotlight.md)
 * [**Switch**](switch.md)
+* [**Tab Layout**](tablayout.md)
 * [**Textbox**](textbox.md)
 * [**Time Picker**](time-picker.md)
+* [**View Flipper**](view-flipper.md)
+* [**View Pager**](view-pager.md)
 * [**Web Viewer**](web-viewer.md)
-
